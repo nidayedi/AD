@@ -1,7 +1,8 @@
 import requests
+from sqlalchemy import null
 
 
-def filter_and_log_duplicates(urls, output_file, log_file):
+def filter_and_log_duplicates(urls, output_file):
     unique_rules = set()  # 用于存储第一次匹配的规则
     duplicates = set()  # 用于存储出现重复的规则
     output_lines = []  # 用于保持所有行（保留顺序，包括注释和规则）
@@ -44,17 +45,16 @@ def filter_and_log_duplicates(urls, output_file, log_file):
             f.write(line + "\n")  # 把输出内容逐行写入
 
     # 将重复的规则写入到日志文件
-    with open(log_file, 'w', encoding='utf-8') as log:
-        total_duplicates = len(duplicates)  # 统计总计重复的规则数量
-        log.write("Duplicate Rules (ignored occurrences after the first):\n")
-        for rule in sorted(duplicates):  # 重复规则按字典序保存
-            log.write(f"{rule}\n")
-        log.write(f"\nTotal distinct duplicates: {total_duplicates}\n")
+    # with open(log_file, 'w', encoding='utf-8') as log:
+    #     total_duplicates = len(duplicates)  # 统计总计重复的规则数量
+    #     log.write("Duplicate Rules (ignored occurrences after the first):\n")
+    #     for rule in sorted(duplicates):  # 重复规则按字典序保存
+    #         log.write(f"{rule}\n")
+    #     log.write(f"\nTotal distinct duplicates: {total_duplicates}\n")
 
     # 提示任务完成
     print("Processing complete!")
     print(f"Processed content saved to {output_file}")
-    print(f"Duplicate information saved to {log_file}")
 
 
 # 从urls.txt文件中读取URL列表
@@ -70,7 +70,6 @@ except FileNotFoundError:
     exit(1)
 
 output_file_path = 'output.txt'  # 最终去重后保存的输出文件
-log_file_path = 'duplicates.log'  # 保存重复内容及统计的日志文件
 
 # 调用函数处理
-filter_and_log_duplicates(urls, output_file_path, log_file_path)
+filter_and_log_duplicates(urls, output_file_path)

@@ -24,7 +24,7 @@ def filter_and_log_duplicates(urls, output_file, log_file):
                     continue
 
                 # 从第13行开始去重处理
-                if line_number >= 13:
+                if line_number >= 1:
                     # 如果当前行已存在于集合中，记录为重复
                     if line in unique_rules:
                         duplicates.add(line)
@@ -57,13 +57,18 @@ def filter_and_log_duplicates(urls, output_file, log_file):
     print(f"Duplicate information saved to {log_file}")
 
 
-# 使用示例
-urls = [
-    "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"
-    # "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
-    # "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt",
-    # 这里可以继续添加更多网址
-]
+# 从urls.txt文件中读取URL列表
+urls = []
+try:
+    with open('urls.txt', 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):  # 忽略空行和注释行
+                urls.append(line)
+except FileNotFoundError:
+    print("错误: 找不到 urls.txt 文件")
+    exit(1)
+
 output_file_path = 'output.txt'  # 最终去重后保存的输出文件
 log_file_path = 'duplicates.log'  # 保存重复内容及统计的日志文件
 

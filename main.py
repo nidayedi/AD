@@ -1,5 +1,4 @@
 import requests
-from sqlalchemy import null
 
 
 def filter_and_log_duplicates(urls, output_file):

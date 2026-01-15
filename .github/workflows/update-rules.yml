@@ -6,6 +6,9 @@ on:
     - cron: '0 19 * * *'
   workflow_dispatch: # 允许手动触发
 
+permissions:
+  contents: write
+
 jobs:
   update-rules:
     runs-on: ubuntu-latest

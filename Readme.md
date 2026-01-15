@@ -1,3 +1,9 @@
+# 订阅地址：
+
+```html
+https://github.com/nidayedi/AD/raw/refs/heads/main/output.txt
+```
+
 # 广告过滤规则自动更新
 
 个人使用Python脚本对网络规则进行去重，并生成新的规则文件。
@@ -8,32 +14,15 @@
 - 从多个URL获取广告过滤规则
 - 自动去除重复规则
 - 生成包含统计信息的输出文件
-- 支持定时自动更新
-
-## 项目结构
-
-- `main.py`: 主要处理脚本
-- `urls.txt`: 包含规则源URL的文件
-- `.github/workflows/update-rules.yml`: GitHub Actions自动化工作流
-- `output.txt`: 生成的去重后规则文件（由脚本自动生成）
-
-## 自动更新
-
-本项目配置了GitHub Actions，会按照以下计划自动运行：
-- 每天北京时间凌晨4点（UTC时间19:00）自动更新规则
-- 如果检测到规则有变化，则自动提交更新
+- 每天自动更新
 
 ## 手动更新
 
 您可以随时手动运行以下命令来更新规则：
 
-```bash
-python main.py
-```
+## 规则源地址
 
-## 添加新的规则源
-
-编辑 `urls.txt` 文件，每行添加一个规则源URL。
+编辑 `urls.txt` 文件，每行添加一个规则源URL。（**欢迎大家前来补充**）
 
 ## 输出文件说明
 

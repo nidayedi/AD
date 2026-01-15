@@ -26,7 +26,8 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
-        
+        pip install pytz
+
     - name: Run adblock rules update script
       run: python main.py
       

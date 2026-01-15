@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt

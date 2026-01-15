@@ -1,6 +1,7 @@
 import requests
 import os
-from datetime import datetime
+from datetime import datetime, timezone
+import pytz
 
 
 def filter_and_log_duplicates(urls, output_file):
@@ -40,7 +41,9 @@ def filter_and_log_duplicates(urls, output_file):
             print(f"Error fetching URL ({url}): {e}")
 
     # 添加更新时间戳和其他元数据到输出文件的最上方
-    header_info = f"! Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (Beijing Time)\n"
+    beijing_tz = pytz.timezone('Asia/Shanghai')
+    beijing_time = datetime.now(beijing_tz)
+    header_info = f"! Generated on {beijing_time.strftime('%Y-%m-%d %H:%M:%S')} (Beijing Time)\n"
     header_info += f"! Total rules: {len(unique_rules)}\n"
     header_info += f"! Duplicates removed: {len(duplicates)}\n\n"
 

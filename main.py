@@ -1,4 +1,6 @@
 import requests
+import os
+from datetime import datetime
 
 
 def filter_and_log_duplicates(urls, output_file):
@@ -10,7 +12,7 @@ def filter_and_log_duplicates(urls, output_file):
         print(f"Fetching rules from: {url}")
         try:
             # 从指定网址获取内容（下载）
-            response = requests.get(url)
+            response = requests.get(url, timeout=30)
             response.raise_for_status()  # 检查请求是否成功
             lines = response.text.splitlines()  # 逐行拆分内容
 
@@ -18,13 +20,12 @@ def filter_and_log_duplicates(urls, output_file):
             for line_number, line in enumerate(lines, start=1):
                 line = line.strip()  # 去掉空格和换行符
 
-                # 把注释行（以 `!---` 开头）直接保留
-                if line.startswith('!---'):
-                    output_lines.append(line)
+                # 把注释行（以 `!` 或 `#` 开头）直接删除
+                if line.startswith('!') or line.startswith('#'):
                     continue
 
-                # 从第13行开始去重处理
-                if line_number >= 1:
+                # 从第1行开始去重处理
+                if line_number >= 2:
                     # 如果当前行已存在于集合中，记录为重复
                     if line in unique_rules:
                         duplicates.add(line)
@@ -38,22 +39,23 @@ def filter_and_log_duplicates(urls, output_file):
         except requests.exceptions.RequestException as e:
             print(f"Error fetching URL ({url}): {e}")
 
+    # 添加更新时间戳和其他元数据到输出文件的最上方
+    header_info = f"! Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (Beijing Time)\n"
+    header_info += f"! Total rules: {len(unique_rules)}\n"
+    header_info += f"! Duplicates removed: {len(duplicates)}\n\n"
+
     # 将处理后的规则保存到输出文件
     with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(header_info)  # 首先写入头部信息
         for line in output_lines:
-            f.write(line + "\n")  # 把输出内容逐行写入
-
-    # 将重复的规则写入到日志文件
-    # with open(log_file, 'w', encoding='utf-8') as log:
-    #     total_duplicates = len(duplicates)  # 统计总计重复的规则数量
-    #     log.write("Duplicate Rules (ignored occurrences after the first):\n")
-    #     for rule in sorted(duplicates):  # 重复规则按字典序保存
-    #         log.write(f"{rule}\n")
-    #     log.write(f"\nTotal distinct duplicates: {total_duplicates}\n")
+            if line:  # 只写入非空行
+                f.write(line + "\n")  # 把输出内容逐行写入
 
     # 提示任务完成
     print("Processing complete!")
     print(f"Processed content saved to {output_file}")
+    print(f"Total unique rules: {len(unique_rules)}")
+    print(f"Duplicates found: {len(duplicates)}")
 
 
 # 从urls.txt文件中读取URL列表
@@ -68,7 +70,7 @@ except FileNotFoundError:
     print("错误: 找不到 urls.txt 文件")
     exit(1)
 
-output_file_path = 'output.txt'  # 最终去重后保存的输出文件
+output_file_path = os.getenv('OUTPUT_FILE', 'output.txt')  # 可通过环境变量自定义输出文件名
 
 # 调用函数处理
 filter_and_log_duplicates(urls, output_file_path)

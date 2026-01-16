@@ -6,9 +6,11 @@ from datetime import datetime, timezone
 import pytz
 from ipaddress import ip_address
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import threading
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
 import multiprocessing
+from multiprocessing import Manager
+import threading
+from tqdm import tqdm
 
 
 def extract_domain_from_rule(rule):
@@ -398,18 +400,8 @@ def classify_single_rule_optimized(rule_data):
     return rule, result
 
 
-def classify_rules_by_location(rules, max_workers=64):
-    """对规则列表进行分类，使用多线程优化"""
-    print("Step 2: Classifying rules by location...")
-    
-    # 如果未指定线程数，则使用CPU核心数的2倍作为默认值
-    if max_workers is None:
-        max_workers = min(len(rules), multiprocessing.cpu_count() * 2)
-        # 确保至少有1个线程，最多不超过20个线程
-        max_workers = max(1, min(max_workers, 20))
-    
-    print(f"Using {max_workers} threads for classification")
-    
+def classify_rules_batch(rules_batch, progress_dict=None, batch_id=None):
+    """对一批规则进行分类，返回分类结果"""
     cn_rules = []
     foreign_rules = []
     unknown_rules = []
@@ -430,28 +422,153 @@ def classify_rules_by_location(rules, max_workers=64):
     with UNRESOLVED_DOMAINS_LOCK:
         UNRESOLVED_DOMAINS_SET.update(unresolved_domains)
 
-    # 使用线程池并行处理规则
-    rules_with_cache = [(rule, processed_domains_cache) for rule in rules]
+    # 使用线程池处理这一批规则
+    rules_with_cache = [(rule, processed_domains_cache) for rule in rules_batch]
+    total_rules = len(rules_batch)
     
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        # 提交所有任务
-        futures = [executor.submit(classify_single_rule_optimized, rule_data) for rule_data in rules_with_cache]
-        
-        # 收集结果
-        for idx, future in enumerate(as_completed(futures)):
-            if idx % 1000 == 0:
-                print(f"  Classified {idx}/{len(rules)} rules...")
+    # 创建内部进度条
+    with tqdm(total=total_rules, desc=f"Batch {batch_id+1} progress", leave=False) as batch_pbar:
+        with ThreadPoolExecutor(max_workers=min(len(rules_batch), 5)) as executor:
+            # 提交所有任务
+            futures = [executor.submit(classify_single_rule_optimized, rule_data) for rule_data in rules_with_cache]
             
-            rule, classification = future.result()
-            
-            if classification == 'CN':
-                cn_rules.append(rule)
-            elif classification == 'Foreign':
-                foreign_rules.append(rule)
-            else:
-                unknown_rules.append(rule)
+            # 收集结果
+            completed_count = 0
+            for idx, future in enumerate(as_completed(futures)):
+                rule, classification = future.result()
+                
+                if classification == 'CN':
+                    cn_rules.append(rule)
+                elif classification == 'Foreign':
+                    foreign_rules.append(rule)
+                else:
+                    unknown_rules.append(rule)
+                
+                completed_count += 1
+                
+                # 更新进度字典
+                if progress_dict is not None and batch_id is not None:
+                    progress_dict[batch_id] = completed_count
+                
+                # 更新进度条
+                batch_pbar.update(1)
+                if completed_count % 1000 == 0:  # 每处理1000条规则更新一次附加信息
+                    batch_pbar.set_postfix({'CN': len(cn_rules), 'Foreign': len(foreign_rules), 'Unknown': len(unknown_rules)})
 
     return cn_rules, foreign_rules, unknown_rules
+
+
+def classify_rules_by_location(rules, max_workers=None, use_multiprocess=False):
+    """对规则列表进行分类，可以选择使用多线程或多重进程优化"""
+    print("Step 2: Classifying rules by location...")
+    total_rules = len(rules)
+    
+    # 如果使用多进程模式
+    if use_multiprocess and len(rules) > 10000:
+        print(f"Using multiprocess mode for {len(rules)} rules")
+        
+        # 每10万条规则创建一个进程
+        batch_size = 100000
+        num_batches = (len(rules) + batch_size - 1) // batch_size  # 向上取整
+        
+        # 确定进程数
+        if max_workers is None:
+            max_workers = min(num_batches, multiprocessing.cpu_count())
+        
+        print(f"Splitting rules into {num_batches} batches with {max_workers} processes")
+        
+        # 分割规则列表为批次
+        rule_batches = [rules[i:i + batch_size] for i in range(0, len(rules), batch_size)]
+        
+        # 使用进程池处理批次
+        cn_rules = []
+        foreign_rules = []
+        unknown_rules = []
+        
+        # 创建进度条
+        with tqdm(total=len(rule_batches), desc="Processing batches") as pbar:
+            # 提交任务并跟踪进度
+            with ProcessPoolExecutor(max_workers=max_workers) as executor:
+                # 提交所有批次任务
+                future_to_batch = {executor.submit(classify_rules_batch, batch, None, i): i for i, batch in enumerate(rule_batches)}
+                
+                completed_count = 0
+                total_batches = len(rule_batches)
+                
+                # 收集结果
+                for future in as_completed(future_to_batch):
+                    batch_id = future_to_batch[future]
+                    try:
+                        batch_cn, batch_foreign, batch_unknown = future.result()
+                        cn_rules.extend(batch_cn)
+                        foreign_rules.extend(batch_foreign)
+                        unknown_rules.extend(batch_unknown)
+                        
+                        completed_count += 1
+                        batch_size_actual = len(rule_batches[batch_id])
+                        pbar.set_postfix({'Batch size': batch_size_actual, 'Completed': f'{completed_count}/{total_batches}'})
+                        pbar.update(1)
+                    except Exception as exc:
+                        print(f"  Batch {batch_id+1} generated an exception: {exc}")
+                        pbar.update(1)
+        
+        return cn_rules, foreign_rules, unknown_rules
+    else:
+        # 如果未启用多进程或规则较少，使用原来的多线程方式
+        if max_workers is None:
+            max_workers = min(len(rules), multiprocessing.cpu_count() * 2)
+            # 确保至少有1个线程，最多不超过20个线程
+            max_workers = max(1, min(max_workers, 20))
+        
+        print(f"Using {max_workers} threads for classification")
+        
+        cn_rules = []
+        foreign_rules = []
+        unknown_rules = []
+        processed_domains_cache = {}  # 记录已处理的域名及其位置，避免重复查询
+        
+        # 尝试加载未解析域名列表
+        unresolved_domains = set()
+        try:
+            with open('unresolved_domains.txt', 'r', encoding='utf-8') as f:
+                for line in f:
+                    domain = line.strip()
+                    if domain:
+                        unresolved_domains.add(domain)
+        except FileNotFoundError:
+            pass  # 如果文件不存在，继续执行
+
+        # 将未解析域名添加到全局集合
+        with UNRESOLVED_DOMAINS_LOCK:
+            UNRESOLVED_DOMAINS_SET.update(unresolved_domains)
+
+        # 使用线程池并行处理规则
+        rules_with_cache = [(rule, processed_domains_cache) for rule in rules]
+        
+        # 创建进度条
+        with tqdm(total=len(rules), desc="Classifying rules") as pbar:
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                # 提交所有任务
+                futures = [executor.submit(classify_single_rule_optimized, rule_data) for rule_data in rules_with_cache]
+                
+                # 收集结果
+                completed_count = 0
+                for idx, future in enumerate(as_completed(futures)):
+                    rule, classification = future.result()
+                    
+                    if classification == 'CN':
+                        cn_rules.append(rule)
+                    elif classification == 'Foreign':
+                        foreign_rules.append(rule)
+                    else:
+                        unknown_rules.append(rule)
+                    
+                    completed_count += 1
+                    pbar.update(1)
+                    if completed_count % 5000 == 0:  # 每处理5000条规则更新一次附加信息
+                        pbar.set_postfix({'CN': len(cn_rules), 'Foreign': len(foreign_rules), 'Unknown': len(unknown_rules)})
+
+        return cn_rules, foreign_rules, unknown_rules
 
 
 def load_existing_rules():
@@ -571,7 +688,7 @@ def filter_and_classify_rules(urls):
         return old_cn_rules, old_foreign_rules, old_unknown_rules, 0, all_unique_rules
     
     # 对新规则进行分类
-    new_cn_rules, new_foreign_rules, new_unknown_rules = classify_rules_by_location(new_rules, max_workers=None)
+    new_cn_rules, new_foreign_rules, new_unknown_rules = classify_rules_by_location(new_rules, max_workers=None, use_multiprocess=True)
     
     # 加载旧的规则分类（如果文件存在）
     all_cn_rules = []
@@ -761,30 +878,39 @@ DNS_CACHE_LOCK = threading.Lock()
 IP_LOCATION_CACHE_LOCK = threading.Lock()
 UNRESOLVED_DOMAINS_LOCK = threading.Lock()
 
-# 从urls.txt文件中读取URL列表
-urls = []
-try:
-    with open('urls.txt', 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if line and not line.startswith('#'):  # 忽略空行和注释行
-                urls.append(line)
-except FileNotFoundError:
-    print("错误: 找不到 urls.txt 文件")
-    exit(1)
 
-print(f"Found {len(urls)} URLs to process")
+def main():
+    # 从urls.txt文件中读取URL列表
+    urls = []
+    try:
+        with open('urls.txt', 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):  # 忽略空行和注释行
+                    urls.append(line)
+    except FileNotFoundError:
+        print("错误: 找不到 urls.txt 文件")
+        exit(1)
+    
+    print(f"Found {len(urls)} URLs to process")
+    
+    # 调用函数处理并分类规则
+    cn_rules, foreign_rules, unknown_rules, dup_count, all_unique_rules = filter_and_classify_rules(urls)
+    
+    # 保存所有去重后的规则到output目录
+    save_all_rules_to_output(all_unique_rules)
+    
+    # 保存分类后的规则
+    save_classified_rules(cn_rules, foreign_rules, unknown_rules, dup_count)
+    
+    # 保存无法解析的域名
+    save_unresolved_domains()
+    
+    print("\nProcessing complete! Rules have been classified and saved to respective directories.")
 
-# 调用函数处理并分类规则
-cn_rules, foreign_rules, unknown_rules, dup_count, all_unique_rules = filter_and_classify_rules(urls)
 
-# 保存所有去重后的规则到output目录
-save_all_rules_to_output(all_unique_rules)
-
-# 保存分类后的规则
-save_classified_rules(cn_rules, foreign_rules, unknown_rules, dup_count)
-
-# 保存无法解析的域名
-save_unresolved_domains()
-
-print("\nProcessing complete! Rules have been classified and saved to respective directories.")
+if __name__ == '__main__':
+    # Windows平台需要添加此保护，以避免递归创建子进程
+    import multiprocessing
+    multiprocessing.freeze_support()  # 可选，用于可执行文件冻结支持
+    main()

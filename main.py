@@ -2,6 +2,7 @@ import os
 import re
 import socket
 import threading
+import multiprocessing
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
 from datetime import datetime
 from ipaddress import ip_address
@@ -283,7 +284,7 @@ def get_domain_ips(domain):
 
     try:
         # 设置socket超时
-        socket.setdefaulttimeout(3)  # 3秒超时
+        socket.setdefaulttimeout(1)  # 1秒超时，加快处理速度
         # 获取域名的所有IP地址
         result = socket.getaddrinfo(domain, None, socket.AF_INET)  # 仅IPv4
         ips = list(set([res[4][0] for res in result]))  # 去重
@@ -458,14 +459,14 @@ def classify_single_rule_optimized(rule_data):
     return rule, result
 
 
-def classify_rules_batch(rules_batch, progress_dict=None, batch_id=None):
-    """对一批规则进行分类，返回分类结果"""
+def classify_rules_batch_optimized(args):
+    """对一批规则进行分类，返回分类结果 - 优化版本，接受单个参数以支持多进程"""
+    rules_batch, batch_id, total_batches = args
     cn_rules = []
     foreign_rules = []
     unknown_rules = []
-    processed_domains_cache = {}  # 记录已处理的域名及其位置，避免重复查询
+    processed_domains_cache = {}
 
-    # 尝试加载未解析域名列表
     unresolved_domains = set()
     try:
         with open('unresolved_domains.txt', 'r', encoding='utf-8') as f:
@@ -474,25 +475,26 @@ def classify_rules_batch(rules_batch, progress_dict=None, batch_id=None):
                 if domain:
                     unresolved_domains.add(domain)
     except FileNotFoundError:
-        pass  # 如果文件不存在，继续执行
+        pass
 
-    # 将未解析域名添加到全局集合
     with UNRESOLVED_DOMAINS_LOCK:
         UNRESOLVED_DOMAINS_SET.update(unresolved_domains)
 
-    # 使用线程池处理这一批规则
     rules_with_cache = [(rule, processed_domains_cache) for rule in rules_batch]
     total_rules = len(rules_batch)
 
-    # 创建内部进度条
-    with tqdm(total=total_rules, desc=f"Batch {batch_id + 1} progress", leave=False) as batch_pbar:
-        with ThreadPoolExecutor(max_workers=min(len(rules_batch), 5)) as executor:
-            # 提交所有任务
-            futures = [executor.submit(classify_single_rule_optimized, rule_data) for rule_data in rules_with_cache]
+    # 创建内部进度条 - 为每个进程指定唯一的位置
+    batch_pbar = tqdm(total=total_rules, desc=f"Batch-{batch_id}", position=0, leave=True)
+    try:
+        with ThreadPoolExecutor(max_workers=min(len(rules_batch), 10)) as executor:
+            futures = {executor.submit(classify_single_rule_optimized, rule_data): idx for idx, rule_data in
+                       enumerate(rules_with_cache)}
 
-            # 收集结果
             completed_count = 0
-            for idx, future in enumerate(as_completed(futures)):
+            last_update = 0
+            update_interval = max(1, total_rules // 100)
+
+            for future in as_completed(futures):
                 try:
                     rule, classification = future.result()
 
@@ -505,18 +507,21 @@ def classify_rules_batch(rules_batch, progress_dict=None, batch_id=None):
 
                     completed_count += 1
 
-                    # 更新进度字典
-                    if progress_dict is not None and batch_id is not None:
-                        progress_dict[batch_id] = completed_count
-
-                    # 更新进度条
-                    batch_pbar.update(1)
-                    if completed_count % 1000 == 0:  # 每处理1000条规则更新一次附加信息
+                    if completed_count - last_update >= update_interval:
                         batch_pbar.set_postfix(
-                            {'CN': len(cn_rules), 'Foreign': len(foreign_rules), 'Unknown': len(unknown_rules)})
+                            {'CN': len(cn_rules), 'F': len(foreign_rules), 'U': len(unknown_rules)})
+                        batch_pbar.update(completed_count - last_update)
+                        last_update = completed_count
                 except Exception as e:
-                    print(f"Error processing rule: {e}")
+                    tqdm.write(f"Error processing rule in batch {batch_id}: {e}")
                     continue
+
+            if completed_count > last_update:
+                batch_pbar.set_postfix(
+                    {'CN': len(cn_rules), 'F': len(foreign_rules), 'U': len(unknown_rules)})
+                batch_pbar.update(completed_count - last_update)
+    finally:
+        batch_pbar.close()
 
     return cn_rules, foreign_rules, unknown_rules
 
@@ -530,60 +535,71 @@ def classify_rules_by_location(rules, max_workers=None, use_multiprocess=False):
     if use_multiprocess and len(rules) > 10000:
         print(f"Using multiprocess mode for {len(rules)} rules")
 
-        # 每10万条规则创建一个进程
-        batch_size = 100000
-        num_batches = (len(rules) + batch_size - 1) // batch_size  # 向上取整
-
-        # 确定进程数
+        # 根据总规则数和进程数动态计算批次大小，使每个进程处理大致相等的数量
         if max_workers is None:
-            max_workers = min(num_batches, multiprocessing.cpu_count())
+            num_processes = min((len(rules) + 9999) // 10000, multiprocessing.cpu_count() * 4)  # 基于总数估算所需进程数
+            num_processes = max(1, min(num_processes, 32))  # 限制最大进程数
+        else:
+            num_processes = max_workers
+        
+        batch_size = (len(rules) + num_processes - 1) // num_processes  # 每个进程处理的平均数量
+        num_batches = num_processes
+        
+        # 确定进程数 - 根据项目配置设置为CPU核心数的4倍
+        if max_workers is None:
+            max_workers = min(num_batches, multiprocessing.cpu_count() * 4)  # 设置为CPU核心数的4倍
+            max_workers = max(1, min(max_workers, 32))  # 限制最大进程数以避免资源竞争
+        
+        print(f"Calculated batch size: {batch_size} rules per batch for {num_batches} batches")
 
         print(f"Splitting rules into {num_batches} batches with {max_workers} processes")
 
         # 分割规则列表为批次
         rule_batches = [rules[i:i + batch_size] for i in range(0, len(rules), batch_size)]
 
+        # 准备参数列表
+        batch_args = [(batch, i, num_batches) for i, batch in enumerate(rule_batches)]
+
         # 使用进程池处理批次
         cn_rules = []
         foreign_rules = []
         unknown_rules = []
 
-        # 创建进度条
-        with tqdm(total=len(rule_batches), desc="Processing batches") as pbar:
-            # 提交任务并跟踪进度
-            with ProcessPoolExecutor(max_workers=max_workers) as executor:
-                # 提交所有批次任务
-                future_to_batch = {executor.submit(classify_rules_batch, batch, None, i): i for i, batch in
-                                   enumerate(rule_batches)}
+        # 提交任务并跟踪进度
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
+            # 提交所有批次任务
+            future_to_batch = {executor.submit(classify_rules_batch_optimized, arg): arg[1] for arg in batch_args}
 
-                completed_count = 0
-                total_batches = len(rule_batches)
+            completed_count = 0
+            total_batches = len(rule_batches)
 
-                # 收集结果
-                for future in as_completed(future_to_batch):
-                    batch_id = future_to_batch[future]
-                    try:
-                        batch_cn, batch_foreign, batch_unknown = future.result()
-                        cn_rules.extend(batch_cn)
-                        foreign_rules.extend(batch_foreign)
-                        unknown_rules.extend(batch_unknown)
+            # 收集结果
+            for future in as_completed(future_to_batch):
+                batch_id = future_to_batch[future]
+                try:
+                    batch_cn, batch_foreign, batch_unknown = future.result()
+                    cn_rules.extend(batch_cn)
+                    foreign_rules.extend(batch_foreign)
+                    unknown_rules.extend(batch_unknown)
 
-                        completed_count += 1
-                        batch_size_actual = len(rule_batches[batch_id])
-                        pbar.set_postfix(
-                            {'Batch size': batch_size_actual, 'Completed': f'{completed_count}/{total_batches}'})
-                        pbar.update(1)
-                    except Exception as exc:
-                        print(f"  Batch {batch_id + 1} generated an exception: {exc}")
-                        pbar.update(1)
+                    completed_count += 1
+                    # 输出进度信息，但不使用进度条
+                    if completed_count % max(1, total_batches // 10) == 0:  # 每10%输出一次
+                        tqdm.write(f"Processed {completed_count}/{total_batches} batches - CN: {len(cn_rules)}, F: {len(foreign_rules)}, U: {len(unknown_rules)}")
+                except Exception as exc:
+                    tqdm.write(f"  Batch {batch_id + 1} generated an exception: {exc}")
+
+        # 在所有子进程完成后，等待一小段时间让进度条正确刷新
+        import time
+        time.sleep(0.1)
 
         return cn_rules, foreign_rules, unknown_rules
     else:
         # 如果未启用多进程或规则较少，使用原来的多线程方式
         if max_workers is None:
-            max_workers = min(len(rules), multiprocessing.cpu_count() * 2)
-            # 确保至少有1个线程，最多不超过20个线程
-            max_workers = max(1, min(max_workers, 20))
+            max_workers = min(len(rules), multiprocessing.cpu_count() * 4)  # 设置为CPU核心数的4倍
+            # 确保至少有1个线程，最多不超过50个线程
+            max_workers = max(1, min(max_workers, 50))
 
         print(f"Using {max_workers} threads for classification")
 
@@ -611,7 +627,7 @@ def classify_rules_by_location(rules, max_workers=None, use_multiprocess=False):
         rules_with_cache = [(rule, processed_domains_cache) for rule in rules]
 
         # 创建进度条
-        with tqdm(total=len(rules), desc="Classifying rules") as pbar:
+        with tqdm(total=len(rules), desc="Classifying rules", position=0, leave=True, ascii=False, ncols=100, dynamic_ncols=True) as pbar:
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
                 # 提交所有任务
                 futures = [executor.submit(classify_single_rule_optimized, rule_data) for rule_data in rules_with_cache]
@@ -630,12 +646,14 @@ def classify_rules_by_location(rules, max_workers=None, use_multiprocess=False):
                             unknown_rules.append(rule)
 
                         completed_count += 1
-                        pbar.update(1)
-                        if completed_count % 5000 == 0:  # 每处理5000条规则更新一次附加信息
+                        # 每处理一定数量的规则更新一次附加信息，避免过度更新
+                        if completed_count % max(1, len(rules) // 20) == 0:  # 每5%更新一次
                             pbar.set_postfix(
-                                {'CN': len(cn_rules), 'Foreign': len(foreign_rules), 'Unknown': len(unknown_rules)})
+                                {'CN': len(cn_rules), 'F': len(foreign_rules), 'U': len(unknown_rules)})
+                        pbar.update(1)
                     except Exception as e:
-                        print(f"Error processing rule: {e}")
+                        tqdm.write(f"Error processing rule: {e}")
+                        pbar.update(1)  # 即使出错也要更新进度条
                         continue
 
         return cn_rules, foreign_rules, unknown_rules
@@ -647,10 +665,10 @@ def load_existing_rules():
 
     # 尝试加载所有现有的规则文件
     output_files = [
-        'output/all_rules.txt',
-        'domestic/cn_rules.txt',
-        'foreign/foreign_rules.txt',
-        'unknown_rules.txt'
+        'output/all_rules.txt'
+        # 'domestic/cn_rules.txt',
+        # 'foreign/foreign_rules.txt',
+        # 'unknown_rules.txt'
     ]
 
     for file_path in output_files:
@@ -673,17 +691,17 @@ def load_existing_rules():
             # 如果文件不存在，继续处理下一个
             continue
 
-    print(f"Loaded {len(existing_rules)} existing rules for incremental update")
+    print(f"加载 {len(existing_rules)} 现有的增量更新规则")
     return existing_rules
 
 
 def collect_and_deduplicate_new_rules(urls, existing_rules):
     """收集新规则并去除已存在的规则"""
-    print("Step 1: Collecting new rules and removing existing ones...")
+    print("Step 1: 收集新规则并取消现有规则...")
     new_rules = set()
 
     for url_idx, url in enumerate(urls):
-        print(f"Fetching rules from: {url} ({url_idx + 1}/{len(urls)})")
+        print(f"获取数据: {url} ({url_idx + 1}/{len(urls)})")
         try:
             response = requests.get(url, timeout=30)
             response.raise_for_status()
@@ -720,7 +738,7 @@ def filter_and_classify_rules(urls):
     new_rules = collect_and_deduplicate_new_rules(urls, existing_rules)
 
     if not new_rules:
-        print("No new rules found. Nothing to process.")
+        print("未发现新的规则")
         # 即使没有新规则，也需要加载现有的分类结果
         old_cn_rules = []
         old_foreign_rules = []
@@ -953,6 +971,41 @@ UNRESOLVED_DOMAINS_LOCK = threading.Lock()
 MAX_CACHE_SIZE = 100000  # 最大缓存条目数
 
 
+def preload_common_domains(urls, preload_count=100):
+    """预加载常见域名到缓存中，提高处理速度"""
+    print(f"Preloading top {preload_count} domains for DNS cache...")
+    
+    # 收集常见域名
+    common_domains = set()
+    for url_idx, url in enumerate(urls):
+        if len(common_domains) >= preload_count:
+            break
+        try:
+            response = requests.get(url, timeout=10)
+            response.raise_for_status()
+            lines = response.text.splitlines()
+            
+            for line in lines:
+                if len(common_domains) >= preload_count:
+                    break
+                rule = line.strip()
+                if rule and not rule.startswith('!') and not rule.startswith('#'):
+                    domain = extract_domain_from_rule(rule)
+                    if domain and domain not in common_domains:
+                        common_domains.add(domain)
+        except Exception as e:
+            print(f"Warning: Error preloading from {url}: {e}")
+            continue
+    
+    # 预加载这些域名到DNS缓存
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = [executor.submit(get_domain_ips, domain) for domain in common_domains]
+        for i, future in enumerate(as_completed(futures)):
+            if i % 20 == 0:  # 每处理20个域名打印一次进度
+                print(f"  Preloaded {i}/{len(common_domains)} domains")
+    print(f"Preloaded {len(common_domains)} domains to DNS cache")
+
+
 def main():
     # 从urls.txt文件中读取URL列表
     urls = []
@@ -967,6 +1020,9 @@ def main():
         exit(1)
 
     print(f"Found {len(urls)} URLs to process")
+    
+    # 预加载常见域名到缓存中
+    preload_common_domains(urls)
 
     # 调用函数处理并分类规则
     cn_rules, foreign_rules, unknown_rules, dup_count, all_unique_rules = filter_and_classify_rules(urls)

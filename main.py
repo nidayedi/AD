@@ -1,15 +1,13 @@
-import requests
 import os
-import socket
 import re
-from datetime import datetime, timezone
-import pytz
-from ipaddress import ip_address
-import time
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
-import multiprocessing
-from multiprocessing import Manager
+import socket
 import threading
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
+from datetime import datetime
+from ipaddress import ip_address
+
+import pytz
+import requests
 from tqdm import tqdm
 
 

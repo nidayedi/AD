@@ -1,7 +1,7 @@
-! Update on 2026-01-19 10:45:45 (Beijing Time)
-! Generated on 2026-01-19 10:45:45 (Beijing Time)
+! Update on 2026-01-20 03:14:43 (Beijing Time)
+! Generated on 2026-01-20 03:14:43 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27184
+! Total domestic rules: 27219
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27187,3 +27187,38 @@ duba.com##.newslist > .news_ctm_wrap:has(> .ctm_ad)
 ||api.mumu.nie.netease.com/api/v*/campaign/
 ||store-api.mumu.163.com/api/desktop/search_bar_apps
 ||store-api.mumu.163.com/api/desktop/ad_apps
+||rtb-eu.blastmedia.site^
+||click-eu-v4.plarclck.com^
+||rtb-eu-v4.axiombid.com^
+||rtb-eu.wecall-server.com^
+||rtb-apac-v4.blutonic.net^
+@@||mxomo.com^$image,stealth=referrer,domain=kxo.moe
+||xml-eu.frequency33media.com^
+@@||moex.ink^$image,stealth=referrer,domain=kxo.moe
+||rtb-eu-v4.blastmedia.site^
+||filter-eu.qovolta.com^
+||nfksjkfs.com^
+||filter-eu.3mads.com^
+||xml-eu-v4.adlunar.com^
+||tq-eu.bocdos-4.online^
+||click-eu-v4.exxmnclckn.com^
+||xml-eu-v4.bocdos-4.online^
+||rtb-eu.adtapmedia.com^
+||filter-eu.frequency33media.com^
+||xml-eu.grantdk-2.online^
+||rtb-eu.logicalmind.online^
+||rtb-eu-v4.wecall-server.com^
+||filter-eu.creziamedia.com^
+||rtb-apac-v4.hueadsortb.com^
+||xml-eu.popviking.com^
+||filter-eu.srvqck27.com^
+||xml-eu-v4.revantagex.com^
+@@||hpa.gov.tw^$stealth=dpi
+||rtb-eu.yieldoz.com^
+||xml-eu-v4.bocdos-2.online^
+||xml-eu-v4.icdsoap-1.online^
+||xml-eu.bocdos-4.online^
+||filter-eu.yieldoz.com^
+||xml-eu.edgexml.com^
+||rtb-eu.axiombid.com^
+||rtb-eu-v4.logicalmind.online^

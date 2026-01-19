@@ -1,7 +1,7 @@
-! Update on 2026-01-19 10:07:00 (Beijing Time)
-! Generated on 2026-01-19 10:07:00 (Beijing Time)
+! Update on 2026-01-19 10:33:10 (Beijing Time)
+! Generated on 2026-01-19 10:33:10 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27179
+! Total domestic rules: 27184
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27182,3 +27182,8 @@ news.cnyes.com##.a133dm9s
 ||mydrivers.com/m/images/v1/kkjapp_down.gif
 sports.qq.com#@#.txp_ad_center
 duba.com##.newslist > .news_ctm_wrap:has(> .ctm_ad)
+||mumu.nie.netease.com/api/campaign/
+||api.mumu.nie.netease.com/api/v*/campaign_label
+||api.mumu.nie.netease.com/api/v*/campaign/
+||store-api.mumu.163.com/api/desktop/search_bar_apps
+||store-api.mumu.163.com/api/desktop/ad_apps

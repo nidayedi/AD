@@ -1,7 +1,7 @@
-! Update on 2026-01-19 10:07:00 (Beijing Time)
-! Generated on 2026-01-19 10:07:00 (Beijing Time)
+! Update on 2026-01-19 10:33:10 (Beijing Time)
+! Generated on 2026-01-19 10:33:10 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 176315
+! Total foreign rules: 176322
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -176318,3 +176318,10 @@ emulatorgames.net#?#.eg-list > .eg-incontent > .text-center > .eg-label:contains
 ||taginova.xyz^$popup
 ||images.mail-fellowesbrands.com^
 ||access.skaparade.com^
+||felinaewush.cyou^
+||orcucyrfp.com^
+||kogajgxguzaxk.space^
+||jauxwbemesivn.online^
+||qhsebegxeicom.online^
+||vkkqylhklrwuj.website^
+||yknhfifccqozk.space^

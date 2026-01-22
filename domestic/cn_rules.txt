@@ -1,7 +1,7 @@
-! Update on 2026-01-22 03:21:06 (Beijing Time)
-! Generated on 2026-01-22 03:21:06 (Beijing Time)
+! Update on 2026-01-23 03:19:38 (Beijing Time)
+! Generated on 2026-01-23 03:19:38 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27219
+! Total domestic rules: 27228
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27222,3 +27222,12 @@ duba.com##.newslist > .news_ctm_wrap:has(> .ctm_ad)
 ||xml-eu.edgexml.com^
 ||rtb-eu.axiombid.com^
 ||rtb-eu-v4.logicalmind.online^
+||xvbwjd.icu^
+||6spczz2hj1.com^
+cool-style.com.tw#$#replace-outbound-value 'atob''c3RyaW5n''false'
+||innveu2ji6.com^
+||vpxyw6rbv3.com^
+||em7ky342lo.com^
+||lyk35otqfm.com^
+pressian.com#$#replace-outbound-value 'atob''c3RyaW5n''false'
+||vkoq4kyzmj.com^

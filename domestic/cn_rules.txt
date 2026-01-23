@@ -1,7 +1,7 @@
-! Update on 2026-01-23 03:19:38 (Beijing Time)
-! Generated on 2026-01-23 03:19:38 (Beijing Time)
+! Update on 2026-01-24 03:19:55 (Beijing Time)
+! Generated on 2026-01-24 03:19:55 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27228
+! Total domestic rules: 27233
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27231,3 +27231,8 @@ cool-style.com.tw#$#replace-outbound-value 'atob''c3RyaW5n''false'
 ||lyk35otqfm.com^
 pressian.com#$#replace-outbound-value 'atob''c3RyaW5n''false'
 ||vkoq4kyzmj.com^
+||etff5y04k.com^
+||oqvodgp36.com^
+||vbw3q6jxn.com^
+||1fp9k4zrm.com^
+||p2muoczf5.com^

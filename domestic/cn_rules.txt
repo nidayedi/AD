@@ -1,7 +1,7 @@
-! Update on 2026-01-24 03:19:55 (Beijing Time)
-! Generated on 2026-01-24 03:19:55 (Beijing Time)
+! Update on 2026-01-25 03:11:38 (Beijing Time)
+! Generated on 2026-01-25 03:11:38 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27233
+! Total domestic rules: 27239
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27236,3 +27236,9 @@ pressian.com#$#replace-outbound-value 'atob''c3RyaW5n''false'
 ||vbw3q6jxn.com^
 ||1fp9k4zrm.com^
 ||p2muoczf5.com^
+||8k69vb6421.com^
+||2fjxw3dyip.com^
+||rgoxcknehm.com^
+gumtree.com.au###FUSE_HP_SEARCH_DWEB
+||6n528aywi9.com^
+||35kjurwwb6.com^

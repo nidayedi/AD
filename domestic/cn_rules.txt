@@ -1,7 +1,7 @@
-! Update on 2026-01-26 03:11:42 (Beijing Time)
-! Generated on 2026-01-26 03:11:42 (Beijing Time)
+! Update on 2026-01-27 03:18:54 (Beijing Time)
+! Generated on 2026-01-27 03:18:54 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27254
+! Total domestic rules: 27269
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27257,3 +27257,18 @@ gumtree.com.au###FUSE_HP_SEARCH_DWEB
 ||19dkfu1wg.com^
 ||rtb-eu.fmlabsonline.com^
 ||cp7iys8fp.com^
+phimvuihd.net#$#override-property-read urlAds ''
+||rtb-eu-v4.yieldoz.com^
+||tq-eu.icdsoap-1.online^
+||filter-eu.adlunar.com^
+||rtb-apac-v4.saroadexchange.com^
+||twa735xojg.com^
+||o0rnzwzst5.com^
+||rzjdsm7tgz.com^
+||xml-eu.dollopsdigital.com^
+||hcl6pwowqv.com^
+||xml-eu.icdsoap-1.online^
+||click-eu-v4.exppmnclk.com^
+||3dle4u60y7.com^
+||sqmn4wncty.com^
+||xml-eu.boffoadsfeeds.com^

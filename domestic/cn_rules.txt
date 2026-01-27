@@ -1,7 +1,7 @@
-! Update on 2026-01-27 03:18:54 (Beijing Time)
-! Generated on 2026-01-27 03:18:54 (Beijing Time)
+! Update on 2026-01-28 03:21:34 (Beijing Time)
+! Generated on 2026-01-28 03:21:34 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27269
+! Total domestic rules: 27277
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27272,3 +27272,11 @@ phimvuihd.net#$#override-property-read urlAds ''
 ||3dle4u60y7.com^
 ||sqmn4wncty.com^
 ||xml-eu.boffoadsfeeds.com^
+||adx-strategy-api-cn.statisticslinks.com^
+||wm0qv5zg3.com^
+||tuiguang.meitu.com^
+||oj2c0dkk4.com^
+||lp780937a.com^
+||tagtic.cn^
+||77zdmt8yq.com^
+||gtj1myjla.com^

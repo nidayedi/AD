@@ -1,7 +1,7 @@
-! Update on 2026-01-28 03:21:34 (Beijing Time)
-! Generated on 2026-01-28 03:21:34 (Beijing Time)
+! Update on 2026-01-29 03:20:50 (Beijing Time)
+! Generated on 2026-01-29 03:20:50 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27277
+! Total domestic rules: 27287
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27280,3 +27280,13 @@ phimvuihd.net#$#override-property-read urlAds ''
 ||tagtic.cn^
 ||77zdmt8yq.com^
 ||gtj1myjla.com^
+||224oztn8dq.com^
+xiazai.zol.com.cn##div[onclick^="zol_niux_tongji"]
+||6acupxubky.com^
+||16xxq8lb4g.com^
+||2xx63f0bfy.com^
+||m3ks1o8jz.com^
+xiazai.zol.com.cn##.soft-summary__buttons > div[style^="width"]:not([class])
+||a.stateless.me^
+||nyv388w6lc.com^
+||k0winsnua2.com^

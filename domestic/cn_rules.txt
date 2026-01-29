@@ -1,7 +1,7 @@
-! Update on 2026-01-29 03:20:50 (Beijing Time)
-! Generated on 2026-01-29 03:20:50 (Beijing Time)
+! Update on 2026-01-30 03:25:19 (Beijing Time)
+! Generated on 2026-01-30 03:25:19 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27287
+! Total domestic rules: 27293
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27290,3 +27290,9 @@ xiazai.zol.com.cn##.soft-summary__buttons > div[style^="width"]:not([class])
 ||a.stateless.me^
 ||nyv388w6lc.com^
 ||k0winsnua2.com^
+||7asx1bxaw.com^
+||z1e2vp1gw.com^
+||9vmbje748.com^
+||azb6ljd22.com^
+||4667gwyg1.com^
+||n5a92p9zo.com^

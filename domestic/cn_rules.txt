@@ -1,7 +1,7 @@
-! Update on 2026-01-30 03:25:19 (Beijing Time)
-! Generated on 2026-01-30 03:25:19 (Beijing Time)
+! Update on 2026-01-31 03:26:30 (Beijing Time)
+! Generated on 2026-01-31 03:26:30 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27293
+! Total domestic rules: 27301
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27296,3 +27296,11 @@ xiazai.zol.com.cn##.soft-summary__buttons > div[style^="width"]:not([class])
 ||azb6ljd22.com^
 ||4667gwyg1.com^
 ||n5a92p9zo.com^
+shoot-yalla.live,adnews.me,koora.golato.tv##+js(addEventListener-defuser, load, ofc9)
+||l9moubljmc.com^
+||9i5x05ovp7.com^
+||mias92zmaf.com^
+porntopic.com,sexwebvideo.com,camsexvideo.net###kt_player > .fp-player + a[href$="/?play=true"][target="_blank"][style]
+||xqmd2dzzvh.com^
+||iry7addri8.com^
+||n4kd6phdxw.com^

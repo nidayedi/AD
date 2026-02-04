@@ -1,7 +1,7 @@
-! Update on 2026-02-04 03:40:21 (Beijing Time)
-! Generated on 2026-02-04 03:40:21 (Beijing Time)
+! Update on 2026-02-05 03:33:57 (Beijing Time)
+! Generated on 2026-02-05 03:33:57 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27325
+! Total domestic rules: 27326
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27328,3 +27328,4 @@ kimi.com##.download-app-btn
 kimi.com##.download-button
 ||xml-eu-v4.icdsoap-2.online^
 ||xml-eu.icdsoap-2.online^
+v.qq.com##.client-loading-cta__btn

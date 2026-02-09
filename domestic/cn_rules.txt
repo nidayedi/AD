@@ -1,7 +1,7 @@
-! Update on 2026-02-09 03:19:51 (Beijing Time)
-! Generated on 2026-02-09 03:19:51 (Beijing Time)
+! Update on 2026-02-10 03:58:21 (Beijing Time)
+! Generated on 2026-02-10 03:58:21 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27330
+! Total domestic rules: 27331
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27333,3 +27333,4 @@ finance.yahoo.co.jp##li[class*="_InfiniteBbs__item--mmon_"]
 sports.yahoo.co.jp###ad-nm
 staticice.com.au##td[valign="middle"] .s_font[align="right"] > font:contains(/^advertisement$/)
 staticice.com.au##table[width="100%"] > tbody > tr > td[height="80"][valign="middle"][align="center"]:has(> table > tbody > tr  > .s_font)
+@@||d.socdm.com/adsv/*/tver_splive$xhr,domain=imasdk.googleapis.com

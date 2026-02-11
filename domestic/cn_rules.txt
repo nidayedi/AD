@@ -1,7 +1,7 @@
-! Update on 2026-02-11 03:56:57 (Beijing Time)
-! Generated on 2026-02-11 03:56:57 (Beijing Time)
+! Update on 2026-02-12 03:52:13 (Beijing Time)
+! Generated on 2026-02-12 03:52:13 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27335
+! Total domestic rules: 27341
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27338,3 +27338,9 @@ yasir252.com,hepidrive.online##+js(no-window-open-if)
 yasir252.com##+js(adjust-setInterval, countdown, , 0.02)
 yasir252.com#%#//scriptlet('adjust-setInterval', 'countdown', '', '0.02')
 yasir252.com##.clickHere
+cngold.org##.w310:has(>.swiper-company)
+cngold.org#?#.w310:-abp-has(>.swiper-company)
+||trfpump.com^$3p
+cngold.org#?#.w310:has(>.swiper-company)
+cngold.org##.mainRight > .border_top:first-child
+||dmym.fwol.cn^

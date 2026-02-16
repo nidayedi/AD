@@ -1,7 +1,7 @@
-! Update on 2026-02-16 03:19:45 (Beijing Time)
-! Generated on 2026-02-16 03:19:45 (Beijing Time)
+! Update on 2026-02-17 03:28:01 (Beijing Time)
+! Generated on 2026-02-17 03:28:01 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27348
+! Total domestic rules: 27377
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27351,3 +27351,32 @@ alions.pro,hgcloud.to,audinifer.com,hanerix.com##div[style^="position:fixed;inse
 ||80753325p.com^
 ||injuredripplegentleman.com^
 ||5w31xv1a2.com^
+||tq-eu.gtmxso-c.online^
+||xml-eu-v4.svdva-f.online^
+||tq-eu.svdva-e.online^
+@@||libs.baidu.com^$domain=zyywenxue.com|11bqg.com|xbotaodz.com|0794.org|12zw.net|1biqu.com|2kans.net|23hh.com|23sk.net|23wxx.com|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|99mk.net|aiwx.info|aixs.la|aikushuge.com|bequmo.com|bimixsw.com|biqivge.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|aidu123.com|biqutsxs.com|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.info|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|xvipxs.net|iwurexs.info|ixs.la|lewenge.cc|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|xbiquke.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
+||rtb-eu-v4.santaads.com^
+camwhores.video#%#//scriptlet('set-constant', 'flashvars.adv_postpause_src', '')
+||filter-eu.teriflicmedia.com^
+||xml-eu-v4.gtmxso-v.online^
+||xv62yli8iz.com^
+||xml-eu.icdsoap-4.online^
+||xml-eu-v4.svdva-g.online^
+||click-eu-v4.exppxxclck.com^
+||xml-eu-v4.blitzspectra.com^
+||xml-eu.gtmxso-c.online^
+camwhores.video##+js(set-constant, flashvars.adv_postpause_src, '')
+||filter-eu.advertoix.com^
+||xml-eu-v4.advertoix.com^
+||xml-eu-v4.icdsoap-4.online^
+||filter-eu.zeusadx.com^
+||xml-eu-v4.svdva-e.online^
+||4xdma060ad.com^
+||filter-eu.srvqck8.com^
+||xml-eu-v4.teriflicmedia.com^
+||xml-eu.svdva-g.online^
+||rtb-apac-v4.axiombid.com^
+||xml-eu-v4.visionpeakmedia.com^
+||tq-eu.svdva-g.online^
+||xml-eu-v4.gtmxso-c.online^
+||rtb-eu.convergeselect.com^

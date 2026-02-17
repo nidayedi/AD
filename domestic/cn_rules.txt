@@ -1,7 +1,7 @@
-! Update on 2026-02-17 03:28:01 (Beijing Time)
-! Generated on 2026-02-17 03:28:01 (Beijing Time)
+! Update on 2026-02-18 03:41:51 (Beijing Time)
+! Generated on 2026-02-18 03:41:51 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27377
+! Total domestic rules: 27381
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27380,3 +27380,7 @@ camwhores.video##+js(set-constant, flashvars.adv_postpause_src, '')
 ||tq-eu.svdva-g.online^
 ||xml-eu-v4.gtmxso-c.online^
 ||rtb-eu.convergeselect.com^
+||szjbo9a13.com^
+||629jpgi3i.com^
+@@||faiusr.com^$image,stealth=referrer
+dualeotruyenvh.com#$#abort-current-inline-script document.addEventListener popunder

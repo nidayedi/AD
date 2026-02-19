@@ -1,7 +1,7 @@
-! Update on 2026-02-19 03:42:19 (Beijing Time)
-! Generated on 2026-02-19 03:42:19 (Beijing Time)
+! Update on 2026-02-20 03:34:33 (Beijing Time)
+! Generated on 2026-02-20 03:34:33 (Beijing Time)
 ! Unresolved domains that could not be resolved to IP addresses
-! Total unresolved domains: 3791
+! Total unresolved domains: 3859
 
 ! Generated on 2026-01-19 10:45:45 (Beijing Time)
 ! Generated on 2026-01-20 03:14:43 (Beijing Time)
@@ -33,6 +33,7 @@
 ! Generated on 2026-02-16 03:19:45 (Beijing Time)
 ! Generated on 2026-02-17 03:28:01 (Beijing Time)
 ! Generated on 2026-02-18 03:41:51 (Beijing Time)
+! Generated on 2026-02-19 03:42:19 (Beijing Time)
 ! Total unresolved domains: 0
 ! Total unresolved domains: 1027
 ! Total unresolved domains: 1152
@@ -57,6 +58,7 @@
 ! Total unresolved domains: 358
 ! Total unresolved domains: 3635
 ! Total unresolved domains: 3729
+! Total unresolved domains: 3791
 ! Total unresolved domains: 465
 ! Total unresolved domains: 580
 ! Total unresolved domains: 672
@@ -94,9 +96,11 @@
 ! Update on 2026-02-16 03:19:45 (Beijing Time)
 ! Update on 2026-02-17 03:28:01 (Beijing Time)
 ! Update on 2026-02-18 03:41:51 (Beijing Time)
+! Update on 2026-02-19 03:42:19 (Beijing Time)
 025yimei.com
 06f864e06a.com
 0d9063412c.com
+106778d1a7.com
 10f8fc8a55.com
 11ov2377cwy5rtii.cfd
 13f75y9m2v21nu.cfd
@@ -109,6 +113,7 @@
 1p9i3v5kwynuc6k86.cfd
 1r6ruvi1iz8i7koueg.cfd
 1u928n9jpmbu5oge7lc39y1nct3zjc1z.rest
+1ug4kjo858fwzokkt4icgj8hq.rest
 1zfocgbctug6kuol46c7n.cfd
 21sq.org
 23hy2ojylhjgvrf7b7oogf9g.cfd
@@ -156,6 +161,7 @@
 3jia5.com
 3l6qgblpuqhkv3r.rest
 3lnj3qgcj6qtwwqgg2cvmen54n17xg1p.rest
+3p2n4ymcxzg1l1r5emt5l4rm2i.cfd
 3q8ochfkb5ulm.wxklomp82rv5z9znfb38xmf.cyou
 3rcf55feu2xbu95ghjk.51t4657yf85ym6xwn.cfd
 3vpb62tkymq85jj4fpw8yt7mnk.cfd
@@ -235,6 +241,7 @@
 8486y5ey3pwwng.cfd
 8624k9fmrcjn9vvup3.rest
 86vm4re7ljkg5c.rest
+877iqn1vkjncwy386u.rest
 8a6cc3f77f.com
 8c66b76e9b.com
 8crocoeukq9p2f3.rest
@@ -242,6 +249,7 @@
 8f8ol6j1o8nqwkr.rest
 8glhu7mf3o25317gwjx.rest
 8gvfwpjtm85w7n9bempynwvi3y9jowh8.rest
+8mjkpg7xtfjizvbge1nb2y6u6nmb3y596nb.rest
 8u341rglwjlyt68ro4hwbigmt3.cfd
 8yrkmox3hiwq375v.rest
 8z7u9hp771g4copqel.cfd
@@ -308,6 +316,7 @@ aestusproven.cyou
 afppcvyfyjs.com
 afqgqg4e.com
 afreetschutedbangos.qpon
+afymrrnsgbisl.xyz
 agbaploddedbewired.cyou
 agistoraprocta.cfd
 agl010.pro
@@ -466,6 +475,7 @@ b6b5o8vt8c6p8xxpcopc.cfd
 b6eogzhrzn9oqoh3x3.rest
 b7mtw8ionw6qoz8cu4g7xcpv.cfd
 b8e2af647f.com
+b90ff16eb6.com
 b967r4kkfczwnglihcng.rest
 bGFwb3N0ZS5uZXQ.js
 babyismseedkin.shop
@@ -489,6 +499,7 @@ barbellguidonvervel.cfd
 bardelbepelt.qpon
 bardesssimmonsdemency.cfd
 bardiersilexes.com
+barflyevolver.com
 barmaidguhr.shop
 barncalvity.shop
 barrageethan.cfd
@@ -507,6 +518,7 @@ bb88480f1d.com
 bbfkokl781mtf3b4.cfd
 bbxxcezfyxrcd.website
 bc6pwxee8u5r7vqlh3l8p.cfd
+bcekwxmi8uv1v3y8e6urgv16l.rest
 bd8cfb84ab.com
 bd92cdf877.com
 bdbktkyml.xyz
@@ -567,6 +579,7 @@ bibblenighing.shop
 bicescalashunwedge.cyou
 biddiesieringtowzie.cyou
 bidingdoating.cyou
+biggingfoxly.shop
 bilbirowet.cyou
 bilchflares.qpon
 biltongfoam.cyou
@@ -576,6 +589,7 @@ biotahanburygaen.cfd
 bipolarcyc.qpon
 birchsottagejacksaw.cfd
 birdeentecta.shop
+birderathole.shop
 birslefsiest.cfd
 bisquesplodge.qpon
 bitorecoins.qpon
@@ -673,8 +687,10 @@ bugs01231ko.com
 bugweedsewnthegns.cfd
 bugwortkedlock.cfd
 bullishfish.qpon
+bumpssn.cyou
 burbankiuus.shop
 burdencrusta.cfd
+burgersscathy.qpon
 burgsmithra.cfd
 burkitedullityswobbed.cfd
 burredyok.shop
@@ -926,6 +942,7 @@ cvye4w5jbolht3m6k.cfd
 cwtnivve32c4zqeu.rest
 cwvgwb3ye865xl.rest
 cxjhm26kb1wv1v.rest
+cyansknuth.com
 cyeu12yr4gzcv34km.rest
 cyl9l3yfzj5kjpl92.cfd
 cylfakyhloppf.space
@@ -934,6 +951,8 @@ cystsredbird.cfd
 cytodegoitres.cyou
 cytosthingedsuss.qpon
 czardomchicles.cfd
+czdjjwpslnfqx.online
+czl3onum44xnniuppe.rest
 czlytigsdousu.space
 czokcwkmkleuv.site
 daf-rs.com
@@ -993,6 +1012,7 @@ detestsficary.shop
 devoursaccedes.cfd
 dglolphknvk.xyz
 dgzzabttiharu.online
+dheblxw.com
 dhkqqe.top
 dhobiefoxshipwhimper.cyou
 dicconbumtrap.com
@@ -1046,6 +1066,7 @@ dreamiinyou.com
 droolyepacme.shop
 droversfeering.cfd
 drublylenemitanni.cfd
+drydvdtbufuidl.xyz
 dsectbaffler.qpon
 dsetx3.com
 dskkza.com
@@ -1148,6 +1169,7 @@ eoo4hjimvjnpty13cwn8lr7.rest
 epigoniranatra.com
 epilenmew.cyou
 episodemautherflirt.cyou
+epodespore.cyou
 eppieavowant.shop
 equaleddelly.qpon
 equisonhomodox.com
@@ -1187,6 +1209,7 @@ ewdegomme.com
 ewerfalk.qpon
 ewqrqjjnjiyvk.space
 ewtetortil.qpon
+excernquiffs.shop
 exertedbostalgaure.cfd
 expededmagsgrabber.cfd
 expirylutosetowan.cfd
@@ -1304,6 +1327,7 @@ fothergleave.qpon
 fouteodax.cfd
 foutredecode.qpon
 fovyoqbhjnpvr7.cfd
+fowentshaka.shop
 foxedhathi.cfd
 foxqamob.xyz
 fozyversor.cyou
@@ -1521,6 +1545,7 @@ guardeewansith.com
 guarshouser.com
 gudehornflobby.cyou
 gue41vovmtqnyxki974u.rest
+gugaldrownd.cfd
 guicfuapivt.xyz
 guilfatagelast.qpon
 gulpingoafsfifo.cfd
@@ -1587,6 +1612,7 @@ hemoidunkirk.qpon
 hempyhoker.qpon
 hennishthixle.cyou
 heoddikvdm.com
+herculean57.com
 herriedpalsies.cyou
 heshvancacajao.shop
 hetaeryperturb.qpon
@@ -1629,6 +1655,7 @@ hoggmeeters.com
 hoggytunduncarua.cyou
 hognutbennes.cfd
 hogtiesturret.com
+hoirms.com
 holilylf.qpon
 holloociders.shop
 homeredyoresruers.cyou
@@ -1967,6 +1994,7 @@ kxgytyvxucere.site
 kyloiutnlamqn.website
 kymrkkvptxpbby.xyz
 l3ghxxwyqu3jigxzhhlz6xz.rest
+l3qv7u9ju6b9exevk8hu2564zhieut.rest
 l4rly6rtukw1xy.rest
 labaarabrember.shop
 labiumrealise.shop
@@ -2021,6 +2049,7 @@ lepidpomps.com
 lepismamoonery.cyou
 lethalserth.shop
 levantsjarrypleon.cyou
+lfrehkm3i363vt4eq8r.cfd
 lftqjvpn1uyxhu32bnzygyk.rest
 lh1dki82.com
 lh64fybpjcpiko71zp.cfd
@@ -2034,9 +2063,11 @@ limacelatwite.shop
 limbeckinspire.cyou
 limbiclamdan.cfd
 limitsvila.com
+limpseyglob.cfd
 linerdyeswarn.cyou
 lingrestock.shop
 linguetglommox.shop
+linocutgashly.cfd
 lintolstelopea.qpon
 lipemiaknotteroffic.cyou
 liplesssaligot.com
@@ -2108,6 +2139,7 @@ m485oq2gym.top
 m5fmun8rb6ljnwj61n.rest
 m6g8uv8r1m4w9bctrw.cfd
 m84pwz8i6jke67.cfd
+m93ijm3p1jeypwrxjqtvh62kutrpyqb.cfd
 m9g5nqvt7h5v95.cfd
 maccoseethes.shop
 mackledxoanona.cyou
@@ -2124,6 +2156,7 @@ maimswilkin.cyou
 majaguaglumabegats.cyou
 majllyro.xyz
 makhzenthingal.cfd
+malaiserara.qpon
 malexpaycunbi.online
 malmtufted.cyou
 malocacomals.com
@@ -2133,6 +2166,7 @@ mammeyssurfuse.cyou
 mamotyhutchie.cfd
 manbriaunneathbrashes.cyou
 mancheoversaw.shop
+mandlenkischen.cyou
 mandorewaxhaw.qpon
 manettisebacic.cyou
 manganareseau.qpon
@@ -2166,6 +2200,7 @@ melodicbyrled.com
 meltethfulyie.qpon
 mengpandora.cfd
 menkindhamauls.cyou
+mensedphotic.cfd
 mentaryrewet.qpon
 meoweddrizzly.cyou
 mernrza.com
@@ -2200,6 +2235,7 @@ missaryfrieze.shop
 missionsalinas.cyou
 misusedhough.com
 miteredmyodesmucoids.cyou
+mitrafoxtail.shop
 mixhillhexer.cfd
 mjwzsnztryxal.website
 mkcokcdm.xyz
@@ -2228,6 +2264,7 @@ morchaetherol.shop
 morellelaccaseleve.cyou
 morellopoemlinge.qpon
 moriansoud.shop
+morningretag.cyou
 morraunboat.cyou
 mortarypickedkegling.cyou
 motleyamusers.shop
@@ -2265,6 +2302,7 @@ mvquiema.xyz
 mw1tcz3uvf8ygo1qyii.cfd
 mwmqsvslpdrfeh.xyz
 mxcontent.net
+mxvqy7p39jioyx1ig68ow9w.cfd
 myelinsflongamble.cyou
 myfz8f3lqm94b46p3yiq5.cfd
 myieldell.com
@@ -2280,6 +2318,7 @@ n55ylc001.vip
 n6in8ytttwelrrv6o.cfd
 n72vtcpjp1g24bjz.rest
 n7wrq5mv2g4gj4.rest
+n9pw8z8rb6t34179vq43z57cp1zi.cfd
 naamsurgedaeolia.cfd
 nachcogit.cfd
 naggingionizedflown.cyou
@@ -2325,6 +2364,7 @@ nirlessqueezy.shop
 nirlsephetichunfysh.cyou
 nisnorah.qpon
 nistquarry.qpon
+niterforeact.com
 niuyankan.top
 nixeaperchmeltage.cfd
 nj2nb3c1q5goi5.rest
@@ -2349,6 +2389,8 @@ nooksbidet.cyou
 nopalryknocks.shop
 nosegaytootled.qpon
 nosherastral.cfd
+nosierteens.com
+notdewbeam.cyou
 notifyfooty.cyou
 noveltyvirions.com
 npgjij.cn
@@ -2398,6 +2440,7 @@ olf9mppxtzmx3ll.rest
 ollamhgalesblasts.cyou
 omitsterid.cfd
 onerukh.com
+onlthqwg.xyz
 onyxesredug.cyou
 ooblastmisbedeeeriest.cyou
 oofkiouotayrk.space
@@ -2448,6 +2491,7 @@ ownnesspellile.shop
 owrelayzanzakermis.cyou
 owszrjqbitwjq.space
 ox133qqrz8v9oj.cfd
+ox6qoeg36fut1vlfooyq2vvtxhgcl.cfd
 oxlipsklicket.cfd
 oxpeueoq5bwgpqi5hk8wnzxmf8fucg9ft.cfd
 oxyzzhqipi85pu3u.rest
@@ -2570,6 +2614,7 @@ pitchcopaiba.cyou
 pitsidedonary.cyou
 pivalicguam.shop
 pixiessikatch.qpon
+pjisynlbtwnoqmd.xyz
 pjtlsfmqzytrh.website
 pk1cv2vyvthjuf.cfd
 pksjozyplea.cfd
@@ -2628,6 +2673,7 @@ preverbbumbass.cfd
 primageverbcoalbin.cfd
 primiarustle.shop
 pristine-departure.com
+prndgif.com
 probersouthueblastie.qpon
 process.js
 professatossainvites.cfd
@@ -2675,9 +2721,11 @@ pyrrhaglazensmatch.qpon
 pztlrwlznwbvb.online
 pzy.cyl9l3yfzj5kjpl92.cfd
 q2bgg5ewqe6u65uxrbu5r1p.rest
+q2q6hl5zq85kqxhnevot.rest
 q5r23e3n73okg76u.rest
 q8y3iqfxnib4xfxu7whpknmvbn.rest
 q97h1l5ktwg6w7ffhtp.rest
+q9efyh4bhwyiyp6.rest
 qbafglhl.xyz
 qbuuqckkgw.com
 qebbvfbwvisys.website
@@ -2698,6 +2746,7 @@ ql181i9foz886x4.cfd
 qlciukpiefevz.online
 qlfyxty3cipth18v1vfg.cfd
 qmccml1zemn8g41f2g9wh.cfd
+qmixurvclefru.online
 qmoqruden.com
 qmwmq6c5zvxpmyzehn6tl9nft2ltorn7u.cfd
 qneb.cn
@@ -2723,6 +2772,7 @@ qvvljwxaigbdu.site
 qxaz2xcw.com
 qxjvugdjhxjmm.site
 qxwoiv.com
+qypwiayveem.xyz
 r2g6xf3bkvxmlvvy2yj7uucyyk8xv.cfd
 r48vo3crt35h3r.rest
 r4y8c8f7oj1hx8mu.cfd
@@ -2743,6 +2793,7 @@ rarafavous.qpon
 rarietycaaba.com
 rasherscames.cyou
 rattitripos.cyou
+raxedmyopias.qpon
 razeantlikekvass.qpon
 razzedaurate.cfd
 rchnl62hlum6gmmgvtxz6545.cfd
@@ -2872,6 +2923,7 @@ rwec35g8m5w6cpl2rubv6lx.rest
 rwldfopjypomy.space
 rwtraqur.com
 rxbpvgbu5joumh41ktb4c1yuvb8.cfd
+rybatbunce.shop
 ryhvhudttdekx.online
 s7xrlzfa.top
 sabamoults.shop
@@ -2932,6 +2984,7 @@ scourerwolfenbehint.cyou
 scptp9.com
 scrayebummest.cyou
 scrimpylagune.cyou
+scripts.js
 scruffykepis.shop
 scubomyvrhifv.website
 scuddedbanglednannies.cyou
@@ -2959,6 +3012,7 @@ sepsinscentermimble.cfd
 sequarieversegued.qpon
 serinrazziasusliks.qpon
 serofossanephoca.cyou
+sertulespouty.cfd
 sertuleyatvyag.qpon
 serveryunmildmna.qpon
 servianpinangs.cfd
@@ -2996,6 +3050,7 @@ singedwispierschmoos.cfd
 sinoplemirkest.cyou
 siretarreswhisson.cyou
 sirexinward.cfd
+sirianbraided.shop
 sisleybowpots.cfd
 sitiohapax.qpon
 sixtesyellowyalkalic.cfd
@@ -3020,6 +3075,7 @@ slimdein.icu
 slitterarustleakala.cyou
 slobberuninert.shop
 sludgeaiwain.cyou
+smithsbotte.cfd
 smokilyunlap.cyou
 smudgyaunty.shop
 snabmettles.qpon
@@ -3046,6 +3102,7 @@ soigneejaggysubedit.cfd
 sojacortina.qpon
 sokamisima.com
 solariacorycia.qpon
+solionenzymes.com
 solonicprimly.shop
 solublychug.qpon
 solutionassassincatering.com
@@ -3119,6 +3176,7 @@ stunkfleasnought.cyou
 stuntednicht.com
 stuntedoldies.qpon
 sturthagdin.com
+styecohort.cyou
 styroltythe.com
 subgitpyrexicsmelled.qpon
 subiyakilim.qpon
@@ -3184,6 +3242,7 @@ talcsbernard.cyou
 talkshoodle.shop
 tamableperemptmiombo.qpon
 tambukipeag.cyou
+tangiekea.cyou
 tanikodolours.qpon
 taoistsbxs.shop
 tapirmercerykiddush.cyou
@@ -3319,6 +3378,7 @@ tuckytalefulclauber.cyou
 tuffsexhumer.shop
 tui.cnzz.net
 tularererangetspa.cyou
+tumbektowsy.qpon
 tumeporto.cyou
 tunfulopilia.shop
 tunkexodic.cyou
@@ -3391,6 +3451,7 @@ unclimbgrided.cyou
 undertow52.top
 undustbatete.cfd
 unfainfewsomeshowmen.qpon
+unfatedkhuzi.com
 unfeatyeyeroot.cyou
 unfencelumpens.cyou
 unfiredseax.shop
@@ -3444,6 +3505,7 @@ upwhelmdibbler.cyou
 uraemiapeage.cfd
 uribhrbx65u9xk1v9p7q.cfd
 uruguayhyoidesshilluk.cyou
+usruvfpf.xyz
 usuriespias.com
 uswsyzbbbhqsi.site
 utensilpousse.com
@@ -3538,6 +3600,7 @@ vowelsubnet.cyou
 vrmyrmjkp.xyz
 vrzbtcmdbzyiq.online
 vsrocuxqeop.com
+vstnbkruuiu.xyz
 vtbaclulxorj.xyz
 vtzvxuiye2xjejzpk6i6tbojhj2n8p.rest
 vucfgvhm.com
@@ -3559,11 +3622,13 @@ w2czcne5ogpzmerhg5.cfd
 w2le1o66k351rkzm8.cfd
 w4q5vne2okouzuyulnmtgo5pe2niiwzqtno.rest
 w4yb7hw3tnor3c.cfd
+w63eql6qoxqbco97xb7hlnkubni1.cfd
 w64ykf5y5qt5zr41q.cfd
 w7qngu4ehiwroxb.rest
 w8gmqhelyw41zto3.rest
 w9ey6ef3xemzuh.rest
 wacagokabab.cyou
+wagetsmiter.cfd
 walnutamyenamor.cyou
 waltzedtappingamid.cfd
 wangerstabile.com
@@ -3657,6 +3722,7 @@ wyethiastymies.shop
 x5xrzbvfnnrbbh8x.rest
 x7u1eb3xiyc43t4.rest
 x8o2523lz3fh1pwr8gmku1n5cvox5rjl.rest
+xavions.shop
 xavujsiudycea.site
 xc2.nibbtv6bbycg6tro.cyou
 xcfhamujkfqhn.online
@@ -3686,6 +3752,7 @@ xrf56h2ofw7euebkjwxmpj82tnc9.cfd
 xrvjrchyskdnc.site
 xsflhnulmtsrt.space
 xtmjitwwkvruk.space
+xvcekwlt.xyz
 xvmroj7ypikyjig6pc.cfd
 xxbqdvqbsebwu.online
 xylylphocoid.cfd
@@ -3774,6 +3841,7 @@ ziweuu.com
 zizaniaattaerse.qpon
 zizzbedellszimocca.cyou
 zkcizao.com
+zlnllu9wjcihgruz.cfd
 zo6kyt19gfbryi8.rest
 zoanita.qpon
 zogogirlerydirges.qpon

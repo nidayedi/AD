@@ -1,7 +1,7 @@
-! Update on 2026-02-26 03:45:35 (Beijing Time)
-! Generated on 2026-02-26 03:45:35 (Beijing Time)
+! Update on 2026-02-27 03:38:36 (Beijing Time)
+! Generated on 2026-02-27 03:38:36 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27431
+! Total domestic rules: 27432
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27434,3 +27434,4 @@ cj.sina.cn##.u-article-video-title4
 cj.sina.cn##.unfold-words
 cj.sina.cn##.module-hot.module-extend
 finance.sina.cn#?#.snp-container:upward(div)
+alibaba.com##.gallery-card:has(.searchx-card-e-ad)

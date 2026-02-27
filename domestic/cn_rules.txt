@@ -1,7 +1,7 @@
-! Update on 2026-02-27 03:38:36 (Beijing Time)
-! Generated on 2026-02-27 03:38:36 (Beijing Time)
+! Update on 2026-02-28 03:28:12 (Beijing Time)
+! Generated on 2026-02-28 03:28:12 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27432
+! Total domestic rules: 27437
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27435,3 +27435,8 @@ cj.sina.cn##.unfold-words
 cj.sina.cn##.module-hot.module-extend
 finance.sina.cn#?#.snp-container:upward(div)
 alibaba.com##.gallery-card:has(.searchx-card-e-ad)
+flipkart.com#?#.grid-formation:has(div:contains(AD))
+flipkart.com##.grid-formation:has(div:contains(AD))
+flipkart.com##div[style="max-width:1200px;width:100%"]:has(source[srcset^="https://rukminim1.flixcart.com/fk-p-flap/1570/520/image/eb2033142a4a8eab.png"])
+csdn.net##.swiper-slide-box-remuneration
+csdn.net##.sidecolumn-vip

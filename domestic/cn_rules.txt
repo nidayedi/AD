@@ -1,7 +1,7 @@
-! Update on 2026-03-01 03:15:13 (Beijing Time)
-! Generated on 2026-03-01 03:15:13 (Beijing Time)
+! Update on 2026-03-02 03:17:00 (Beijing Time)
+! Generated on 2026-03-02 03:17:00 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27437
+! Total domestic rules: 27439
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27440,3 +27440,5 @@ flipkart.com##.grid-formation:has(div:contains(AD))
 flipkart.com##div[style="max-width:1200px;width:100%"]:has(source[srcset^="https://rukminim1.flixcart.com/fk-p-flap/1570/520/image/eb2033142a4a8eab.png"])
 csdn.net##.swiper-slide-box-remuneration
 csdn.net##.sidecolumn-vip
+||fldlxx.icu^
+s.dietclub.jp##.hTag2 > span[class^="icon-list"]:contains(/Ads|おすすめ記事（一��広告/):upward(1)

@@ -1,7 +1,7 @@
-! Update on 2026-03-03 03:31:58 (Beijing Time)
-! Generated on 2026-03-03 03:31:58 (Beijing Time)
+! Update on 2026-03-04 03:34:23 (Beijing Time)
+! Generated on 2026-03-04 03:34:23 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27456
+! Total domestic rules: 27460
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27459,3 +27459,7 @@ dualeotruyenky.com#$#abort-current-inline-script document.addEventListener popun
 ||omes-sec.heytapmobi.com^
 ||xml-eu.xasedformed-b.online^
 ||xml-eu-v4.xasedformed-c.online^
+/r.news.zbigz.com/tr/*$image
+ghxi.com##a[href^="https://www.aipyaipy.com/"]
+tokenview.io##.header_tips:has(> .sevioads)
+tokenview.io,xnview.com,apk4free.net,remixsearch.net,sexadultcomics.com,ourcoincash.xyz,nexusmods.com,techxplore.com,strats.gg,gtainside.com,mybestgames.dk,eshop-prices.com,quena.id,sexu.*,gameme.eu,pornwatch.ws,mollygram.com,onlinewebfonts.com,androjungle.com,filerice.com,10001.games,hoes.tube,i24news.tv,rpp.pe,4pig.com,love4porn.com,gametop.com,bluedollar.net,outlookindia.com,blabbermouth.net,ghettotube.com,mangoporn.net,javplay.me,jagranjosh.com,4kporn.xxx,bangkokpost.com,up-load.io,liveindex.org,freeshib.biz,apkmb.com,westkentuckystar.com,namekun.com,piliapp.com,photofunny.net,grazia.co.in,flightpedia.org,thelingerieaddict.com,banglanews24.com,swisscows.com,jagran.com,autocarindia.com,userupload.net,javbraze.com,laptrinhx.com,pinkvilla.com,youramateurporn.com,dausel.co,yesnetwork.com,indiatoday.in,appvn.com,tapas.io,freefrontend.com,myplaycity.com,mercadojobs.com,thepiratebay.org,sgxnifty.org,cyberscoop.com,filmcomment.com,youngpornvideos.com,eventcinemas.com.au,findyourlucky.com,linuxmint.com,mobafire.com,themepack.me,tmail.io##.ads

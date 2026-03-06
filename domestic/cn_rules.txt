@@ -1,7 +1,7 @@
-! Update on 2026-03-06 03:49:28 (Beijing Time)
-! Generated on 2026-03-06 03:49:28 (Beijing Time)
+! Update on 2026-03-07 03:29:06 (Beijing Time)
+! Generated on 2026-03-07 03:29:06 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27467
+! Total domestic rules: 27475
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27470,3 +27470,11 @@ cool-style.com.tw#$#replace-outbound-value 'atob' 'c3RyaW5n' 'false'
 issuya.com#$#override-property-read Element.prototype.remove noopFunc
 /gm.mmstat.com/*$image
 pressian.com#$#replace-outbound-value 'atob' 'c3RyaW5n' 'false'
+||brb3mb25zg.com^
+||gfh9j4wyub.com^
+yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@style][1]/parent::div[contains(@style,"width: 990px")]'; hide-if-matches-xpath './/div[contains(@style,"yads")]/parent::div[@style][1]'; hide-if-matches-xpath './/div[@style]/a[@href][@target]/parent::div[@style][1]//parent::div[@style][not(contains(@class,"map"))]/ancestor::div[@id][contains(@style,"width")]'; hide-if-matches-xpath '//*[contains(@class,"yjAdImage") or @data-i-text="広告" or @data-uv-element="yads_uv_banner"]/ancestor-or-self::div[starts-with(@id,"yads_")]'; hide-if-matches-xpath '//*[contains(@data-uv-element,"yads") or (@data-i-elm="textBody" and text()="広告")]/ancestor-or-self::div[starts-with(@id,"yads_")]';
+9xmovies.app,toonily.com,katmoviehd.nl,a2zapk.com,movies123.pics,nsfwyoutube.com,ckk.ai,adsafelink.com,uppit.com,arabseed.tv,putlockers.co##+js(abort-on-property-read, Object.prototype.Focm)
+9xmovies.app,toonily.com,katmoviehd.*,movies123.pics##div[class^="glx-slider-container-"][style*="z-index:"]
+||ezd6n7n4m7.com^
+||kbr23k89xz.com^
+||0fs6pe6w0j.com^

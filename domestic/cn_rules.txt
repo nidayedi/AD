@@ -1,7 +1,7 @@
-! Update on 2026-03-07 03:29:06 (Beijing Time)
-! Generated on 2026-03-07 03:29:06 (Beijing Time)
+! Update on 2026-03-08 03:15:52 (Beijing Time)
+! Generated on 2026-03-08 03:15:52 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27475
+! Total domestic rules: 27483
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27478,3 +27478,11 @@ yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@s
 ||ezd6n7n4m7.com^
 ||kbr23k89xz.com^
 ||0fs6pe6w0j.com^
+||ewu1nguhw.com^
+||rfk2ddbh9.com^
+||s2dln6sdu.com^
+||zq3ke8yxu.com^
+||jkpzthxjt.com^
+||hrxwfp.icu^
+||jdpbpd.icu^
+||wq26xa0tr.com^

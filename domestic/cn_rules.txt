@@ -1,7 +1,7 @@
-! Update on 2026-03-09 03:18:27 (Beijing Time)
-! Generated on 2026-03-09 03:18:27 (Beijing Time)
+! Update on 2026-03-10 03:35:07 (Beijing Time)
+! Generated on 2026-03-10 03:35:07 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27490
+! Total domestic rules: 27526
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27493,3 +27493,39 @@ yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@s
 ||4pcp5e2w7i.com^
 ||uhyqieok5u.com^
 ||mbn6duism5.com^
+||xml-eu-v4.aasedformed-b.online^
+||tq-eu.aasedformed-c.online^
+||xml-eu.aasedformed-c.online^
+||filter-eu.axiombid.com^
+||xml-eu.svdva-e.online^
+||rtb-eu.teriflicmedia.com^
+||xml-eu-v4.adsaay.com^
+||filter-eu.logicalmind.online^
+||rtb-eu.adxpoint-ad.com^
+||rtb2-eu.branchdsp.io^
+||rtb-eu.visionpeakmedia.com^
+||xml-eu-v4.xasedformed-e.online^
+||xml-eu.clearbidtechnologies.com^
+||xml-eu-v4.cortexbid.com^
+||xml-eu-v4.aasedformed-c.online^
+||filter-eu.revantagex.com^
+||h9806gjhz.com^
+||xml-eu.aasedformed-b.online^
+||c3mldou51.com^
+||72qv9fhgm.com^
+||6k2fehacp.com^
+||filter-eu.bid4advertising.com^
+||xml-eu.xmlorbit.com^
+||rtb-apac-v4.teriflicmedia.com^
+||rtb-eu-v4.teriflicmedia.com^
+||lkpjbr.icu^
+||nb5a7g5r1.com^
+||rtb-eu-v4.visionpeakmedia.com^
+||rtb-eu-v4-cosmos.branchdiscovery.io^
+||rtb-apac-v4-cosmos.branchdiscovery.io^
+||xml-eu.flowldsc.online^
+||nwholf.icu^
+||rtb-eu-v4.themediapoint.net^
+@@||jsapi.amap.com^$domain=amap.com
+||dnnxq2b16.com^
+||click-eu.exppxxclck.com^

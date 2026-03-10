@@ -1,7 +1,7 @@
-! Update on 2026-03-10 03:35:07 (Beijing Time)
-! Generated on 2026-03-10 03:35:07 (Beijing Time)
+! Update on 2026-03-11 03:33:06 (Beijing Time)
+! Generated on 2026-03-11 03:33:06 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27526
+! Total domestic rules: 27541
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27529,3 +27529,18 @@ yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@s
 @@||jsapi.amap.com^$domain=amap.com
 ||dnnxq2b16.com^
 ||click-eu.exppxxclck.com^
+||tq-eu.aasedformed-d.online^
+||xml-eu-v4.dataverixa.com^
+||jnlenb.icu^
+||lzdjxp.icu^
+||1phyxws373.com^
+||xml-eu-v4.aasedformed-d.online^
+||ad.ari.lt^
+||op1z5h5171.com^
+||filter-eu.felixads.com^
+||rtb-eu-v4.adxpoint-ad.com^
+||j5sgdum5n4.com^
+||57l2ng6r91.com^
+vpstop.cn#?#.sidebar > div.uk-card:contains(赞助商家)
+vpstop.cn##a[target="_blank"] > img[style^="width: 100%;max-height:"]
+||i5rp73ne9h.com^

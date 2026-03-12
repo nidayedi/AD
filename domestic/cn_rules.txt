@@ -1,7 +1,7 @@
-! Update on 2026-03-12 03:37:00 (Beijing Time)
-! Generated on 2026-03-12 03:37:00 (Beijing Time)
+! Update on 2026-03-13 03:37:08 (Beijing Time)
+! Generated on 2026-03-13 03:37:08 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27546
+! Total domestic rules: 27549
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27549,3 +27549,6 @@ vpstop.cn##.sidebar > div.uk-card:contains(赞助商家)
 vpstop.cn##a[href*="/ClickAd"]
 ||hsehk.cn^
 ||pdhwzl.icu^
+||ngdrld.icu^
+||hsvwvr.icu^
+||ad.ari.lt^$badfilter

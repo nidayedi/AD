@@ -1,7 +1,7 @@
-! Update on 2026-03-14 03:26:21 (Beijing Time)
-! Generated on 2026-03-14 03:26:21 (Beijing Time)
+! Update on 2026-03-15 03:21:43 (Beijing Time)
+! Generated on 2026-03-15 03:21:43 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27553
+! Total domestic rules: 27555
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27556,3 +27556,5 @@ geotastic.net#%#//scriptlet('google-ima3')
 geotastic.net##.publift-zone-container
 geotastic.net#%#//scriptlet('prevent-element-src-loading', 'script', '/fuseplatform|imasdk/')
 ||nvbrfj.icu^
+||llxjrt.icu^
+ngoisao.net###QC_TOP:style(min-height: 0!important; padding: 0!important;)

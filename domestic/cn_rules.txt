@@ -1,7 +1,7 @@
-! Update on 2026-03-15 03:21:43 (Beijing Time)
-! Generated on 2026-03-15 03:21:43 (Beijing Time)
+! Update on 2026-03-16 03:22:56 (Beijing Time)
+! Generated on 2026-03-16 03:22:56 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27555
+! Total domestic rules: 27568
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27558,3 +27558,16 @@ geotastic.net#%#//scriptlet('prevent-element-src-loading', 'script', '/fuseplatf
 ||nvbrfj.icu^
 ||llxjrt.icu^
 ngoisao.net###QC_TOP:style(min-height: 0!important; padding: 0!important;)
+||jotedd.icu^
+@@||hyperos.developer.xiaomi.com^$document
+||api.weibo.cn/2/statuses/extend?$replace=/"source": "ad_reduce"/"source": "10007"/
+||api.weibo.cn/2/adscheme
+||ads.jp2.as.criteo.com^
+||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
+||cad.659t.cn^
+||api.weibo.cn/2/statuses/extend?$replace=/"is_ad_card":/"10007":/
+||ads.aceplanet.co.kr^
+||wbapp.mobile.sina.cn/wbapplua/wbpullad.lua
+@@||metok.sys.miui.com^$document
+||cafe-ads-api.daum.net^
+||latemadsouth.mypi.co^

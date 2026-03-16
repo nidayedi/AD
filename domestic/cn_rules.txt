@@ -1,7 +1,7 @@
-! Update on 2026-03-16 03:22:56 (Beijing Time)
-! Generated on 2026-03-16 03:22:56 (Beijing Time)
+! Update on 2026-03-17 03:48:50 (Beijing Time)
+! Generated on 2026-03-17 03:48:50 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27568
+! Total domestic rules: 27574
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27571,3 +27571,9 @@ ngoisao.net###QC_TOP:style(min-height: 0!important; padding: 0!important;)
 @@||metok.sys.miui.com^$document
 ||cafe-ads-api.daum.net^
 ||latemadsouth.mypi.co^
+123865.com##body > div:not([id]):not([class])
+alions.pro,asnwish.com,audinifer.com,hanerix.com,hgcloud.to##div[style^="position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01"]
+||pepwpv.icu^
+cancam.jp##.sp-template-field
+||a11.click^
+||nsxrfh.icu^

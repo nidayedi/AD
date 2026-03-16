@@ -1,7 +1,7 @@
-! Update on 2026-03-16 03:22:56 (Beijing Time)
-! Generated on 2026-03-16 03:22:56 (Beijing Time)
+! Update on 2026-03-17 03:48:50 (Beijing Time)
+! Generated on 2026-03-17 03:48:50 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 191430
+! Total foreign rules: 191847
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -191433,3 +191433,420 @@ dianaavoidthey.com,lancewhosedifficult.com,lauradaydo.com,crystaltreatmenteast.c
 ||ads8.console.adtarget.com.tr^
 ||dchescimtkv.com^
 ||gtm.atins4x4adventure.com.br^
+||wnjarqimdybp.com^
+||njnbhqbkkthyme.com^
+statecollege.com##div[class^="adapex"]
+||bhlvinokfnwyx.site^
+||truvidplayer.com/v*/v.php?*&adid=
+kupi.cz,novinky.cz,sport.cz,super.cz###sf0
+fights.cz,kinobox.cz,nasepenize.cz##.pe-link
+karaoketexty.cz,osobnosti.cz,tiscali.cz##a[target="_blank"]>img[class*="-click-"]
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.wrap-advert
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+script)
+||apologyale.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.ad__in
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*="banner"]
+||iniymfyex.com^
+||564executors.com^
+||wdkinlqqakgkk.online^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##div[class$="-rightcJ"]
+kupi.cz,novinky.cz,seznamzpravy.cz,sport.cz,super.cz##[data-e2e-zoneid]
+||wgaesioplofoq.site^
+cdn.ampproject.org##.ad-control-left
+missav.run##.banner-box
+||ntdcfmssnmx.com^
+youtube.com#$#override-property-read yt.ads.biscotti.lastId_ undefined
+missav81.top,mj859.com,avx21.com,qmtrd.com##div[id]:has(> div.streamer-container2)
+||rlxntgpuh.com^
+mupsexphim.net#$#abort-on-property-read Cookies
+||haqwfanzmxcrm.site^
+||mdgncqucctria.website^
+||baauefhlsruga.online^
+||mtpmbrpe.com^
+||brumbieunvexed.shop^
+||ktocmwvtlivyq.site^
+quora.com##.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has(.qu-flexDirection--column[style*="min-height:"] > .dom_annotate_google_ad)
+microsip.org##.mc-ab-root
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##leaderBoard
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[class^="ad "]
+templetoons.com#%#//scriptlet('prevent-window-open')
+templetoons.com##+js(no-window-open-if)
+||gorxusrnnmooe.space^
+@@||s.trvdp.com/scripts/*/ins.js$domain=olhardigital.com.br
+||csyxnkhvueuh.com^
+horoskopy.cz,novinky.cz,sport.cz,super.cz##div[data-impressionurl]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##iframe[frameporder]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[id^="outstream_container_"]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="adb"][href*="collocation="]
+||uhnvoddrtwyeg.website^
+kupi.cz,novinky.cz,sport.cz,super.cz##iframe[data-cx-loaded]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##iframe[frameborder="no"][scrolling="no"][style*="display: block;"]
+||jjhqlyesuecsb.site^
+||rrakgixcmjdar.com^
+||rbjixtnbjdcnd.online^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##div[data-group][data-width="300"]
+||ophavvoqv.in^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="_goes_through_the_woods="]
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*="pubsrcid="]
+fights.cz,kinobox.cz,nasepenize.cz##[href*=";cdata="]
+||recoalhotdog.cfd^
+||ngvptqydvxpfa.website^
+microsip.org#%#//scriptlet('prevent-setTimeout', 'link.onload', '100')
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[id^="cnc-"][class^="cnc-"]
+kupi.cz,novinky.cz,sport.cz,super.cz##[id^="tetrahedron"], .tetrahedron
+omoi.com#%#//scriptlet('trusted-create-element', 'head', 'script', '', '(()=>{const t={apply:(t,e,o)=>{try{const t=o[0];t?.matches?.("azuki-reader")&&!0===t?.showAd&&Object.defineProperty(o[0],"showAd",{value:!1})}catch(t){}return Reflect.apply(t,e,o)}};window.Function.prototype.bind=new Proxy(window.Function.prototype.bind,t)})();')
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[data-track-ad]
+||hatedtutu.cfd^
+||khutbahmisterm.qpon^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+div)
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*="branding"]
+||dlohvegwuzf.com^
+||ecdxyjokomvvw.space^
+||ukvwxxftm.com^
+fights.cz,kinobox.cz,nasepenize.cz##.wrap-advert
+||bmqrkuxrs.com^
+||bqwjmvbjodclc.space^
+||tnygevcybemqvv.com^
+4hu.tv##.kkm-content
+dualeotruyenqr.com#$#abort-current-inline-script document.addEventListener popunder
+||hazqtoal.in^
+aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
+||yebtagxufacm.com^
+programme-tv.net##+js(set-constant, as_retry, 0)
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.rollWrapper
+||oocyljpvx.com^
+||zqrctmpxxagnb.website^
+kupi.cz,novinky.cz,sport.cz,super.cz##.oktagram_image
+||wlncydsetnshu.com^
+||rsddhipwujs.com^
+@@||jav.sb^$stealth=flash
+kupi.cz,novinky.cz,sport.cz,super.cz##.oktapoid, [id^="oktapoid"]
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###banner
+||lldsnrhnacgbx.com^
+||peacefulmeadowwalk.com^
+playhop.com##.aab-adv
+||static.opensubtitles.org/libs/js/ray-announcement-bar.js
+||hmdhufaictwl.com^
+||uqarbdiuhttwo.website^
+||yandex.com/ads/$domain=playhop.com
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.ad-skywrapper
+||functionsout9.net^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.modal-backdrop
+||oupvfjtyxfxky.site^
+freemanga.me,funlove.info,javsubidn.tv,streamvid.dev,vidnest.live,vidnest.io,katfile.online,familyporn.tv,5play.app,bingespree.net,spencerdevs.xyz,easyvidplayer.com,cloudhostingz.com,sharedwebs.com,fitnessplanss.com,porn4days.blue,embedplayer.site,animahd.com,exposestrat.com,embedsports.top,vidplayer.live,vik1ngfile.site,fbol.top,sterham.net,embed4me.com,megatukmax.xyz,primewire.tf,ytapi.cc,mygomp3.com,imagebam.com,ezplayer.me,datavaults.co,clickapi.net,y2down.cc,themezon.net,serverguidez.com,streamup.ws,vidlink.pro,cdn.hentaianimezone.com,themezon.net,galaxyporn.net,teknoasian.com,downloadyoutubesubtitles.com,alex71.com,kecapku.com,vidfast.pro,pornharlot.net,meong.club,hianimez.*,travelironguide.com,kreditexperte.online,shortnest.com,vikingf1le.us.to,mixzdrive.com,get.linkbulks.com,play.upns.live,dropzy.io,dayuploads.com,filespayouts.com,ranoz.gg,zovo.ink,manhwahentai.me,filespayout.com,1movielinkbd.com,ytmp3.la,swiftuploads.com,techbloogs.com,oii.la,englismovies.pro,tpi.li,go.cloutgist.com,brbeast.com,vidsrc2.*,tutwuri.id,lokerwfh.net,insmyst.com,iir.la,tvi.la,cosplay18.pics,hianime.*,mobiletvshows.site,movies4u.*,x-x-x.tube,pornx.to,4khd.com,dlhd.*,kissanime.*,vidsrc.*,pahe.*##+js(no-window-open-if)
+||tyhxysuulzzmr.site^
+||jdewvyxxyuv.com^
+kupi.cz,novinky.cz,sport.cz,super.cz##.combi__ad
+||frbsdeaewuhou.website^
+||kzuqpscnidssd.website^
+||pqoxdvmdndmfz.website^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##iframe[id^="iframeWrapper-"]
+wildtangent.com##div[class^="container mx-auto"] > div > .justify-center.flex:has(> div[id$="top-banner"])
+~market.yandex.by,~market.yandex.kz,~market.yandex.ru,~market.yandex.ua,~telephony.yandex.ru,yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="item_type_"][class*="item_rendered"]
+||890broadwave.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[style*="background-image: url("][style*="background-repeat: no-repeat;"]
+@@||nintendo.co.jp/ring/*/adv$~3p
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
+||gorsbphljucre.site^
+||dajlkipw.in^
+||ghktwxuzvuufr.online^
+3pm.in,newstm.in##a[href*="/click.htm?"][target="_blank"]
+||linchetarmful.qpon^
+||zgufsietwrteo.website^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="adblock"]
+||hzlhxlivfnxur.site^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##.ssp_top
+||zqvhsojbqezvi.space^
+||jnwpcellgwqbz.space^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##._ad_branding_positioner
+||sipesglug.com^
+kupi.cz,novinky.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
+||pubinstancesglorious.com^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz###sznad-video-takeover
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##iframe[ramefamorderx]
+economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+||vrauwhahnrjuh.space^
+||cache.sgvafs.top/base/aHR0cHM6Ly9pY28uZGFnZS50b3Avc3RvcmFnZS91cGxvYWQvMjAyNTEwMTQvNjhlZDg3NWU2NTM2Zi53ZWJw.cache$image,domain=missav81.top|mj859.com|avx21.com|qmtrd.com
+123av.fun##a[href^="https://qz.run/"]
+fights.cz,kinobox.cz,nasepenize.cz##.quaquaquakva
+||motorfromservices.net^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.SC_TBlock
+||xvfarnkhampqi.space^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,karaoketexty.cz,maminka.cz,mojezdravi.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##a[href*="mondor_hopToSeti"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[href*="_Branding"]
+||qqblawfheamext.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[data-google-container-id], .is_stuck
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.ad-skycrapper
+kupi.cz,novinky.cz,sport.cz,super.cz##.plachta-overall-img
+11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,al.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cleveland.com,cnn.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,driving.ca,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kanogoma.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,lehighvalleylive.com,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marieclaire.com.au,marketwatch.com,masslive.com,maxpreps.com,mcpmag.com,mlb.com,mlive.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,newyorkupstate.com,nj.com,nowtolove.co.nz,nowtolove.com.au,nymag.com,nytimes.com,nzherald.co.nz,oregonlive.com,patch.com,patheos.com,pcgamebenchmark.com,pcgamesn.com,pennlive.com,petfinder.com,pharmaceutical-journal.com,picmix.com,pitchfork.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,syracuse.com,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,untappedcities.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,who.com.au,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wyff4.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
+||usagecoincident.com^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##a[href*="IdBnrP="][href*="IdCamp="]
+||ztkoujoouepkn.site^
+||reckless-image.com^
+||oxlmsxqhjtykk.online^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##[id*="tmAdVideo"], [class=" pe-banner"]
+9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co,marketrealist.com##iframe[title="3-rd party ad content"]
+fxempire.com###__next > div[height]:not([id]):has(> section[style^="height:"] > #trade-with-broker)
+kupi.cz,novinky.cz,sport.cz,super.cz##a[title="R_eklama"]
+||yoxggjogbagyt.online^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="BANNER"]
+||mgkjakbwzcrla.online^
+calendar.austinchronicle.com##.AirMedRectComboInlineResults1responsive
+||quickwittedconclusion.com^
+||drunkardlukecoverage.com^
+||ihhcznyaz.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.SC_TBlock
+kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="__CLICKTHRU__"]
+kupi.cz,novinky.cz,sport.cz,super.cz##.burRman
+economictimes.indiatimes.com##.stickyAd
+||bridge4plugins.com^
+||qoxsqwqyxyjit.site^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##[href*=";cdata="]
+~telephony.yandex.ru,yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
+instagram.com#$#hide-if-contains-visible-text '/Ad|Anzeige|Gesponsert|Sponsored|Geborg|Sponzorováno|Sponsoreret|Χορηγούμενη|Publicidad|Sponsoroitu|Sponsorisé|Bersponsor|Sponsorizzato|広告|광고|Ditaja|Sponset|Gesponsord|Sponsorowane|Patrocinado|Реклама|Sponsrad|ได้รับการสนับสนุน|May Sponsor|Sponsorlu|赞助内容|贊助|প্রযোজিত|પ્રાયોજિત|स्पॉन्सर्ड|Sponzorirano|ಪ್ರಾಯೋಜಿತ|സ്‌പോൺസർ ചെയ്‌തത്|पुरस्‍कृत|प्रायोजित|ਪ੍ਰਾਯੋਜਿਤ|මුදල් ගෙවා ���්‍රචාරය කරන ලදි|Sponzorované|స్పాన్సర్ చేసింది|Được tài trợ|Спонсорирано|Commandité|Sponsorizat|Спонзорисано/' 'article>div[class]' 'span[class]';
+||daobaalzioctx.online^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
+/preferences.blackbull.com/r/*/open/*$image
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:not(body):has(>script[src*=".realsrv.com"])
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[class$="ad-wrapper"]
+||matiehypoxis.cfd^
+dayspedia.com##.puzzlegarage.block
+northernlightsccs.com#$#abort-current-inline-script jQuery open
+novinky.cz,sport.cz,super.cz##[class*="ClickThrough"]
+||ygtbzpdemamrn.online^
+||mgbykdrvmmvwta.com^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="adfibeg="]
+programme-tv.net#%#//scriptlet('set-constant', 'as_retry', '0')
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*="Banner"]
+||kmcvqfdtlauqx.space^
+||omg10.com^
+||kabtcvhaiacccf.com^
+||weenxmphvvwda.space^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+style)
+missav.run##.grid > div.video-card:not([id])
+||setbacksyll.cyou^
+upshrink.com##a.get-link:style(display: block !important;)
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*="verdsi="][href*="&ip="]
+||mbrbamxskwchito.com^
+||btowerexkphfu.site^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="/bimbu?"]
+karaoketexty.cz,osobnosti.cz,tiscali.cz##[id^="pxBanner"]
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[href*="&token="][target="_blank"]
+||dsmueyhhycr.com^
+||ste000u5mk.com^
+||obswjwcffcbcf.space^
+||kaadqpoorrhsy.site^
+||okooiejsudbgk.space^
+||templetoons.com/api/ads/
+||tinifygzkncqu.website^
+calendar.austinchronicle.com##.AirMedRectComboInlineResults3responsive
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.sticky-content
+novinky.cz,sport.cz,super.cz##.barMan
+||clrzytcxtu.com^
+kupi.cz,novinky.cz,sport.cz,super.cz##iframe[data-cy-loaded]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##iframe[hehehe="no"][scrolling="no"][style*="display: block;"]
+indiatimes.com,samayam.com##a[onclick][rel="nofollow,noindex"]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[data-oblohakava]
+||mimdarlhf.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,karaoketexty.cz,maminka.cz,mojezdravi.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##a[href*="?adurl="]
+9to5google.com,9to5mac.com,9to5toys.com##iframe[data-google-container-id]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="?adocurl"]
+kupi.cz,novinky.cz,sport.cz,super.cz##.Rggheysn
+||fpcjdmgsvsqud.website^
+||oojujkszfgqxq.space^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[style*="_banner_branding_cnc_"]
+kupi.cz,novinky.cz,sport.cz,super.cz##[data-e4e-advert], .basafoxy
+northernlightsccs.com#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
+fights.cz,kinobox.cz,nasepenize.cz##[id*="tmAdVideo"], [class=" pe-banner"]
+||mmmubvcsmkjcz.online^
+||pagrmqxj.com^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.div_sticky2
+||lrilalsp.com^
+||prowlgrabbed.com^
+||jmyajrojpghu.in^
+||ltkvxwdlboeuv.space^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[href*="_leaderboard"]
+||html-load.com^$script,redirect=noopjs,domain=soccerdigestweb.com|thedigestweb.com|optionsprofitcalculator.com|ev-times.com|zakzak.co.jp|nikkan-gendai.com|kinmaweb.jp|play-games.com|logicieleducatif.fr|transparentcalifornia.com|aniroleplay.com|choco0202.work|exawarosu.net|honyaku-channel.net|jisaka.com|kijolariat.net|kijyomita.com|kirarafan.com|nandemo-uketori.com|npb-news.com|bbs.animanch.com|46matome.net|alfalfalfa.com|anihatsu.com|aqua2ch.net|danseisama.com|dareda.net|digital-thread.com|fgochaldeas.com|golog.jp|heartlife-matome.com|ikarishintou.com|imihu.net|inutomo11.com|jyoseisama.com|kijoden.com|kijyokatu.com|kitimama-matome.net|kitizawa.com|kotaro269.com|kyousoku.net|livedoor.blog|matomeblade.com|mojomojo-licarca.com|news-buzz1.com|onihimechan.com|orusoku.com|outdoormatome.com|squallchannel.com|sukattojapan.com|sumaburayasan.com|vipnews.jp|vtubernews.jp|watarukiti.com|2chblog.jp|2monkeys.jp|all-nationz.com|blog.jp|doorblog.jp|liblo.jp|fesoku.net|fiveslot777.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|grasoku.com|gundamlog.com|jnews1.com|keyakizaka46matomemory.net|kidan-m.com|kijolifehack.com|kijomatomelog.com|kijyomatome.com|kijyomatome-ch.com|konoyubitomare.jp|ldblog.jp|livedoor.biz|matomelotte.com|matometemitatta.com|netatama.net|norisoku.com|ocsoku.com|okusama-kijyo.com|otoko-honne.com|oumaga-times.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|uwakich.com|uwakitaiken.com|quefaire.be|j-cast.com|wouldurather.io|oraridiapertura24.it|laleggepertutti.it|cruciverba.it|motscroises.fr|palabr.as|word-grabber.com|dramabeans.com|thesaurus.net|blog.esuteru.com|blog.livedoor.jp|carscoops.com|dziennik.pl|eurointegration.com.ua|flatpanelshd.com|fourfourtwo.co.kr|issuya.com|itainews.com|iusm.co.kr|mydaily.co.kr|onlinegdb.com|pravda.com.ua|reportera.co.kr|sportsrec.com|taxguru.in|text-compare.com|thesaurus.net|thestar.co.uk|tweaksforgeeks.com|videogamemods.com|wfmz.com|worldhistory.org|missyusa.com|crosswordsolver.com|raetsel-hilfe.de|heureka.cz|verkaufsoffener-sonntag.com|mynet.com|onecall2ch.com|yugioh-starlight.com|forsal.pl|infor.pl|cool-style.com.tw|yutura.net|lacuarta.com|tportal.hr|apkmirror.com|game8.jp|dnevno.hr|autoby.jp|daily.co.jp|j-town.net|wetteronline.de|select.mamastar.jp|tvtv.us|trilltrill.jp|kurashiru.com|kyoteibiyori.com|ranking.net|roleplay.me|iza.ne.jp|gazetaprawna.pl|akb48matomemory.com|nana-press.com|webdesignledger.com|transparentnevada.com|usi32.com|akb48glabo.com|blogo.jp|chaos2ch.com|crx7601.com|football-2ch.com|hacchaka.net|itaishinja.com|jumpsokuhou.com|majikichi.com|matacoco.com|morikinoko.com|news30over.com|nmb48-mtm.com|otakomu.jp|s2-log.com|vault76.info|world-fusigi.net|zakuzaku911.com|zch-vip.com|buzzfeednews.com|buzzfeed.com|minkou.jp|vippers.jp|gardeningsoul.com|drweil.com|cocokara-next.com|ufret.jp|chanto.jp.net|dictionnaire.lerobert.com|vipsister23.com|dropgame.jp|alc.co.jp|gigafile.nu|sankei.com|sanspo.com|kobe-journal.com|tbsradio.jp|nosv.org|natalie.mu|oxfordlearnersdictionaries.com|gutefrage.net|aucfree.com|grapee.jp|yakkun.com|young-machine.com|luremaga.jp|ldoceonline.com|hoyme.jp|tunebat.com|mainichi.jp|dictionary.cambridge.org|traicy.com|jikayosha.jp|uptodown.com|pashplus.jp|niketalk.com|muragon.com|lawyersgunsmoneyblog.com|operawire.com|newsinlevels.com|worldjournal.com|southhemitv.com|km77.com|sportalkorea.com|cults3d.com|newsweekjapan.jp|as-web.jp|sutekinakijo.com|onlineradiobox.com|hotcopper.com.au|scribens.com|scribens.fr|fxstreet.*|idokep.hu|wamgame.jp|nishinippon.co.jp|baseballchannel.jp|eigachannel.jp|footballchannel.jp|tweaktown.com|twn.hu|sportanalytic.com|solitairehut.com|puzzlegarage.com|nouvelobs.com|minesweeperquest.com|meteo60.fr|mahjongchest.com|leckerschmecker.me|j7p.jp|hb-nippon.com|bien.hu|autoc-one.jp|oeffnungszeitenbuch.de|reptilesmagazine.com|nyitvatartas24.hu|gifu-np.co.jp|hotcopper.co.nz|vimm.net|watchdocumentaries.com|24sata.hr|nationaltoday.com|kurashinista.jp|cesoirtv.com|profitline.hu|pons.com|hang.hu|wisevoter.com|dreamchance.net|cinetrafic.fr|raider.io|gentosha-go.com|oricon.co.jp|gbatemp.net|jiji.com|nlab.itmedia.co.jp|boredpanda.com|uscreditcardguide.com|ecranlarge.com|mafab.hu|wetter.com|tbs.co.jp|phinphanatic.com|bunshun.jp|notebookcheck.biz|notebookcheck.com|notebookcheck.info|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|relevantmagazine.com|gamewith.jp|wieistmeineip.de|wieistmeineip.ch|wieistmeineip.at|universalis.fr|techdico.com|steamidfinder.com|snowmobiletrader.com|pwctrader.com|programme-tv.net|persoenlich.com|notebookcheck-tr.com|notebookcheck-ru.com|notebookcheck-hu.com|notebookcheck-cn.com|movie-locations.com|modsfire.com|happymoments.lol|equipmenttrader.com|doanhnghiepvn.vn|cycletrader.com|commercialtrucktrader.com|atvtrader.com|aerotrader.com|worldle.teuteuf.fr|games.arkadium.com|hvac-talk.com|thecelticblog.com|hometheatershack.com|newatlas.com|thefirearmblog.com|superhonda.com|sudokutable.com|raskakcija.lt|new.mmm.lt|etaplius.lt|bilis.lt|alfa.lt|weldingweb.com|vwvortex.com|techsupportforum.com|techguy.org|speypages.com|skyscrapercity.com|mytractorforum.com|diychatroom.com|dairygoatinfo.com|avsforum.com|odyclub.com|razzball.com|trailvoy.com|theakforum.net|rootzwiki.com|mdxers.org|mazda3revolution.com|fullsizebronco.com|fordescape.org|digitalhome.ca|coloradofans.com|chihuahua-people.com|chinacarforums.com|chevymalibuforum.com|catfish1.com|canadianmoneyforum.com|can-amforum.com|bimmerwerkz.com|beesource.com|babybmw.net|astraownersnetwork.co.uk|aquaticplantcentral.com|allpar.com|airsoftsociety.com|acuraworld.com|a5oc.com|300cforums.com|invoice-generator.com|namemc.com|sallysbakingaddiction.com|tennisforum.com|hochi.news|tastesbetterfromscratch.com|calculatorsoup.com|wordhippo.com|wallpapers.com|videocelts.com|rvtrader.com|respublika.lt|pllive.xmediaeg.com|petitrobert.fr|nintendoeverything.com|newsyou.info|marineinsight.com|lessdebt.com|fixthecfaa.com|donbalon.com|daveockop.com|buchstaben.com|subaruoutback.org|sigtalk.com|pelotonforum.com|allfordmustangs.com|maketecheasier.com|stayglam.com|singjupost.com|sekunde.lt|gerbeaud.com|gencoupe.com|freeride.com|driveteslacanada.ca|cadryskitchen.com|briscolapiu.spaghetti-interactive.it|atlasandboots.com|askpython.com|anyksta.lt|aina.lt|spendwithpennies.com|motor-fan.jp|mykoreankitchen.com|budgetbytes.com|siennachat.com|indianhealthyrecipes.com|chocolatecoveredkatie.com|whec.com|modsbase.com|robloxforum.com|wellnessbykay.com|the-girl-who-ate-everything.com|kimscravings.com|howsweeteats.com|damndelicious.net|cookieandkate.com|browneyedbaker.com|pancakerecipes.com|pumpkinnspice.com|nocrumbsleft.net|homemadehome.com|happyveggiekitchen.com|makeitdairyfree.com|percentagecalculator.net|thewoksoflife.com|theplantbasedschool.com|iphoneincanada.ca|minimalistbaker.com|computerbild.de|unefemme.net|hummingbirdhigh.com|awellstyledlife.com|rarethief.com|culinaryhill.com|tutti-dolci.com|thefoodcharlatan.com|thecookierookie.com|stellanspice.com|sipandfeast.com|practicalselfreliance.com|plainchicken.com|mrmakeithappen.com|modernhoney.com|loveinmyoven.com|heygrillhey.com|gardeninthekitchen.com|downshiftology.com|creativecanning.com|choosingchia.com|amindfullmom.com|wwd.com|hollywoodlife.com|mattsfitchef.com|futabasha-change.com|bluearchive.gg|altarofgaming.com|dayspedia.com|studyfinds.org|littlehouseliving.com|feelgoodfoodie.net|tivocommunity.com|therecipecritic.com|bakeitwithlove.com|neoseeker.com|msgo.com|expatforum.com|geogridgame.com|speakev.com|wholesomeyum.com|extrapetite.com|clubxterra.org|newlifeonahomestead.com|k20a.org|iq-forums.com|hockeyforum.com|cyclingabout.com|liliputing.com|gearpatrol.com|awealthofcommonsense.com|skinnytaste.com|geoguessr.com|autobild.de|ttforum.co.uk|1lumen.com|stuckonsweet.com|intoindiegames.com|thehomesteadinghippy.com|dessertsonadime.com|easydessertrecipes.com|31daily.com|momontimeout.com|iheartnaptime.net|galonamission.com|madaboutfood.co|stylegirlfriend.com|halfbakedharvest.com|glutenfreeonashoestring.com|slkworld.com|50states.com|southerndiscourse.com|dinnerthendessert.com|inkatrinaskitchen.com|breadboozebacon.com|kitchendivas.com|isabeleats.com|foxyfolksy.com|evolvingtable.com|wdwnt.jp|wdwnt.com|shakentogetherlife.com|creative-culinary.com|cookincanuck.com|jocooks.com|yourhomebasedmom.com|inspiralized.com|runningonrealfood.com|hummusapien.com|urbanfarmandkitchen.com|cvrain.com|acedarspoon.com|addapinch.com|amandascookin.com|aprettylifeinthesuburbs.com|bakedbree.com|bakedbyrachel.com|barbarabakes.com|feastingathome.com|feedmephoebe.com|framedcooks.com|healthylittlefoodies.com|hungrypaprikas.com|ibreatheimhungry.com|littlesunnykitchen.com|melskitchencafe.com|mexicanfoodjournal.com|mountainmamacooks.com|mybakingaddiction.com|mycolombianrecipes.com|neighborfoodblog.com|pinchofyum.com|seededatthetable.com|shugarysweets.com|tasteandtellblog.com|thebakermama.com|theendlessmeal.com|thefoodieaffair.com|themediterraneandish.com|thewanderlustkitchen.com|whatjewwannaeat.com|healthyfitnessmeals.com|jocjapantravel.com|nomnompaleo.com|momsdish.com|averiecooks.com|ohsheglows.com|juliescafebakery.com|insider-gaming.com|androidheadlines.com|kdnuggets.com|iamhomesteader.com|fromvalerieskitchen.com|juliasalbum.com|nourishedbynic.com|butterbeready.com|backforseconds.com|cookingclassy.com|brighteyedbaker.com|hoosierhomemade.com|wellplated.com|platingsandpairings.com|foxeslovelemons.com|crunchycreamysweet.com|thefitchen.com|foodfaithfitness.com|kirbiecravings.com|umamigirl.com|simplywhisked.com|godairyfree.org|forkknifeswoon.com|makingthymeforhealth.com|premeditatedleftovers.com|justonecookbook.com|runningtothekitchen.com|bromabakery.com|medievalists.net|laurafuentes.com|chumplady.com|nutmegnanny.com|closetcooking.com|whipperberry.com|aheadofthyme.com|aheadofthyme.com|onionringsandthings.com|greensnchocolate.com|pipandebby.com|simply-delicious-food.com|runtothefinish.com|speisekarte.de|ballexclusives.com|butternutbakeryblog.com|amybakesbread.com|pantrymama.com|joyfoodsunshine.com|favfamilyrecipes.com|spicysouthernkitchen.com|yourcupofcake.com|emilybites.com|dailydishrecipes.com|tidymom.net|thekitchenmagpie.com|thebestcakerecipes.com|wielerflits.be|dinneratthezoo.com|garminrumors.com|sinemalar.com|gimmesomeoven.com|lexiscleankitchen.com|crockpotladies.com|sundaysuppermovement.com|julieblanner.com|ib-game.jp|chefsavvy.com|afarmgirlsdabbles.com|asweetpeachef.com|365daysofbakingandmore.com|thekoreanvegan.com|maangchi.com|whatgreatgrandmaate.com|thistlewoodfarms.com|grownandflown.com|hot-thai-kitchen.com|diethood.com|flagle.io|stephiecooks.com|currytrail.in|anoregoncottage.com|myquietkitchen.com|marvel.church|preppykitchen.com|glutenfreeonashoestring.com|natashaskitchen.com|vincenzosplate.com|pcgamebenchmark.com|thescranline.com|idownloadblog.com|parents.com|magmix.jp|vague.style|freeconvert.com|zhangcatherine.com|zhangcatherine.com|twinsdaily.com|thurrott.com|theimpulsivebuy.com|cruisehive.com|bg-mania.jp|appunwrapper.com|geo.fr|russianmachineneverbreaks.com|ohsweetbasil.com|elliott.org|statecollege.com
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###creativelink
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="adcurl="]
+kupi.cz,novinky.cz,sport.cz,super.cz##[class$="Flax"]
+winaero.com##.windiv
+kupi.cz,novinky.cz,sport.cz,super.cz##[data-e11i="ogm-branding-advert"], [class="combi"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink###guide-modal
+||coastuniversalintroducing.com^
+||311factories.net^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href*=";adfibeg="]
+||callistanise.com^
+||dcsomihsehwjfqc.com^
+||nearlyfunnel.com^
+horoskopy.cz,novinky.cz,seznamzpravy.cz,sport.cz,super.cz##.sssp-posCont, .sssp-resizeCont
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[style*="background-image"][style*="branding"]
+||lqimxnkwwwzus.website^
+||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,karaoketexty.cz,maminka.cz,mojezdravi.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##[id*="Adform"]
+javxxx.me###menu-main > li.nav-item:has(> a[rel^="sponsored"])
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
+||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~olhardigital.com.br|~omelete.com.br
+horoskopy.cz,kupi.cz,novinky.cz,seznamzpravy.cz,sport.cz,super.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
+||fsfmqytzcuwnl.com^
+||thnbexpkdif.com^
+||cyaijllypnzgl.online^
+calendar.austinchronicle.com##.AirMedRectComboInlineResults4responsive
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[id^="branding-"]
+attractionsmagazine.com##a[href^="https://mousefantravel.com/"]
+||wshstruqkvdhcv.com^
+||1tvg524vih.com^
+||wuehawcfnmmxk.online^
+by-them.com##.page_bottom_fixed_ad_wap
+||ebakvswalujjf.com^
+save-editor.com##.set_wrapper_absolute_right
+||sinesbeinked.cfd^
+||cjfmhwdbyjndv.site^
+fights.cz,kinobox.cz,nasepenize.cz,spisovatele.cz##.SC_TBlock
+||nghjcuimofbbv.online^
+||toqdizbfp.com^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##div[data-group]:has(>.group-notice)
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###Moitor-1
+||kfqbfenhkmizx.space^
+||hjarbxlyvqrlq.website^
+prawngarden.com#$#abort-current-inline-script window.addEventListener Ads
+8days.sg,channelnewsasia.com##.programtic-ads
+||systems201.net^
+||caehtveorphwc.space^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>script+ins)
+cap3.ink#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+viexx.com##.info-banner
+||xawafinmijdrp.online^
+||kwjlveezlcgac.online^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###leader_board
+||genusesslitted.com^
+||adapterwith1024.net^
+||zenanaswogiet.cfd^
+||ieucnfzhxeedn.website^
+||erhkyebogpkfk.online^
+||kxququrfrmt.com^
+missav.run##a[href="https://whos.tv"]
+@@||go.trvdp.com/init/$domain=olhardigital.com.br
+karaoketexty.cz,osobnosti.cz,tiscali.cz###clickLayer
+||video.flirtify.com^$redirect-rule=nooptext,domain=xhamster.com
+||pswxdbkfurgsw.online^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.sticky[stickystop]
+||yqmbvxjkhateu.com^
+||generosityreekweigh.com^
+||fmogafttanac.in^
+||uouxjyjk.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##a[href^="//api.mgid.com/"]
+||frank-advantage-131766.framer.app^
+||qcrwdgpptgkra.online^
+kupi.cz,novinky.cz,sport.cz,super.cz##.ads
+||stowedlaicize.shop^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###banner_id
+||bupvhiasgh.in^
+||httooafldx.com^
+||lh3.googleusercontent.com^$domain=manytoon.com|freemanga.me
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.movingAd
+wildtangent.com##aside.md\:flex > .mx-auto:has(div[id$="side-skyscraper"])
+||doletenantregards.com^
+auto.cz,zeny.cz##[data-track-ad]
+northernlightsccs.com#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+||html-load.com^$script,important,domain=oricon.co.jp|doviz.com|boardingarea.com|welt.de|sourceforge.net|omnicalculator.com|divinedaolibrary.com|computerbild.de|deadline.com|nouvelobs.com|hollywoodreporter.com|variety.com|billboard.com|rollingstone.com|dnevnik.hr|akinator.com|helpdeskgeek.com|indiewire.com|wwd.com|sportico.com|exceljet.net|perezhilton.com|fossbytes.com|newatlas.com|songfacts.com|slideshare.net|nextchessmove.com|usaudiomart.com|toyokeizai.net|autobild.de|infinityfree.com|kuruma-news.jp|liveandletsfly.com|learnmetrics.com|tablefortwoblog.com|laurenslatest.com|jamjarkitchen.com|dinneratthezoo.com|cafedelites.com|julieseatsandtreats.com|chelseasmessyapron.com|dinnersdishesanddesserts.com|bunsinmyoven.com|realhousemoms.com|crayonsandcravings.com|bakeplaysmile.com|iambaker.net|thesoccermomblog.com|savvysavingcouple.net|bestfriendsforfrosting.com|thegunnysack.com|gonnawantseconds.com|redcurrantbakery.com|bab.la|dictionary.cambridge.org|oxfordlearnersdictionaries.com|homesicktexan.com|tipsandtricksjapan.com|andrewzimmern.com|collinsdictionary.com|mamastar.jp|seriouseats.com|liquor.com|simplyrecipes.com|thespruceeats.com|eatingwell.com|marthastewart.com|thoughtco.com|lifewire.com|ldoceonline.com|treehugger.com|myrecipes.com|lerobert.com|sussexexpress.co.uk|edinburghnews.scotsman.com|lejdd.fr|tips-and-tricks.co|foodandwine.com|thetruthaboutcars.com|dexerto.com|happyinshape.com|wort-suchen.de|woxikon.de|ukaudiomart.com|wielerrevue.nl|zeilen.nl|chloeting.com|nationalpost.com|fansided.com|dict.cc|onceuponachef.com|twopeasandtheirpod.com|bz-berlin.de|myhomebook.de|fitbook.de|techbook.de|travelbook.de|pons.com|inverse.com|windsorstar.com|canuckaudiomart.com|watchdocumentaries.com|manchesterworld.uk|9gag.com|egitim.net.tr|petbook.de|natalie.mu|crosswordsolver.com|merinfo.se|trafficnews.jp|otonanswer.jp|egolf.jp|scribd.com|calculatorsoup.com|hk01.com|itavisen.no|magmix.jp|edmontonjournal.com|urldecoder.org|base64decode.org|programme-tv.net
+statecollege.com##div[class^="ad_code_"]
+trilltrill.jp##.RecruitmentBoxNew
+9to5google.com,9to5mac.com,9to5toys.com##iframe[title="Advertisement"]
+||lknxdluctcdyou.com^
+||slfhtrkjbsnbh.space^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###ValRageBottom
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[class^="stickyContentBottom_"]
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="klik"][href*="truu"]
+||xwxfocmndqvar.website^
+123av.fun##a[href="https://missav.run"]
+||qrtxfpiviodkq.website^
+||bfcsdocym.com^
+||lmeivxuejjbol.space^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
+kupi.cz,novinky.cz,sport.cz,super.cz##.dynamic_Rggheysn
+karaoketexty.cz,osobnosti.cz,tiscali.cz##[class$=" sticky"]
+||ciwcembcmcwin.website^
+winaero.com###indbl
+kupi.cz,novinky.cz,sport.cz,super.cz##[id$="-ad-container"]
+||paraderascaldefinitely.com^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.article-advertisement
+||boringscongrue.qpon^
+||yjodensttgbcw.online^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.btitle-right
+||ijmkxepceoabo.site^
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.pe-link
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.ads
+||azmexngawjzhx.space^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##[id^="ad-"]
+||broworker14s.com^
+economictimes.indiatimes.com###vplayer_vdoai
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[href*="Seznam_"][href*="adb"]
+||lesjhcskvsgjw.site^
+||xlqemkati.com^
+kupi.cz,novinky.cz,sport.cz,super.cz##._ad_branding_container
+||basketslatify.cfd^
+omoi.com#%#(()=>{const t={apply:(t,e,o)=>{try{const t=o[0];t?.matches?.("azuki-reader")&&!0===t?.showAd&&Object.defineProperty(o[0],"showAd",{value:!1})}catch(t){}return Reflect.apply(t,e,o)}};window.Function.prototype.bind=new Proxy(window.Function.prototype.bind,t)})();
+||alcaicsgoblet.qpon^
+||rdnoueyrjovhk.website^
+blesk.cz,e15.cz,maminka.cz,reflex.cz##a[class*="-combined"]
+||drawerexperienceletting.com^
+||nfnxhsdoby.com^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[data-blahakvaka]
+||quxgijjahdogb.site^
+||crclvymqigptwsc.com^
+telepolis.pl##.article__body .sales
+||sapeleteeny.shop^
+||eoievavdtucqs.online^
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##style + div[style="cursor: pointer; position: relative;"]
+karaoketexty.cz,osobnosti.cz,tiscali.cz##.quaquaquakva
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[href*="/pimpu?"]
+||izdxnkbffxbkc.online^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
+||khinyugbfad0dlkiunapldnka3sdeuhn.com^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="ghx_content"]
+kupi.cz,novinky.cz,sport.cz,super.cz###adCommercialBackground
+||horkeytheban.qpon^
+karaoketexty.cz,osobnosti.cz,tiscali.cz###stickyBanner
+||estrebenched.qpon^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz###brandingCreativeWrapper
+||html-load.com^$important,domain=nikkansports.com|j-cast.com|picksandparlays.net|ranking.net|minkou.jp|aucfree.com|motor-talk.de|373news.com|northantstelegraph.co.uk|tavovaikas.lt|agriculture.com|travelandleisure.com|learnreligions.com|verywellhealth.com|statecollege.com|dayspedia.com
+||rbnfyqwhkwffg.website^
+||geeunlessarcade.com^
+||xvrrjdgregofk.website^
+kupi.cz,novinky.cz,sport.cz,super.cz##.superPrclanek
+||restivemopoke.cyou^
+||drdgpyhytqtnh.website^
+||qhxrexamnxunp.site^
+calendar.austinchronicle.com##.AirMedRectComboInlineResults2responsive
+||tqgtxxsbn.com^
+||sycuvdfe.com^
+kupi.cz,novinky.cz,sport.cz,super.cz##a[title="Rekᥣama"]
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.ad-skyscrapper
+||bbiklzuzmsylk.online^
+||icfpvxonwq.com^
+||apxvwoxfi.in^
+||59haloar.net^
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,karaoketexty.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##div[class$="-banner"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+||zrdfrtrswsgib.online^
+horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##[href*="herm"][href*="seznam"]
+||hbdxebuxz.com^
+regexlearn.com##.w-full.mb-3:has(a[href="/learn/regex-for-seo"])
+auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,maminka.cz,mojezdravi.cz,reflex.cz,zeny.cz,zive.cz##.inserted_rtb
+||ueujvfjkukeqf.website^
+||a2pfs5k90i.com^
+||dutchrelay.com^
+||jfvcvxdljdqxw.website^
+youtube.com#$#override-property-read yt.ads.biscotti.getId_ undefined
+playhop.com##.google-sticky-adv-banner
+||vbvwcpowriyyo.space^
+||rkwidoqhrsmag.online^
+||w97nv5ibv4.com^
+||gtlmblpvpirgj.site^
+||batlancaret.cfd^
+mwed.jp##article.article-manual-entry > div[style^="margin-top:"]:not([class])
+||decimaldaysloaf.com^
+||salarypenholder.com^
+||dz6xqe19d2.com^

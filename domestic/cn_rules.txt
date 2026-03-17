@@ -1,7 +1,7 @@
-! Update on 2026-03-17 03:48:50 (Beijing Time)
-! Generated on 2026-03-17 03:48:50 (Beijing Time)
+! Update on 2026-03-18 03:50:18 (Beijing Time)
+! Generated on 2026-03-18 03:50:18 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27574
+! Total domestic rules: 27576
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27577,3 +27577,5 @@ alions.pro,asnwish.com,audinifer.com,hanerix.com,hgcloud.to##div[style^="positio
 cancam.jp##.sp-template-field
 ||a11.click^
 ||nsxrfh.icu^
+||nhlrzf.icu^
+123865.com##.appBottomBtn ~ .ant-carousel

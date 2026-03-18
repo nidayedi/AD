@@ -1,7 +1,7 @@
-! Update on 2026-03-18 03:50:18 (Beijing Time)
-! Generated on 2026-03-18 03:50:18 (Beijing Time)
+! Update on 2026-03-19 03:43:27 (Beijing Time)
+! Generated on 2026-03-19 03:43:27 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27576
+! Total domestic rules: 27579
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27579,3 +27579,6 @@ cancam.jp##.sp-template-field
 ||nsxrfh.icu^
 ||nhlrzf.icu^
 123865.com##.appBottomBtn ~ .ant-carousel
+||lkhmlx.icu^
+jianshen8.com##.index-banner
+||rypebb.icu^

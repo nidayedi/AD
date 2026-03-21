@@ -1,7 +1,7 @@
-! Update on 2026-03-21 03:32:26 (Beijing Time)
-! Generated on 2026-03-21 03:32:26 (Beijing Time)
+! Update on 2026-03-22 03:17:57 (Beijing Time)
+! Generated on 2026-03-22 03:17:57 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27585
+! Total domestic rules: 27587
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27588,3 +27588,5 @@ bilibili.com##.recommended-swipe .carousel-footer-title > a[href^="http"]:not([h
 whakatakitimes.nz##.elementor-element-97aca2d
 123865.com##.ant-modal-root:has(> .tuia-modal-wrap)
 ||pdzzjz.icu^
+||ngvrtj.icu^
+/r.news.zbigz.com/mk/op/*$image

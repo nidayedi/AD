@@ -1,7 +1,7 @@
-! Update on 2026-03-26 03:40:51 (Beijing Time)
-! Generated on 2026-03-26 03:40:51 (Beijing Time)
+! Update on 2026-03-27 03:51:31 (Beijing Time)
+! Generated on 2026-03-27 03:51:31 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27600
+! Total domestic rules: 27605
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27603,3 +27603,8 @@ whakatakitimes.nz##.elementor-element-97aca2d
 ||aickw1c4w.com^
 ||tgxpdr.icu^
 ||s3bltexcm.com^
+||ujfyzxfc01.com^
+||tvlmzx.icu^
+||b7pgs2ifvq.com^
+||brandsmat.com^
+@@||ticket.yes24.com^$stealth=dpi

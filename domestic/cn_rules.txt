@@ -1,7 +1,7 @@
-! Update on 2026-03-29 03:23:58 (Beijing Time)
-! Generated on 2026-03-29 03:23:58 (Beijing Time)
+! Update on 2026-03-30 03:26:24 (Beijing Time)
+! Generated on 2026-03-30 03:26:24 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27616
+! Total domestic rules: 27627
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27619,3 +27619,14 @@ mydrivers.com#?#li:has(>.titl+:contains(/好\s*物/))
 ||diouidlf98.com^
 ||vclunl.icu^
 ||podcxz.icu^
+hotcleaner.com##figure[regularization]
+||vrzuhj.icu^
+||vtc3rlbjj.com^
+hotcleaner.com##div:empty
+search.yahoo.co.jp##.AdContainer__expandButton
+search.yahoo.co.jp##.AdContainer__header
+hotcleaner.com##div[caching]
+||tfhpxv.icu^
+weibo.com##.wbpro-side-panel:has(span[class^="wbpro-icon-search"]:contains(���))
+||d84iw5qqf.com^
+post.smzdm.com##.side-eleven-activity

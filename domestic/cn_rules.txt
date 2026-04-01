@@ -1,7 +1,7 @@
-! Update on 2026-04-01 03:50:07 (Beijing Time)
-! Generated on 2026-04-01 03:50:07 (Beijing Time)
+! Update on 2026-04-02 03:53:45 (Beijing Time)
+! Generated on 2026-04-02 03:53:45 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27671
+! Total domestic rules: 27675
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27674,3 +27674,7 @@ post.smzdm.com##.side-eleven-activity
 ||rtb-apac-v4.nasrev.com^
 ||rkrhfl.icu^
 ||xyzcvx.icu^
+||triadsnnsoupcons.info^
+||tmpsdp.icu^
+123pan.com,123865.com##.ant-modal-root:has(> .tuia-modal-wrap)
+||raxkvb.icu^

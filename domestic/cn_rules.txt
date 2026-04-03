@@ -1,7 +1,7 @@
-! Update on 2026-04-03 03:43:33 (Beijing Time)
-! Generated on 2026-04-03 03:43:33 (Beijing Time)
+! Update on 2026-04-04 03:33:48 (Beijing Time)
+! Generated on 2026-04-04 03:33:48 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27679
+! Total domestic rules: 27687
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27682,3 +27682,11 @@ post.smzdm.com##.side-eleven-activity
 ||mcds.dalyfeds.com^
 ||pdtffl.icu^
 ||rpvkpz.icu^
+||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noopmp3-0.1s,domain=m.yichengwlkj.com
+||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=m.yichengwlkj.com
+||cdn.rrmj.plus/c-next/mapp/*/layout-$script,replace=/secondsAdMaxTimes:\d+/secondsAdMaxTimes:150000/,domain=m.yichengwlkj.com
+||m.yichengwlkj.com/ssp_ad_sdk.js
+||vgzard.icu^
+captainaltcoin.com,freedesignresources.net,utahgunexchange.com,webkinznewz.ganzworld.com,webpokie.com##.widget_text
+||psrfbr.icu^
+||cdn.rrmj.plus/c-next/mapp/*/layout-$script,replace=/firstAdMaxFreeTimes:\d+/firstAdMaxFreeTimes:30000/,domain=m.yichengwlkj.com

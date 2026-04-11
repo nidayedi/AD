@@ -1,7 +1,7 @@
-! Update on 2026-04-11 03:38:29 (Beijing Time)
-! Generated on 2026-04-11 03:38:29 (Beijing Time)
+! Update on 2026-04-12 03:29:47 (Beijing Time)
+! Generated on 2026-04-12 03:29:47 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27734
+! Total domestic rules: 27736
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27737,3 +27737,5 @@ qq.com##.qzone-carousel-ad
 ||rapndh.icu^
 ||xoxitt.icu^
 ||npzc1yzag7.com^
+||vrtafd.icu^
+||xdlipr.icu^

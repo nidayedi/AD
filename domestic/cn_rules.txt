@@ -1,7 +1,7 @@
-! Update on 2026-04-16 03:58:26 (Beijing Time)
-! Generated on 2026-04-16 03:58:26 (Beijing Time)
+! Update on 2026-04-17 03:56:54 (Beijing Time)
+! Generated on 2026-04-17 03:56:54 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27760
+! Total domestic rules: 27768
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27763,3 +27763,11 @@ baenegocios.com,sexsq.com,european-alternatives.eu,imgsli.com,pixeldrain-bypass.
 ||xnrinp.icu^
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
 ||8khgnlxk6.com^
+||bgjylr.icu^
+||vsbdvf.icu^
+battlecats-db.com#@#ins.adsbygoogle[data-ad-client]
+battlecats-db.com#@#ins.adsbygoogle[data-ad-slot]
+||qd38xgoin9.com^
+||cjb6nr5csu.com^
+||6zc7gvmavf.com^
+@@||staticsns.cdn.bcebos.com/amis/$image,domain=pan.baidu.com

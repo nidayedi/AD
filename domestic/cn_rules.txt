@@ -1,7 +1,7 @@
-! Update on 2026-04-17 03:56:54 (Beijing Time)
-! Generated on 2026-04-17 03:56:54 (Beijing Time)
+! Update on 2026-04-18 03:53:19 (Beijing Time)
+! Generated on 2026-04-18 03:53:19 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27768
+! Total domestic rules: 27775
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27771,3 +27771,10 @@ battlecats-db.com#@#ins.adsbygoogle[data-ad-slot]
 ||cjb6nr5csu.com^
 ||6zc7gvmavf.com^
 @@||staticsns.cdn.bcebos.com/amis/$image,domain=pan.baidu.com
+||tvxvhx.icu^
+jpopsingles.eu##[src="/ddl/dl-link.png"]
+||zwfqxj.icu^
+2345.com##.part-banner
+||wfwadedzk.com^
+||its1zeqni.com^
+||wxy9b202h.com^

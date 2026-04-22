@@ -1,7 +1,7 @@
-! Update on 2026-04-22 03:59:24 (Beijing Time)
-! Generated on 2026-04-22 03:59:24 (Beijing Time)
+! Update on 2026-04-23 04:01:14 (Beijing Time)
+! Generated on 2026-04-23 04:01:14 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27789
+! Total domestic rules: 27792
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27792,3 +27792,6 @@ readfrom.net###content > article.shortstory
 smartapps.baidu.com##.mount-fc-promo-wrapper
 ||uqtwyajmw.com^
 ||wde0a1qrm.com^
+||impdsp.meituan.com^
+geotastic.net##+js(google-ima)
+||rtb.julang.taobao.com^

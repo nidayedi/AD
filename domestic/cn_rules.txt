@@ -1,7 +1,7 @@
-! Update on 2026-04-23 04:01:14 (Beijing Time)
-! Generated on 2026-04-23 04:01:14 (Beijing Time)
+! Update on 2026-04-24 04:02:45 (Beijing Time)
+! Generated on 2026-04-24 04:02:45 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27792
+! Total domestic rules: 27799
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27795,3 +27795,10 @@ smartapps.baidu.com##.mount-fc-promo-wrapper
 ||impdsp.meituan.com^
 geotastic.net##+js(google-ima)
 ||rtb.julang.taobao.com^
+readfrom.net##[href*="&aff"]
+ai.ettoday.net#@#amp-ad
+ai.ettoday.net#@#.amp-unresolved
+ai.ettoday.net##div[id^="adsense_matched_content"]
+news.10jqka.com.cn##.advert-common-react
+@@||dcinside.com^$stealth
+ai.ettoday.net,star-ettoday-net.cdn.ampproject.org##.adHint

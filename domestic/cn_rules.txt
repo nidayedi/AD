@@ -1,7 +1,7 @@
-! Update on 2026-04-25 03:45:09 (Beijing Time)
-! Generated on 2026-04-25 03:45:09 (Beijing Time)
+! Update on 2026-04-26 03:38:46 (Beijing Time)
+! Generated on 2026-04-26 03:38:46 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27800
+! Total domestic rules: 27805
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27803,3 +27803,8 @@ news.10jqka.com.cn##.advert-common-react
 @@||dcinside.com^$stealth
 ai.ettoday.net,star-ettoday-net.cdn.ampproject.org##.adHint
 ||riskbird.com/riskbird-api/guest/unionGoods
+ettoday.net#@#.amp-unresolved
+ettoday.net,star-ettoday-net.cdn.ampproject.org##.adHint
+ettoday.net##div[id^="adsense_matched_content"]
+@@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
+||jqszhz7wo.com^

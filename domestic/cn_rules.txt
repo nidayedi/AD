@@ -1,7 +1,7 @@
-! Update on 2026-04-27 03:40:26 (Beijing Time)
-! Generated on 2026-04-27 03:40:26 (Beijing Time)
+! Update on 2026-04-28 04:04:19 (Beijing Time)
+! Generated on 2026-04-28 04:04:19 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27807
+! Total domestic rules: 27819
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27810,3 +27810,15 @@ ettoday.net##div[id^="adsense_matched_content"]
 ||jqszhz7wo.com^
 ||gla3sr9r1m.com^
 ||4ro76m7k2n.com^
+||8iav2fuiy.com^
+||ozrnsf3ta.com^
+toyokeizai.net##.article-related__list > article.article-related__item:has(> div.ad-container)
+||kuazhi.com/kuazhi_click.
+||49dlt9myv.com^
+sexeey.com,xswiper.com##+js(no-xhr-if, adpresenter.de)
+||8yo772d29.com^
+nfuwow.com##.ad1320top
+||xciryzdnl.com^
+||qkdrsi4et.com^
+||1adi9wenq.com^
+news.denfaminicogamer.jp##aside[id*="-1"]

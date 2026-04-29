@@ -1,7 +1,7 @@
-! Update on 2026-04-29 04:10:04 (Beijing Time)
-! Generated on 2026-04-29 04:10:04 (Beijing Time)
+! Update on 2026-04-30 04:06:56 (Beijing Time)
+! Generated on 2026-04-30 04:06:56 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27826
+! Total domestic rules: 27832
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27829,3 +27829,9 @@ news.denfaminicogamer.jp##aside[id*="-1"]
 ||mgpl5pqg29.com^
 ||tsaor7o1e9.com^
 ||j1bla75rck.com^
+alibaba.com##[id^="sse-fluent-wending"]:has(.creative-ad-tag)
+||vmn05pnuh.com^
+||yuhn5w31n.com^
+@@||hisnet.handong.edu^$stealth=dpi
+||fuma8ligq.com^
+||pjovytymn.com^

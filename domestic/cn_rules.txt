@@ -1,7 +1,7 @@
-! Update on 2026-04-30 04:06:56 (Beijing Time)
-! Generated on 2026-04-30 04:06:56 (Beijing Time)
+! Update on 2026-05-01 04:06:05 (Beijing Time)
+! Generated on 2026-05-01 04:06:05 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27832
+! Total domestic rules: 27836
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27835,3 +27835,7 @@ alibaba.com##[id^="sse-fluent-wending"]:has(.creative-ad-tag)
 @@||hisnet.handong.edu^$stealth=dpi
 ||fuma8ligq.com^
 ||pjovytymn.com^
+||fummd03je4.com^
+||m11bkuusyb.com^
+||mp1sy1nri8.com^
+||eqlhb8m42q.com^

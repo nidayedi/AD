@@ -1,7 +1,7 @@
-! Update on 2026-05-06 04:02:22 (Beijing Time)
-! Generated on 2026-05-06 04:02:22 (Beijing Time)
+! Update on 2026-05-07 04:16:58 (Beijing Time)
+! Generated on 2026-05-07 04:16:58 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27845
+! Total domestic rules: 27846
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27848,3 +27848,4 @@ thetimes.com.au##[href="https://www.oracle.com/anz/database/"]
 123pan.com,123865.com##+js(no-window-open-if)
 123pan.com,123865.com##.bg_svip_block_ads
 upstyledaily.com##div[id^="wrapper-"][id*="-ad"]
+@@||nsl.pincrux.com^$stealth=dpi

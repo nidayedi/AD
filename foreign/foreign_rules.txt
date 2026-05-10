@@ -1,7 +1,7 @@
-! Update on 2026-05-10 03:52:05 (Beijing Time)
-! Generated on 2026-05-10 03:52:05 (Beijing Time)
+! Update on 2026-05-11 03:53:36 (Beijing Time)
+! Generated on 2026-05-11 03:53:36 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 204484
+! Total foreign rules: 204598
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -204487,3 +204487,117 @@ justetf.com##.etf-ad-row
 ||dfqwvrbplyt.com^
 ||heremstethal.cfd^
 ||sellamu.qpon^
+||orivljebpiflr.website^
+||vlmwrffewzarp.site^
+||wtvzekabnlunb.online^
+||ygrsgrdcdmwpig.com^
+||kraamqdkecu.in^
+||vnchlbtawhqpd.site^
+||sgyrsltalokbeo.com^
+||lmohdmblhyek.com^
+||dtolxskhdcxube.com^
+||xehkxoftzdyar.online^
+||glirinetreague.shop^
+||jaxzqxenahdby.online^
+||gkudvtagscd.com^
+||obcludeguignol.cfd^
+||yznvhiongucvp.site^
+||lseqmdjfm.com^
+||ivgjrrglanxwa.site^
+||heyzxededowik.site^
+||xxrhbucdwagpr.website^
+wykop.pl##section[class]:has(> .wrapper > a:is([href*="clk.tradedoubler.com"], [href*="&landingPageId="][href*="&partner_id="]))
+||qwfmqkysepqin.online^
+||ecuc6mmwt.com^
+||fxbfsxgojhnem.website^
+||languishmonthly.com^
+||rnofuxgaz.com^
+||jwfdheuw.com^
+||minoizeapes.cfd^
+||qbaqvlbuxhcxm.website^
+||patapatkerogen.cfd^
+wykop.pl##section[class]:has(> .wrapper > img:first-child + a[target="_blank"]:last-child)
+||zuieggzsdlo.com^
+||rmpgcpimiudoi.space^
+||asqoxdxmawar.in^
+||ruminaribonic.qpon^
+purediablo.com###leader-desktop
+||kcpjcysrevmljns.com^
+||htofkaag.in^
+||gcmsiznuwiuxr.space^
+||ieslkslqljjrtq.com^
+||brflwpffv.com^
+||szuuavklaghmb.online^
+||yrxifyuacyaks.space^
+||usmbctyjigsnp.space^
+||yospwglhkdjcb.online^
+||ftilbfkyikdpe.online^
+||whefggthjwygl.space^
+||untoxicnerve.cyou^
+||othazdvr.in^
+||im0st6rwn.com^
+||ttsfflsjrsnob.website^
+||xdbfroeqjhkqw.site^
+||yfuneukhskjskyp.com^
+denverbroncos.com##body > div:not([class], [id]) > #AdHeader:style(display: block !important;)
+||prukbxxjaevbvb.com^
+||dspchided.com^
+beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,theintelligencer.com##.y100:has([data-block-type="ad"])
+||rxnchspomdisr.website^
+||rubwyxmcjbudza.com^
+||rtwoxeltrwtzh.space^
+||ynyxozjzwnclf.online^
+||isyvamyud.com^
+||ginkidojk.in^
+||bdssxxmpobmpk.online^
+||packouabain.cfd^
+||congresscaptainfatal.com^
+||vuzdaqkpofka.in^
+||smirchdevoir.qpon^
+||bqevqsfwykpcil.com^
+||bigqyqjugwbxg.site^
+||nqsxryhqhc.com^
+||mbkvzuwnymnnu.site^
+||emkajkegibcad.website^
+wykop.pl##section[class]> .wrapper:matches-css(before, content: /^reklama$/):has(> img + a[target="_blank"])
+||ir3f1x3aet.com^
+||signahqim.in^
+||wildlyzonereseptivereseptive.com^
+||hhounvkxcdj.com^
+wykop.pl#?#section[class]> .wrapper:matches-css(before, content: /^reklama$/):has(> img + a[target="_blank"])
+||hvbhpvsmewduj.site^
+||o28wg9kq8i.com^
+||ssbdsworvvkuk.online^
+||regiftpercale.cyou^
+||ugoujglhvut.com^
+||fftiyxescpqux.site^
+||rwyswyanwa.in^
+||sqhpswzhoxmiw.site^
+||ghyfjpduegckx.site^
+||pbxagcahqree.com^
+||wisstbthlyhv.com^
+||bedamnssoaks.cyou^
+||jcmmzxeoklqrx.website^
+||vsftlmkyglbtk.site^
+||putpnvsxxgpsg.site^
+||wsocurhqriekb.space^
+||quillonalgums.com^
+||otvhlnixv.com^
+||sapuzvinnbuqc.online^
+||cestetrpset.shop^
+||ccxqwolbriouv.site^
+||lujtncrtupnq.com^
+||zavoygjlxqwxc.space^
+||tuqxpceqhdfwrsk.com^
+||soxhyxhugzwez.website^
+~m.facebook.com,facebook.com##div[data-status-bar-color] > div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"]:has(> div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"] div[data-mcomponent="TextArea"] .native-text > span:contains(/(Sponsored|Gesponsert|Sponsorlu|Sponsorowane|Ispoonsara godhameera|Geborg|Bersponsor|Ditaja|Disponsori|Giisponsoran|Sponzorováno|Sponsoreret|Publicidad|May Sponsor|Sponsorisée|Oipytyvôva|Ɗaukar Nayin|Sponzorirano|Uterwa inkunga|Sponsorizzato|Imedhaminiwa|Hirdetés|Misy Mpiantoka|Gesponsord|Sponset|Patrocinado|Patrocinado|Sponsorizat|Sponzorované|Sponsoroitu|Sponsrat|Được tài trợ|Χορηγούμενη|Спонсорирано|Спонзорирано|Ивээн тэтгэсэн|Реклама|Спонзорисано|במימון|سپانسرڈ|دارای پشتیبا��ی مالی|ስፖንሰር የተደረገ|प्रायोजित|ተደረገ|प|प्रायोजित|স্পনসর্ড|ਪ੍ਰਯੋਜਿਤ|પ્રાયોજિત|ପ୍ରାୟୋଜିତ|செய்யப்பட்ட செய்யப்பட்ட|చేయబడినది చేయబడినది|ಪ್ರಾಯೋಜಿಸಲಾಗಿದೆ|ചെയ്‌തത് ചെയ്‌തത്|ලද ලද ලද|สนับสนุน สนับสนุน รับ สนับสนุน สนับสนุน|ကြော်ငြာ ကြော်ငြာ|ឧបត្ថម្ភ ឧបត្ថម្ភ ឧបត្ថម្ភ|광고|贊助|赞助内容|広告|സ്‌പോൺസർ ചെയ്‌തത്)/)):not(:has([data-tracking-duration-id])) + .m:is(.bg-s2, .bg-s3, .bg-s4) + .m:is(.bg-s2, .bg-s3, .bg-s4):has(+ .m:not(:has(.m:empty)))
+||arwqwawwlo.com^
+||l3j3glzp6g.com^
+||xfbnbgdmeygfz.online^
+||ubdzfzmzmakka.website^
+||fxanwjmjbjhcq.website^
+||gmhlsxchqfoon.site^
+||tatlertarpon.shop^
+sltrib.com##.sltrib_medrec_sidebar_atf
+||ogfxrbhcnvspnk.com^
+||ubudibhf1b.com^

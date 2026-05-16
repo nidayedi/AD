@@ -1,7 +1,7 @@
-! Update on 2026-05-16 04:10:39 (Beijing Time)
-! Generated on 2026-05-16 04:10:39 (Beijing Time)
+! Update on 2026-05-17 03:58:07 (Beijing Time)
+! Generated on 2026-05-17 03:58:07 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27852
+! Total domestic rules: 27856
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27855,3 +27855,7 @@ tuttoandroid.net##.post-content > div.box_read_also:has(> div > strong > a[href^
 @@||absciss.algonoew.online/?token_movie=$stealth=referrer
 ||pc-util.gamersky.com^
 ||gamersky.com^*/getAdPositionIncDetail?
+||kvno4qgv8n.com^
+||96fb5jhkn3.com^
+115cdn.com##.flex-shrink-0 > .w-full:has(> div.spotlight-ad-container)
+||pcc980pvul.com^

@@ -1,7 +1,7 @@
-! Update on 2026-06-02 05:57:25 (Beijing Time)
-! Generated on 2026-06-02 05:57:25 (Beijing Time)
+! Update on 2026-06-03 05:42:44 (Beijing Time)
+! Generated on 2026-06-03 05:42:44 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27908
+! Total domestic rules: 27910
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27911,3 +27911,5 @@ opatil.com,dein-ort.de,mini.surveyenquete.net,hartico.tv,agendazdsp.blogspot.com
 ||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noopmp3-0.1s,domain=yichengwlkj.com
 ||cdn.rrmj.plus/c-next/mapp/*/layout-$script,replace=/firstAdMaxFreeTimes:\d+/firstAdMaxFreeTimes:30000/,domain=yichengwlkj.com
 ||cdn.rrmj.plus/c-next/mapp/*/layout-$script,replace=/secondsAdMaxTimes:\d+/secondsAdMaxTimes:150000/,domain=yichengwlkj.com
+rugbypass.com###snack-sticky
+||letvdbrwhbnhrs.com^

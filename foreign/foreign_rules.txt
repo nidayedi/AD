@@ -1,7 +1,7 @@
-! Update on 2026-06-06 04:46:23 (Beijing Time)
-! Generated on 2026-06-06 04:46:23 (Beijing Time)
+! Update on 2026-06-07 04:05:08 (Beijing Time)
+! Generated on 2026-06-07 04:05:08 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 209853
+! Total foreign rules: 210085
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -209856,3 +209856,235 @@ bhg.com.au,power-technology.com,food.com,xataka.com.ar,xataka.com.co,3djuegosgui
 animesanka.*,witanime.com,pouvideo.cc,manga18fx.com,milfnut.com##body ~ iframe[style*="width:"][style*="z-index:"][style*="position:"]:not([src])
 pvpoke-re.com#%#//scriptlet('abort-on-stack-trace', 'setTimeout', '/[a-z][A-Z][0-9A-Za-z]{4,}\.js\?v=/')
 ||3hrv7yijx.com^
+upload-apk.com##.vr-adv-unit
+||wmbokeoayhnjg.site^
+||820zenen.net^
+||qmdfianrkobxx.com^
+@@||4cdn.org/adv/$image,xhr,domain=4channel.org
+||xtehklaqrbpgy.space^
+||ustvxwik.com^
+||kxbqaaxjeqjqk.website^
+||iewozubtql.com^
+kids-in-mind.com##.et_pb_code_inner > span[style*="font-size:"]:contains(/^advertisement$/)
+||udltukunieovi.site^
+player.videasy.to##+js(addEventListener-defuser, unload, unloaded_at)
+edmunds.com##.overflow-hidden.w-100:has(.exco-player)
+||ljline.com^
+||estudbjfcaoag.website^
+||qxlivwpqqp.com^
+||620cyris.net^
+||wrfimzlidwcvy.space^
+||ddoqtrdsglql.com^
+||idhubs.app/core.v3.js
+||xkbbqpqojizgo.space^
+||hstxodhtqfyko.site^
+||ahfvirogw.in^
+||foineqhrjvek.com^
+||tqmwhptlrtmsl.space^
+||puunycbdkdtjz.space^
+||8888queue.com^
+||travelerpic.com^
+||xliefgyqwgv.com^
+||terneryeducand.shop^
+||tiwaffrm.in^
+||buzvophsxtvn.com^
+||davtwymjlx.com^
+||bhobmdtjc.com^
+||qjvyvtffjirwg.website^
+||nhwckdbupj.com^
+player.videasy.to##+js(no-window-open-if)
+||phcvdclocqiqj.site^
+||hutmqkgdvayc.com^
+||dhnzkdgvdkdvg.space^
+||glikepulpar.cfd^
+||vhnteccjeyoyj.online^
+||atavismoozier.qpon^
+||lrswuibzxeezh.site^
+||allowseshehasn.com^
+||tdlop7tsme.com^
+||setmycurfwoky.online^
+||pzhrcssjaridu.website^
+||allowseshehasn.com^$popup
+||mkgzatmgpyzom.online^
+||rblvzabjuxlan.site^
+||gauhpfendcxst.space^
+||qamurtajzovce.site^
+campbellrivermirror.com,magnoliastatelive.com##.one_by_one_group
+||dsdbbqmgpdfnl.space^
+||hrmisfkhfcrht.online^
+clutchpoints.com##.not-prose > div.md\:hidden:has(script[src^="https://subscribe-forms.beehiiv.com/"])
+||stopperbarristerforecast.com^
+||frctovigtdunp.site^
+||channel2pod.net^
+||igatynypkajfn.online^
+||dvahisuydcipe.website^
+||ixrkpkhdiwtej.website^
+||executors4app.com^
+||ukupwdygrdzfj.website^
+||mbdxuvvtncswv.space^
+||biyrseggdidiy.site^
+||890fromzen.net^
+||sftkrcgmouym.com^
+||opdvzscgsotag.site^
+||uxvpxicnkuuxk.site^
+||efraprlgazhjq.space^
+||chhzrtvlbpdwm.website^
+||warehouses96.net^
+||rgfimmbdfkiuoa.com^
+||heroicharpy.cyou^
+||curvy-print.pro^
+||expertwhys.cfd^
+||havboban.com^
+||xrff-adguard.pro^
+||pinsonsroquer.cfd^
+||cozswshtvzpjq.website^
+||fblndqobxs.com^
+||jdtdhduqblyiy.space^
+||ljline.com^$popup
+||cajetagryllus.cyou^
+||jxenfykdzwlhi.space^
+||4000toinstruments.net^
+||axorawebnet.com^
+||kpxpsuesitcnc.space^
+||wagwylawqmhg.com^
+||lvjquuyugqirb.space^
+player.videasy.to#%#//scriptlet('prevent-window-open')
+||dnrplhluklgsh.site^
+@@||ad.doubleclick.net/favicon.ico$domain=idhubs.app
+||quarantine2procedure.com^
+||kvnabnwflcgzi.website^
+||jrspsurbqezbi.site^
+||ilcstuywgiayu.com^
+||hwmesbhun.com^
+||player.videasy.to/scripts/ab.js
+homedepot.ca##sponsored-banner
+||ahuvgjyj.com^
+~m.facebook.com,facebook.com##div[data-status-bar-color] > div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"]:has(> div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"] div[data-mcomponent="TextArea"] .native-text > span:contains(/(Sponsored|Gesponsert|Sponsorlu|Sponsorowane|Ispoonsara godhameera|Geborg|Bersponsor|Ditaja|Disponsori|Giisponsoran|Sponzorováno|Sponsoreret|Publicidad|May Sponsor|Sponsorisée|Oipytyvôva|Ɗaukar Nayin|Sponzorirano|Uterwa inkunga|Sponsorizzato|Imedhaminiwa|Hirdetés|Misy Mpiantoka|Gesponsord|Sponset|Patrocinado|Patrocinado|Sponsorizat|Sponzorované|Sponsoroitu|Sponsrat|Được tài trợ|Χορηγούμενη|Спонсорирано|Спонзорирано|Ивээн тэтгэсэн|Реклама|Спонзорисано|במימון|سپانسرڈ|دارای پشتیبانی مالی|ስፖንሰ�� የተደረገ|प्रायोजित|ተደረገ|प|प्रायोजित|স্পনসর্ড|ਪ੍ਰਯੋਜਿਤ|પ્રાયોજિત|ପ୍ରାୟୋଜିତ|செய்யப்பட்ட செய்யப்பட்ட|చేయబడినది చేయబడినది|ಪ್ರಾಯೋಜಿಸಲಾಗಿದೆ|ചെയ്‌തത് ചെയ്‌തത്|ලද ලද ලද|สนับสนุน สนับสนุน รับ สนับสนุน สนับสนุน|ကြော်ငြာ ကြော်ငြာ|ឧបត្ថម្ភ ឧបត្ថម្ភ ឧបត្ថម្ភ|광고|贊助|赞助内容|広告|സ്‌പോൺസർ ചെയ്‌തത്)/)):not(:has([data-tracking-duration-id])) + .m:is(.bg-s2, .bg-s3, .bg-s4) + .m:is(.bg-s2, .bg-s3, .bg-s4):has(+ .m:not(:has(.m:empty)))
+||wednssuebwomq.online^
+||mqndvpogdsocdg.com^
+||uwxtoegtarqfw.online^
+||jobs.sciencecareers.org^$subdocument,3p
+||ldmlvobrl.com^
+||ltrkecmxdrvfjh.com^
+||xjmdtacpndbgkl.com^
+||hqszwdormatma.com^
+||soniouacnode.shop^
+||oundhertobeconsist.org^$popup
+||odogvzuwsqgxb.online^
+||mmpffpeawcrfh.space^
+||awudlmfxtetxh.com^
+||republer.com^$3p
+||pytnufizhslky.space^
+desihoes.com###topRightBanner
+||worthlesscomment.pro^
+||dzgrlzgqawj.com^
+||loen21.net^
+||jkdkahix.com^
+||6ejvq6ykg2.com^
+||screwerfriseur.cyou^
+||uwnvbsyrtezca.website^
+||hktslxpqf.com^
+||crwswthxnqezg.online^
+||esawbynaavjmi.online^
+idhubs.app##+js(remove-node-text, script, __AB_DET)
+||jwqntfwcet.com^
+||tfdgdxwklxkxv.website^
+||mavhmdjsczmqp.space^
+||bookingdragon.com^$subdocument,3p
+||lhwmkhspqb.com^
+||hngnmcggjoyhp.space^
+||platforms6.net^
+||anedromnxznjn.space^
+||hexacidxref.shop^
+||sinaeanspawner.cyou^
+nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##+js(abort-on-property-write, __PROXY_META)
+||ucrlflgxjgpzv.site^
+||yuwtlkeagkqi.com^
+||wunworsets.shop^
+taste.com.au##aside.rhc-container > div[data-sticky-element][style*="top:"]:style(top: 0 !important;)
+||fyauuswqwavou.website^
+||biosomerefed.cyou^
+||ckmghmpfmdfvk.online^
+||obkytatwdvppb.space^
+||sviyaxwppcijq.site^
+euronews.com,globalnews.ca,stuff.tv##.c-ad
+||jezgteymvjesv.space^
+mashable.com##[data-seamless-ad]
+@@||easy.worldthunder.net^$xmlhttprequest,stealth=referrer,domain=player.videasy.net|player.videasy.to
+||factories2048.com^
+||knowacaliforniafarmer.com^
+||dealchocolate.com^
+inc.com#?#.pr-\[25px\].py-\[27px\]:contains(Apply Now)
+||nqctkgwzccadj.space^
+||lowbredriksha.cfd^
+||zklnseiv.com^
+||unifywithstatistics.net^
+@@||dziennikwschodni.pl/*/*?ads=$~3p,image
+||terribleroll.pro^
+dallasinnovates.com,fingerlakes1.com,namibian.com.na,thecoastnews.com,watchesbysjx.com##.gofollow
+||xeducmvlja.com^
+||lcsirlytsncmg.space^
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=idhubs.app
+||runiteengaged.cfd^
+||aajumjptgqnah.website^
+||exdpsrmjidnh.com^
+||lgjfurhffohux.website^
+||hearty-king.pro^
+||twsfwdhpqv.com^
+||wcwysdfmiznik.online^
+||sombreyaws.cyou^
+||pzpkfoioljn.com^
+||platforms1500.net^
+||pourmajeurs.com^$3p
+||uapfyvlekcult.website^
+||tlnzytcoxxpuy.com^
+||rammagepertly.qpon^
+||crjpudzmwdsom.online^
+||prfscmwe.com^
+||qyulmstsglohq.space^
+www.seznam.cz#$#replace-fetch-response '/adType/' {}; hide-if-matches-xpath '//a[@rel][contains(translate(translate(text(), "ĂÂÎȘȚ��âîșțR̆", "AAISTaaistR"), "REKLAMA", "reklama"), "reklama")][contains(@class,"color-neutral-2")]/parent::div/parent::div/parent::div/parent::div[@style][1]'
+||ghgsdzfzzunmb.online^
+||hjdxgnahaoirl.site^
+||mudhookgaylies.shop^
+||killbkkt.com^
+||niujgbwstyckncx.com^
+||a5wlr2yplf.com^
+||zgegvpswvuaec.site^
+||uqletjdcbcwwtf.com^
+||irhiazdytkbau.online^
+||syntaxtounlimited.com^
+||fojjbzqxtnony.website^
+||squintsstretta.cyou^
+||itslive.com^$3p
+msn.com##.gem-display-ad-wrapper
+||bakgmtmwnabbq.space^
+||thresholdskill.com^
+||o5y2zd1lq8.com^
+inc.com##.pr-\[25px\].py-\[27px\]:contains(Apply Now)
+||yppplierehd.com^
+||pfbkrujvhneou.website^
+||nxxlfhtdcpzjz.site^
+||vfulirgkuogp.in^
+||pr.costaction.com^$3p
+||radbafhuhq.in^
+||bzicmmsfnogzz.site^
+||nqpdehxkdigoo.website^
+||qcvbnqbisfama.online^
+||jicaquedehache.cyou^
+||zerodrifts.com^
+@@||s.amazon-adsystem.com^$domain=idhubs.app
+||statisticstohost.net^
+||uysqpqkmahnaq.website^
+||kbarobrxyobqjd.com^
+||peopaoagx.com^
+||fiyyozmomzbsb.online^
+||proteanodiums.qpon^
+player.videasy.to#%#//scriptlet('prevent-addEventListener', 'unload', 'unloaded_at')
+idhubs.app#%#//scriptlet('remove-node-text', 'script', '__AB_DET')
+||100execution.com^
+||oppidabusily.qpon^
+||lazydeckle.cfd^
+||3pf2kwmc3g.com^
+||fftxemmosqomr.website^
+||abjqtrmbxeyct.com^
+||g5xu1dslr6.com^

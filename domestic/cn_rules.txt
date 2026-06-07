@@ -1,7 +1,7 @@
-! Update on 2026-06-07 04:05:08 (Beijing Time)
-! Generated on 2026-06-07 04:05:08 (Beijing Time)
+! Update on 2026-06-08 04:06:42 (Beijing Time)
+! Generated on 2026-06-08 04:06:42 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27921
+! Total domestic rules: 27924
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27924,3 +27924,6 @@ rugbypass.com###snack-sticky
 ||daciuehpyf.com^
 ||2r2zhs64a7.com^
 ||zfdfs1tpyd.com^
+||jtzqhxtutqzfze.com^
+||7da1aovz6.com^
+||z1lmjks4l.com^

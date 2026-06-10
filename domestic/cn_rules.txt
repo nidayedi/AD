@@ -1,7 +1,7 @@
-! Update on 2026-06-10 04:53:08 (Beijing Time)
-! Generated on 2026-06-10 04:53:08 (Beijing Time)
+! Update on 2026-06-11 05:22:40 (Beijing Time)
+! Generated on 2026-06-11 05:22:40 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27936
+! Total domestic rules: 27940
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27939,3 +27939,7 @@ myballard.com,joyusgarden.com,cakebycourtney.com,littlesweetbaker.com,lifestyleo
 nordstron.com#$#hide-if-matches-xpath './/header/h3[.="Sponsored"]/ancestor::div[contains(@id,"sponsored")]/parent::div'
 watch.impress.co.jp##.gStickyAd
 laophatgia.fit#$#abort-current-inline-script document.getElementsByClassName reading-content
+||whkhct2lnf.com^
+||lpxyrjholunvdk.com^
+||jfffe1o97b.com^
+||dwh3rjyzxj.com^

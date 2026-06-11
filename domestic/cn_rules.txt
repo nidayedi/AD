@@ -1,7 +1,7 @@
-! Update on 2026-06-11 05:22:40 (Beijing Time)
-! Generated on 2026-06-11 05:22:40 (Beijing Time)
+! Update on 2026-06-12 05:13:27 (Beijing Time)
+! Generated on 2026-06-12 05:13:27 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27940
+! Total domestic rules: 27950
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27943,3 +27943,13 @@ laophatgia.fit#$#abort-current-inline-script document.getElementsByClassName rea
 ||lpxyrjholunvdk.com^
 ||jfffe1o97b.com^
 ||dwh3rjyzxj.com^
+||twimg.cash^$all
+atv.com,motorcycle.com,autoguide.com##.sidebar-ad-unit
+||heartbreakslotserpent.com^
+||pv7ezc6as.com^
+thesavvyexplorers.com,hometalk.com,thegoldendaily.com,rvguide.com,motorcycle.com,autoguide.com##body .ad-top-strip
+||rstqbtoqrxbvpk.com^
+||8h7j79qxm.com^
+v.youku.com#%#(()=>{const t={apply:(t,o,a)=>{try{const t=o?.[0]?.data?.data??o?.data;t?.ad&&(t.ad={}),t?.ykad&&(t.ykad={})}catch(t){}return Reflect.apply(t,o,a)}};window.Array.prototype.slice=new Proxy(window.Array.prototype.slice,t),window.Object.prototype.hasOwnProperty=new Proxy(window.Object.prototype.hasOwnProperty,t)})();
+homehobbiesdaily.com,foodtalkdaily.com,petguide.com,atv.com,thefirearmblog.com##*:is(main, .main-content) > .billboardSize
+||4i2q0y9wv.com^

@@ -1,7 +1,7 @@
-! Update on 2026-06-12 05:13:27 (Beijing Time)
-! Generated on 2026-06-12 05:13:27 (Beijing Time)
+! Update on 2026-06-13 05:00:00 (Beijing Time)
+! Generated on 2026-06-13 05:00:00 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27950
+! Total domestic rules: 27958
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27953,3 +27953,11 @@ thesavvyexplorers.com,hometalk.com,thegoldendaily.com,rvguide.com,motorcycle.com
 v.youku.com#%#(()=>{const t={apply:(t,o,a)=>{try{const t=o?.[0]?.data?.data??o?.data;t?.ad&&(t.ad={}),t?.ykad&&(t.ykad={})}catch(t){}return Reflect.apply(t,o,a)}};window.Array.prototype.slice=new Proxy(window.Array.prototype.slice,t),window.Object.prototype.hasOwnProperty=new Proxy(window.Object.prototype.hasOwnProperty,t)})();
 homehobbiesdaily.com,foodtalkdaily.com,petguide.com,atv.com,thefirearmblog.com##*:is(main, .main-content) > .billboardSize
 ||4i2q0y9wv.com^
+ccvaults.com##div.sidebar-slide-in.md\:block.hidden
+douyin.com###videoSideBar:has(div:contains(/商品|商家|退款|店���/))
+||vz95953ow5.com^
+||08su45co5x.com^
+||piplnlkmoandbq.com^
+||g6ird1tez2.com^
+||a8wqu3fbmk.com^
+||151xrobgqz.com^

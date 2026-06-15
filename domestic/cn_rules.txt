@@ -1,7 +1,7 @@
-! Update on 2026-06-15 04:14:59 (Beijing Time)
-! Generated on 2026-06-15 04:14:59 (Beijing Time)
+! Update on 2026-06-16 05:39:13 (Beijing Time)
+! Generated on 2026-06-16 05:39:13 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27972
+! Total domestic rules: 27978
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27975,3 +27975,9 @@ rogoyume.jp,televisiononline.gratis,worksheetkids.com,alysse.dev,ebooksyard.com,
 ||ujth40hl4i.com^
 ||1u6hvoykk3.com^
 ||fd6s5sa7ji.com^
+baidu.com##div[class*="tieba-pause-ad-container"]
+finance.sina.com.cn#?#.clearfix.tech-quotation:contains(下���客户端)
+||sxq9xn7t3.com^
+||7w7kditsz.com^
+||redtvxjmgjbtlw.com^
+alibaba.com##.creative-dot-wrapper

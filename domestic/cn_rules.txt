@@ -1,7 +1,7 @@
-! Update on 2026-06-16 05:39:13 (Beijing Time)
-! Generated on 2026-06-16 05:39:13 (Beijing Time)
+! Update on 2026-06-17 05:38:49 (Beijing Time)
+! Generated on 2026-06-17 05:38:49 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 27978
+! Total domestic rules: 27980
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -27981,3 +27981,5 @@ finance.sina.com.cn#?#.clearfix.tech-quotation:contains(下���客户端)
 ||7w7kditsz.com^
 ||redtvxjmgjbtlw.com^
 alibaba.com##.creative-dot-wrapper
+xiaoaimh.com##.flex-cols.tops
+||phzlhhfidmntxc.com^

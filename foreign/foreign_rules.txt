@@ -1,7 +1,7 @@
-! Update on 2026-06-23 05:28:44 (Beijing Time)
-! Generated on 2026-06-23 05:28:44 (Beijing Time)
+! Update on 2026-06-24 04:58:21 (Beijing Time)
+! Generated on 2026-06-24 04:58:21 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 214205
+! Total foreign rules: 214402
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -214208,3 +214208,200 @@ okteve.com##+js(adjust-setTimeout, verifyAndPlay, *, 0.001)
 nzn3.org,wmovies.org,jimpenopisonline.online,9anime-hub.com,movish.net,vidara.so,vidara.to,vindaz.shop,seeflix.to,stmup.*,s1p1cd.com,strmup.*,flashstream.cc,sterham.net,mapple.rip,mapplee.com,fs6.lol,dovkembed.pw,daddylive3.com,mdy48tn97.com,jhdanime.live,tuktukcenma.cam,dramafire.site,miravd.com,3isk.icu,3isk.info,icma.az,luluvid.com,baxoi.buzz,kaoruhana.com,fastflix.top,curiosidadtop.com,zorroplay.xyz,rpmvid.com,olympustaff.com,hianime.*,streamcasthub.store,luluvid.com,cuttlinks.com,veev.to,bigwarp.*,filecrypt.cc,streamup.ws,exe-links.com,cuttty.com,cutynow.com,exnion.com,cutyion.com,jixo.online,exe-urls.com,evernia.site,ijvam.com,mrgec.com,emxaw.com,cety.app,cutnet.net,embedcanaistv.com,getintopcm.com,veplay.top,tuktukcinma.online,lefttoplay.xyz,tvableon.me,y2meta.net##+js(abort-on-property-read, zfgdlpopup)
 ||upiykoefg.com^
 ||maxhicihkgeva.website^
+gamepadla.com#?#.pMain:contains(Partner)
+||quiet-cdn.shop^
+||tdopeofamsccp.website^
+||etgfcciqtnjxw.website^
+||pjskajwflepfp.space^
+||byeipdfctomc.com^
+||bjnstrujhqmna.space^
+||macawscaratch.cyou^
+@@||airfind.com^$image,domain=headlinelogic.com
+||tartlyreticle.cfd^
+||sfnxugoelbwas.space^
+@@||googleads.g.doubleclick.net/pagead/ads$domain=cinehd.app
+||yqixrqciqgpyg.website^
+androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com###adsninja-below-main-pic
+||xuahfdwvlmul.com^
+||knowhowspunsurveyed.com^
+foodrepublic.com##.raptive-video-player
+||ahowxrqijvvwm.space^
+koha.net##body > div.container:has(> div.d-flex > div.reklame_live)
+||jrqfukqx.com^
+||qovahmfeouqqu.com^
+||gvokwoqawlwym.space^
+||users.videasy.to^
+||xfbdnfyafbmq.com^
+||iaqqtkhksqbbs.site^
+||hvhpwafhvwrk.com^
+||qbactnrbvyqfw.online^
+||djxyosopnferfdm.com^
+||oxgzmfrmvpukn.space^
+||socksince.com^
+||8zovisffy.com^
+||mbqroqihpdsat.online^
+||tzp61mplc.com^
+||armingberith.shop^
+speedof.me##.mezgopv-zone
+cap3.pics#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+||mbcgtqxjloqev.space^
+justwatch.com##.buybox-selector > div[class="offer-container"]
+||fwllgitl.com^
+@@||cdn.adsninja.ca/v*/an.js$domain=thegamer.com
+cinehd.app#%#//scriptlet('prevent-fetch', '/doubleclick|ads-twitter.com|google-analytics.com|adsbygoogle/')
+foodrepublic.com,islands.com##.article > .under-art:has(> .zergnet-widget)
+||html-load.com^$script,xmlhttprequest,domain=astrozop.com|criczop.com|feedzop.com|gamezop.io|gamezop.com|quizzop.com|umogames.com
+||gvmsylgqszvjg.space^
+||yxsrhegapxajhj.com^
+||holismsordn.cyou^
+gamepadla.com##.pMain:contains(Partner)
+||tknoxqvmznsot.space^
+||tensivemoonman.cfd^
+||dosoequalutjd.online^
+||procedures278.net^
+||ahobsewcjigev.space^
+||zbecvmkqyuzsz.space^
+||qqjlbzqlqouna.space^
+||psuqmrizfafci.website^
+||spinedblowth.cfd^
+ipolska24.pl,benchmark.pl,dobreprogramy.pl,so-magazyn.pl,parenting.pl,fotoblogia.pl,kafeteria.pl,pudelek.pl,genialne.pl,money.pl,abczdrowie.pl,autokult.pl,gadzetomania.pl,jastrzabpost.pl,komorkomania.pl,polygamia.pl,pysznosci.pl,o2.pl,wp.pl##div[class*=" "]:has(> img:is([src^="https://v.wpimg.pl/"], [src*="/images/adv/placeholder"]):first-child + div[class*=" "] + div[class*=" "] + script:last-child)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cinehd.app
+||nahmqkwxddjwh.online^
+||industriesfrominvisible.net^
+||greenhouseinservices.com^
+||zymosisticky.cfd^
+||topvcnlwfglpv.site^
+||majorbaizes.shop^
+||n7fyrdeen.com^
+||poppetalleys.qpon^
+||fjpqxokekvgak.website^
+||ojmkbdcctzwjr.website^
+||crjjqhvbktqc.com^
+||nvqglurpogfos.site^
+||viharafermata.shop^
+||68b1hx8ej.com^
+umogames.com##.style-module_gam_container__9KUaZ
+||pbfrbivihszxk.space^
+||ieagkfopvztwl.online^
+||dookputtock.cfd^
+||prhykyumvljjx.space^
+||lwxoothcoq.com^
+techrepublic.com##.ad-container
+feedzop.com##div[data-gzp-display-ad-status]
+||vsorcyifkcbwo.site^
+||wwbdxxdybpfpl.site^
+||fssrdeeivg.com^
+justwatch.com##.offers.buybox-selector
+rscripts.net,pcgamesn.com,ign.com,theatlantic.com##.ad-wrapper
+@@||static.ads-twitter.com/ads.js$domain=cinehd.app
+||claroura6000.net^
+||y7bo6nwk.xyz^
+cinehd.app##section[aria-label^="Sponsored"]
+||vmuhahdlfties.website^
+||kdagfkykpupze.site^
+||lftw3i7d5.com^
+||odclajjuwo.in^
+ipolska24.pl,benchmark.pl##.wp-billboard
+cinehd.app##+js(prevent-fetch, /doubleclick|ads-twitter.com|google-analytics.com|adsbygoogle/)
+@@||google-analytics.com/analytics.js$domain=cinehd.app
+@@||cdn.adsninja.ca/v*/valstream.js$domain=thegamer.com
+||skillmisdrew.qpon^
+||xumxustwahfco.site^
+||bitfrom710.com^
+||emeroidferity.cfd^
+||diatomsfrisson.cfd^
+||fqgcltsfrjuln.space^
+||kvjkiymoormwj.site^
+||zpcnmqvutynyr.site^
+||ofltycalhhzvz.online^
+||rainmaker.production-public.tubi.io/*/WEB?app_id=tubitv*&pub_id=*&*vpaid_enabled=
+||jebattrypa.cfd^
+||bloopsbordel.cfd^
+||5cyi6tp6h.com^
+@@||cdn.adsninja.ca/v*/init.js$domain=thegamer.com
+androidexperto.com##div[class^="ym-p"][class*="-server-"]
+forum.betaprofiles.com##.discourse-adplugin
+koha.net##.reklama_holder
+techrepublic.com##.prose > div.has-data-empty\:hidden
+@@||cinehd.app^$generichide
+||kcbchoevit.com^
+||imwwdjmnfcans.space^
+||stsylxihypypw.space^
+||vyglctnroaigw.online^
+||atncfddwenjgt.website^
+||reflectinglouiseera.com^
+||nldxbvtvdsfus.com^
+||dogmenaesir.cfd^
+benchmark.pl##div[class*=" "]:has(> div[class*=" "]:first-child + script:last-child)
+techrepublic.com##sticky-footer-ad
+justwatch.com##div[class*="sr-campaign"]
+ddtrip.jp###in-content-ad
+||arubiueqdfrzm.space^
+||dnaiwexdkemhp.website^
+quizzop.com##.display-ad_displayAdWrapper__nO4Kb
+dreadcentral.com,justjared.com##.widget_tpd_ad_widget
+||tkwkrdsoaldaw.com^
+@@||places.googleapis.com/*autocomplete$stealth=referrer
+||deqrkaugcpplk.website^
+||9g3yx40s6.com^
+||hanifdocquet.qpon^
+||nextclick.pl^$3p
+cliphotgirl.com#$#abort-current-inline-script window.addEventListener Ads
+thesun.co.uk##.article-boxout
+pluto.tv#%#//scriptlet('xml-prune', 'xpath(//*[name()="Period"][.//*[name()="BaseURL" and contains(text(),"_ad") and contains(text(),"/mp4/")]] | //*[name()="MPD"]/@mediaPresentationDuration | //*[name()="Period"]/@start)', '', '/\/episode\/.+?\.mpd\?/')
+||dfyawvajhov.in^
+tubitv.com#%#//scriptlet('trusted-json-set', 'Promise.resolve', '$.items[?(@.ad_id)]', '$remove$', '', 'arg:0')
+||klukylgjqpovc.space^
+||jzlqdgvrsyqgz.online^
+ipolska24.pl,jastrzabpost.pl,money.pl,o2.pl,wp.pl##article aside > .flex-none > div[class*=" "]:has(> div[class*=" "]:first-child + script:last-child)
+||fswatrlxubu.com^
+||ckgbulrcgantw.space^
+||prudityaeron.shop^
+||kghzmesashlfi.space^
+||tisdfnjzczmbh.space^
+||lsoclwa.icu^
+||xmayktavadugm.site^
+||quantica900.com^
+||ymaxvdenuo.com^
+||xdwfwyttks.com^
+||zealedlament.cyou^
+||catodonacidoid.cfd^
+||fishilytrisomy.shop^
+||iojgirgpzkhym.website^
+||zseqylfnkprnt.website^
+||oogxypriplilr.website^
+||zxnzstnimupkx.online^
+||ngcjqomtyvdhl.site^
+||8800source.com^
+||uhaqlawtipokn.website^
+||ibxpokefcsgf.com^
+||ejswzcylcynfb.site^
+||epwazedxpqxqz.space^
+||vmpdmfacpctto.space^
+||ijgmlmucwps.com^
+||tvwqwxaqhov.com^
+ipolska24.pl,benchmark.pl,dobreprogramy.pl,so-magazyn.pl,parenting.pl,fotoblogia.pl,kafeteria.pl,pudelek.pl,genialne.pl,money.pl,abczdrowie.pl,autokult.pl,gadzetomania.pl,jastrzabpost.pl,komorkomania.pl,polygamia.pl,pysznosci.pl,o2.pl,wp.pl##div[class*=" "]:has(> img:is([src^="https://v.wpimg.pl/"], [src*="/images/adv/placeholder"]):first-child + div[class*=" "] + script:last-child)
+||qdslnslohsisa.space^
+techrepublic.com##div[data-ad-slot]
+copypastecharacter.com###sets_wrapper:style(margin-top: 0 !important;)
+||cujvazxcuock.in^
+geitopi.com##div[style]:has(> ins.adsbygoogle)
+bolavip.com##body > div.fixed:has(> div.ad-container)
+||vtgeboewommkr.website^
+||unlustytriaxon.shop^
+fermanaghherald.com##.ad-spaces
+||xwkuffnipcisj.site^
+||359z66txb.com^
+||astablehazanut.cyou^
+telcomagazine.com,technologymagazine.com,fintechmagazine.com,zerohedge.com##div[class^="Advert_"]
+||swdtvfsezcryi.website^
+||gcigziwma.in^
+||nmlgvcevpqhex.online^
+ascopost.com,fermanaghherald.com##.ad-text
+||najmqkso.com^
+sahibinden.com###mainpagebanner
+||maestrogulpedgag.com^
+||lpimevldefpxne.com^
+||nwfnsitaes.com^
+||oosjskulm.com^
+||2wqs6d2gp.com^

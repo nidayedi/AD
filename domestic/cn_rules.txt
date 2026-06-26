@@ -1,7 +1,7 @@
-! Update on 2026-06-26 04:52:36 (Beijing Time)
-! Generated on 2026-06-26 04:52:36 (Beijing Time)
+! Update on 2026-06-27 04:27:46 (Beijing Time)
+! Generated on 2026-06-27 04:27:46 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28009
+! Total domestic rules: 28010
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28012,3 +28012,4 @@ fxshu.top##.com_t > div[id]:has(> div[style*="width: 100vw; position: relative;"
 laodong.vn#$#abort-current-inline-script window.addEventListener AdBlock
 fxshu.top,360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 ||vvzjhzccndbhva.com^
+||tlvbtryetgppha.com^

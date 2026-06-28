@@ -1,7 +1,7 @@
-! Update on 2026-06-28 04:03:39 (Beijing Time)
-! Generated on 2026-06-28 04:03:39 (Beijing Time)
+! Update on 2026-06-29 04:07:30 (Beijing Time)
+! Generated on 2026-06-29 04:07:30 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28014
+! Total domestic rules: 28016
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28017,3 +28017,5 @@ fxshu.top,360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEven
 @@||mysmth.net/nForum/*/ADAgent_$~3p
 ||rorwdbuazjbxta.com^
 ||k6d.falang.net^
+@@||youchien.net/ad/*/ad/img/$~3p
+||xrnrplqcfmpxfg.com^

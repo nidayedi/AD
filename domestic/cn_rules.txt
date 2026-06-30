@@ -1,7 +1,7 @@
-! Update on 2026-06-30 04:46:30 (Beijing Time)
-! Generated on 2026-06-30 04:46:30 (Beijing Time)
+! Update on 2026-07-01 04:52:01 (Beijing Time)
+! Generated on 2026-07-01 04:52:01 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28017
+! Total domestic rules: 28024
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28020,3 +28020,10 @@ fxshu.top,360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEven
 @@||youchien.net/ad/*/ad/img/$~3p
 ||xrnrplqcfmpxfg.com^
 ||vhjjbdxycpdfrg.com^
+||tkpenntaispfdm.com^
+||ab3de9.gamersky.com^
+gamersky.com#%#//scriptlet('abort-current-inline-script', 'localStorage', 'showAd')
+||gamersky.com/web/getJS?url=*.gamersky.com*banner
+||gamersky.com/web/getJS?url=*.gamersky.com*newAd
+gamersky.com##+js(abort-current-script, localStorage, showAd)
+@@||sanyonews.jp/files/image/ad/okachoku.jpg$~3p

@@ -1,7 +1,7 @@
-! Update on 2026-07-01 04:52:01 (Beijing Time)
-! Generated on 2026-07-01 04:52:01 (Beijing Time)
+! Update on 2026-07-02 04:45:29 (Beijing Time)
+! Generated on 2026-07-02 04:45:29 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28024
+! Total domestic rules: 28032
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28027,3 +28027,11 @@ gamersky.com#%#//scriptlet('abort-current-inline-script', 'localStorage', 'showA
 ||gamersky.com/web/getJS?url=*.gamersky.com*newAd
 gamersky.com##+js(abort-current-script, localStorage, showAd)
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~3p
+hanjuk.com##[style^="display: block; z-index: 2147483646; position: fixed; user-select: none;"]
+hanjuk.com##body > [style^="display: block; width: 100%; height: 131px;"]
+hanjuk.com##+js(abort-current-script, document.createElement, new Function)
+hanjuk.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'new Function')
+18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
+meghalayajobportal.in,constructionmethodology.com,pornincest.net,examscisco.com,game5s.com,reviewmedium.com##a[href="#"] + div[id][class*=" "]
+valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
+||tpjhxbwkvjjvtq.com^

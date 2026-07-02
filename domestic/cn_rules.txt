@@ -1,7 +1,7 @@
-! Update on 2026-07-02 04:45:29 (Beijing Time)
-! Generated on 2026-07-02 04:45:29 (Beijing Time)
+! Update on 2026-07-03 04:14:30 (Beijing Time)
+! Generated on 2026-07-03 04:14:30 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28032
+! Total domestic rules: 28042
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28035,3 +28035,13 @@ hanjuk.com#%#//scriptlet('abort-current-inline-script', 'document.createElement'
 meghalayajobportal.in,constructionmethodology.com,pornincest.net,examscisco.com,game5s.com,reviewmedium.com##a[href="#"] + div[id][class*=" "]
 valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
 ||tpjhxbwkvjjvtq.com^
+||rsfzjtdmbmxdfq.com^
+||ntv.cx/assets/stake/
+ntv.cx##.ntv-overlay:style(display: none !important;)
+ntv.cx#$#.ntv-overlay { display: none !important; }
+ntv.cx###hdrStripWrap
+ntv.cx##body:style(overflow: auto !important;)
+cmoney.tw##.stockGrid__topbar
+ntv.cx##.ntv-overlay-body
+ntv.cx#$#body { overflow: auto !important; }
+sanblo.com,wpteq.org,snowman-information.com,xn--kckzb2722b.com,xn--n8jwbyc5ezgnfpeyd3i0a3ow693bw65a.com,nobodycancool.com,kagohara.net,meilblog.com###st-ami + div[id][class*=" "]

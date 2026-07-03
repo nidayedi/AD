@@ -1,7 +1,7 @@
-! Update on 2026-07-03 04:14:30 (Beijing Time)
-! Generated on 2026-07-03 04:14:30 (Beijing Time)
+! Update on 2026-07-04 04:10:27 (Beijing Time)
+! Generated on 2026-07-04 04:10:27 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28042
+! Total domestic rules: 28045
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28045,3 +28045,6 @@ cmoney.tw##.stockGrid__topbar
 ntv.cx##.ntv-overlay-body
 ntv.cx#$#body { overflow: auto !important; }
 sanblo.com,wpteq.org,snowman-information.com,xn--kckzb2722b.com,xn--n8jwbyc5ezgnfpeyd3i0a3ow693bw65a.com,nobodycancool.com,kagohara.net,meilblog.com###st-ami + div[id][class*=" "]
+wibudesu.co##.wrapper > center:has(> a[href^="https://rebrand.ly/"])
+||xibuvdzihpjlrq.com^
+@@||inven.co.kr/sitebuilder/common/?mode=leftmenu$xmlhttprequest,elemhide,jsinject,extension

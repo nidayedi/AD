@@ -1,7 +1,7 @@
-! Update on 2026-07-06 04:06:32 (Beijing Time)
-! Generated on 2026-07-06 04:06:32 (Beijing Time)
+! Update on 2026-07-07 04:47:29 (Beijing Time)
+! Generated on 2026-07-07 04:47:29 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28047
+! Total domestic rules: 28048
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28050,3 +28050,4 @@ wibudesu.co##.wrapper > center:has(> a[href^="https://rebrand.ly/"])
 @@||inven.co.kr/sitebuilder/common/?mode=leftmenu$xmlhttprequest,elemhide,jsinject,extension
 ||vlxmfvvknsxldw.com^
 ||tbthrfrgkqltpw.com^
+||zepcdxyiqtxtbc.com^

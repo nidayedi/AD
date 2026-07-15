@@ -1,7 +1,7 @@
-! Update on 2026-07-15 04:05:40 (Beijing Time)
-! Generated on 2026-07-15 04:05:40 (Beijing Time)
+! Update on 2026-07-16 04:03:05 (Beijing Time)
+! Generated on 2026-07-16 04:03:05 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28062
+! Total domestic rules: 28065
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28065,3 +28065,6 @@ coles.com.au##.list-item[role="presentation"]:has([data-testid="product-tile"]:c
 ||bzxkfnsexolzbu.com^
 @@||wpscdn.cn^$stealth=referrer,domain=wps.cn
 ||zptfrxoaumxhnu.com^
+||xspxdhkcaplhza.com^
+||cliphotbokep.xyz^$document
+||cliphotbokep.xyz^

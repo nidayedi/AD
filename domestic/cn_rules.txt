@@ -1,7 +1,7 @@
-! Update on 2026-07-18 03:59:54 (Beijing Time)
-! Generated on 2026-07-18 03:59:54 (Beijing Time)
+! Update on 2026-07-19 03:59:29 (Beijing Time)
+! Generated on 2026-07-19 03:59:29 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28084
+! Total domestic rules: 28093
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28087,3 +28087,12 @@ ntv.st,ntvs.cx,ntv.cx##.ntv-overlay:style(display: none !important;)
 pixiv.net##[style^="display: block; width: 100%; height"]:has(> iframe[data-uid])
 ntv.st,ntvs.cx,ntv.cx##.ntv-overlay-body
 ntv.st,ntvs.cx,ntv.cx##body:style(overflow: auto !important;)
+pixiv.net##.gtm-toppage-thumbnail-manga-recommend-works-zone li:has(> [style="display: block; width: 184px; height: 232px;"])
+pixiv.net##section:has(> div > div > iframe[name="illusttop_appeal"])
+pixiv.net##[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
+pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > ul > li:has(> div > [style="display: block; width: 300px; height: 250px;"])
+pixiv.net##[style="display: block; height: 345px; width: 500px;"]
+||zodflbjwjyzxjg.com^
+pixiv.net##.grid-flow-dense > .aspect-square.overflow-hidden
+pixiv.net##[span="1"]:has(> div > div > div[style="display: block; width: 100%; height: 434px;"])
+pixiv.net##.grid-flow-dense > div:has(> [style="display: block; width: 184px; height: 232px;"] > iframe)

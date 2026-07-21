@@ -1,7 +1,7 @@
-! Update on 2026-07-21 04:15:57 (Beijing Time)
-! Generated on 2026-07-21 04:15:57 (Beijing Time)
+! Update on 2026-07-22 04:14:47 (Beijing Time)
+! Generated on 2026-07-22 04:14:47 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28101
+! Total domestic rules: 28110
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28104,3 +28104,12 @@ b.best-hit.tv,forum.lowyat.net##center > a[target="_blank"] > img
 yugi-nippon.com,teyvatsokuho.com##.st-sp-top-only-widgets
 ||dhfshdmuvezfhm.com^
 weather.yahoo.co.jp,sports.yahoo.co.jp###ad-nm
+||bkbntniwbhlntm.com^
+chat.shalove.net,dcard.tw##div[style^="min-height:250px"]
+ismedia.jp###taboola-below-article-thumbanails-high
+alibaba.com##.gallery-card[data-aplus-auto-offer*="&is_ad=true"]
+ismedia.jp#@#.ad-billboard
+alibaba.com##div[data-spm="wending-bottom"]
+ismedia.jp##.m-sponsord
+alibaba.com##div[data-search-floor^="area=wending&"]
+ismedia.jp##.ad-billboard:style(margin-top: -40px !important;)

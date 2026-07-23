@@ -1,7 +1,7 @@
-! Update on 2026-07-23 04:07:29 (Beijing Time)
-! Generated on 2026-07-23 04:07:29 (Beijing Time)
+! Update on 2026-07-24 04:07:47 (Beijing Time)
+! Generated on 2026-07-24 04:07:47 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28114
+! Total domestic rules: 28116
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28117,3 +28117,5 @@ ismedia.jp##.ad-billboard:style(margin-top: -40px !important;)
 ||right.com.cn/forum/data/attachment/common/template/boardimg_20260602yahb3wsd.
 right.com.cn###hd > div.wp > div.hdc > h2 img.boardlogo
 ||zaxffxesykzvfs.com^
+||fdtarpaueilvrs.com^
+defaultfreeshort.in###myDIV:style(display: block!important;)

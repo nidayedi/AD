@@ -1,7 +1,7 @@
-! Update on 2026-07-24 04:07:47 (Beijing Time)
-! Generated on 2026-07-24 04:07:47 (Beijing Time)
+! Update on 2026-07-25 04:11:42 (Beijing Time)
+! Generated on 2026-07-25 04:11:42 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28116
+! Total domestic rules: 28119
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28119,3 +28119,6 @@ right.com.cn###hd > div.wp > div.hdc > h2 img.boardlogo
 ||zaxffxesykzvfs.com^
 ||fdtarpaueilvrs.com^
 defaultfreeshort.in###myDIV:style(display: block!important;)
+||jpopsingles.eu/ddl/dl-get.png
+douyin.com##.discover-video-card-item:has(>div>div>span:contains(广���))
+||dgpvbzhqklzddy.com^

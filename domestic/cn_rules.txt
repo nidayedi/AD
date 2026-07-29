@@ -1,7 +1,7 @@
-! Update on 2026-07-29 04:11:04 (Beijing Time)
-! Generated on 2026-07-29 04:11:04 (Beijing Time)
+! Update on 2026-07-30 04:08:11 (Beijing Time)
+! Generated on 2026-07-30 04:08:11 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28199
+! Total domestic rules: 28200
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28202,3 +28202,4 @@ daily.co.jp##.theme-a[onclick="event.stopPropagation()"]
 ||ad-drs-ipv6.52qumao.com^
 ||ads-bid.leadmoad.com^
 ||p4-lm.adukwai.com^
+||bvfqhnyofanbfk.com^

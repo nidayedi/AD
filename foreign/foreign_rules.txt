@@ -1,7 +1,7 @@
-! Update on 2026-08-01 04:14:46 (Beijing Time)
-! Generated on 2026-08-01 04:14:46 (Beijing Time)
+! Update on 2026-08-02 04:06:16 (Beijing Time)
+! Generated on 2026-08-02 04:06:16 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 222946
+! Total foreign rules: 223098
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -222949,3 +222949,155 @@ ya.ru,yandex.*##div[id^="search-"] > div:has(> div.Root_inited > div[class*="Org
 ||86o5bui4n.com^
 ||sicqybon.com^
 ||std72yw0s.com^
+||eplukorxrmfvy.site^
+||hvwsecjtqnbkv.online^
+||ncekbewyrgfaa.site^
+||dixrhcmkvtudl.online^
+||tanmmxyfybzpp.website^
+||ovlfuwrcekghx.site^
+||ijuczyqflfzkq.online^
+||tepid-gather.pro^
+||yxfhtjskzxivf.website^
+||khmdqolkcxcha.website^
+||mrxgaeyw.com^
+||bbssgjpbdrurh.space^
+||cyecmyrbfvvcy.website^
+sourceforge.net##[id][data-nosnippet]:not(#style_important):has(> .row > .input-card > .vibe-glow)
+||knwfgadwqvenk.com^
+||vrcyxqjipj.com^
+novelfire.net,novelphoenix.com##.nf-ads
+star-history.com##div.lg\:block > div.w-full:has(> a[href*="?utm_source"] img)
+||rybbhembyqtm.com^
+||wdhmuogajihlw.site^
+||morespetrol.shop^
+||kyywpllomeljh.site^
+||bhsxwgyuktnjz.site^
+||joivqbxovxtql.site^
+digg.com##article.relative:has(div:contains(SPONSORED))
+||sheathsgabfest.shop^
+beincrypto.com##.before-author-block-bio:contains(Реклама)
+||monoecyboxen.shop^
+||flkycyeewfoea.space^
+||contactcarry.qpon^
+||uroniclucks.cfd^
+||fossaneduiker.cfd^
+||bmtmicro.com^$popup,badfilter
+||umssvcwqpokjt.online^
+||igpwtjptsdthn.space^
+||vkxqimsuyxhmj.site^
+||staringentrep.cfd^
+||pilulehomeoid.cfd^
+||viqonnkopkkjp.site^
+||igshhiazyqoxv.space^
+||uluuermktsbvb.online^
+||geneticallypineredden.com^
+@@||api.auth.adobe.com/api/v2/sparkmedia/$stealth=3p-auth,domain=cnbc.com
+||fnngskhkr.com^
+||mildersieging.cfd^
+||vgzogmuqcjhul.space^
+||volutehewgag.cfd^
+||protectedspinster.com^
+||xzzgndpecxrwj.online^
+sourceforge.net##[id][data-nosnippet]:not(#style_important):has(> button:is([class*="-close"], [id*="close"]) + div[class*="sticky"])
+chartkidmatt.com##.dream-post-content-htmlSnippet
+||dreary-version.pro^
+||xntwwkayczvaj.website^
+||excludeabnormality.com^
+||xacdcrvfgpzsg.space^
+||fnqhhshfbpkwp.site^
+||iweehbtxpnna.com^
+||yeikszqbyeoej.site^
+||wggnjdqbrnznde.com^
+||cwnqfrehigqdb.online^
+||lcqwxswfgppbe.space^
+||nkydweolqsk.in^
+||healthvot.com^
+||rwunweqm.in^
+||gurugodlily.qpon^
+||oqydwausasimd.online^
+||tjfexarlpotem.space^
+||zadqahwxhujgr.website^
+||xamotrvpgkapn.site^
+||vgqnyyxv.xyz^
+||ouhvwqdwqkkae.website^
+||boegjyydektlx.online^
+||boodkfcdgaaiy.website^
+||qeegwhsxzwcdv.com^
+||yesrgknlkyshd.online^
+||husky-sock.pro^
+idnes.cz##.ank0a1it0n
+idnes.cz###r-toucharticlenative
+||yr7unl1qs.com^
+||ixffxruloykhf.site^
+||loofiegentman.cyou^
+||cleftasperly.cfd^
+||xwxkorepqjcnt.site^
+||derningparodus.qpon^
+||yegtaizxtftpo.online^
+@@||usanetwork.com^$extension='AdGuard Assistant'
+||ftgxpnpzdcuvi.website^
+||jfllppccauvpj.online^
+||whowiwhwijnfa.site^
+||insignificant-bitter.pro^
+||ftnerrlavic.cyou^
+||lzhejqfkthmzn.space^
+sourceforge.net##body > [id][data-region-m]:not(#style_important):has(> span.close + .linkrow)
+||tridiiscupper.cfd^
+||zdpmdemowt.com^
+||sensizeranged.shop^
+idnes.cz###r-touch300x250related
+||hundredthsettling.com^
+||nkfyeklrvwa.com^
+||lxkiqokunemfn.space^
+choosefi.com##[data-block-type="credit-card-top-offers"]
+||nsoelzvrhkmqd.space^
+||finaglebehinds.shop^
+||uksxhozhhzyqc.site^
+idnes.cz###r-touch300x250selected
+||kqcidwipqpnmd.space^
+||zspssmbjbp.com^
+||zanellatrophy.cfd^
+idnes.cz###r-touchnativeadvertorial
+||uxofowiuxrvgp.online^
+||concioferules.cfd^
+||tjswoufpfcltp.online^
+||cchpvhkoqilnr.online^
+||qhiajzlpo.in^
+||acaogzgoplhnk.website^
+||veinagewabbles.cyou^
+||ahgmivwzpjuxz.site^
+||iputoojbewo.com^
+||hvvmslekmyomk.site^
+||fvjjhpxpeaflj.space^
+idnes.cz###r-toucharticlenativedown
+||vbnritbsiqqar.online^
+||trothedpalmer.cfd^
+||hsrffnltjlzus.website^
+||uqljppswdl.com^
+||gifted-dealer.pro^
+||bcxjiouhvzyhc.site^
+||jqhxsrqhvztee.site^
+||breaghetembu.cyou^
+||letoffwhimper.qpon^
+||aplytazqgfoup.online^
+||dilsvxqaudowo.site^
+||sgvrsqvhgovli.space^
+||ojhximwiwx.in^
+||ypztdrxavedah.space^
+||muepkdedxoeik.space^
+||htozqutwbhxkq.website^
+||esxgfcmaucdux.website^
+||jidlvevpwezmu.online^
+||yxeeurjfsigad.online^
+||wltvpgcwsvndn.online^
+||lectormanga1.com^
+||irxztgrjaalny.online^
+pornhub-sexfilme.net,pornojenny.net,pornoleon.com##aside[id^="wa_"]:style(display: none !important;)
+||mideastagible.cfd^
+||ierfncaroqaxp.site^
+||suutabsmjcya.com^
+leeapk.com##+js(abort-on-property-write, AcrpConfig)
+||obviousstupid.pro^
+||quailsbs.shop^
+||a1ajfrk4i.com^
+||aa4jq9non.com^

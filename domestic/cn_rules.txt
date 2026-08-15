@@ -1,7 +1,7 @@
-! Update on 2026-08-15 03:42:26 (Beijing Time)
-! Generated on 2026-08-15 03:42:26 (Beijing Time)
+! Update on 2026-08-16 03:15:10 (Beijing Time)
+! Generated on 2026-08-16 03:15:10 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28272
+! Total domestic rules: 28275
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28275,3 +28275,6 @@ alibaba.com#?#div[data-search-floor] [data-supplier-card]:contains(Ad)
 alibaba.com#?#.no-divider[style*="margin-bottom"]:has([data-state="closed"]:contains(Ad))
 18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,daftporn.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
 ||fdfjxhpqxxjdby.com^
+alibaba.com##.no-divider[style*="margin-bottom"]:has([data-state="closed"]:contains(Ad))
+alibaba.com##div[data-search-floor] [data-supplier-card]:contains(Ad)
+||ltbbjzwmdavdny.com^

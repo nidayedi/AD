@@ -1,7 +1,7 @@
-! Update on 2026-08-15 03:42:26 (Beijing Time)
-! Generated on 2026-08-15 03:42:26 (Beijing Time)
+! Update on 2026-08-16 03:15:10 (Beijing Time)
+! Generated on 2026-08-16 03:15:10 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 225932
+! Total foreign rules: 226091
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -225935,3 +225935,162 @@ theregister.com##article.large-12:contains(SPONSORED FEATURE)
 thestar.com,thespec.com,therecord.com,thepeterboroughexaminer.com,stcatharinesstandard.ca,niagarafallsreview.ca,wellandtribune.ca,bramptonguardian.com,caledonenterprise.com,cambridgetimes.ca,durhamregion.com,flamboroughreview.com,guelphmercury.com,hamiltonnews.com,insidehalton.com,insideottawavalley.com,mississauga.com,muskokaregion.com,mykawartha.com,newhamburgindependent.ca,niagarathisweek.com,northbaynipissing.com,northumberlandnews.com,orangeville.com,ourwindsor.ca,parrysound.com,sachem.ca,simcoe.com,theifp.ca,toronto.com,waterloochronicle.ca,yorkregion.com,legacy.com,edition.pagesuite-professional.co.uk,hub.metroland.com###tncms-region-article_container_bottom:has(> div[data-lpos$="-partners"])
 ||cg38hrusov.com^
 ||hrhojxbkc2.com^
+||bkllgmvwovnxo.online^
+||zcfkamumyzzle.online^
+chatgpt.com#@?#[class^="border-"]:contains(Ad)
+pcworld.com##.topDeals.topper:style(margin-top: 0px !important;)
+||hgovyniielsax.site^
+||ybtdxfqdnwzly.space^
+||dkkqqhonowers.site^
+||kjevtkfxscnal.site^
+||zwuesdewosddn.site^
+||vnjazjelnhbjq.online^
+||otcgjfkmkwwcu.site^
+||eiypmtqnrfdph.site^
+||smixldswntjcf.site^
+||ydumbmojdhz.com^
+||static-linen.click^
+||bebasteshogs.shop^
+||lyswbpryuotvs.space^
+||aabbjjcuaputt.site^
+||yardingribes.qpon^
+||ziaapdlsrpl.com^
+||silver-assets.online^
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,important,domain=anycodings.com
+||zuznvlaqsshto.space^
+||orbit-static.click^
+||gcpnoqevmfvkt.site^
+||elegantsophene.shop^
+||dhanroop.cfd^
+||flakygombay.cfd^
+||speqephvez.com^
+||bwjdgmsebmnub.online^
+||colafaultsruns.com^
+||jibbashacked.qpon^
+||pendentheddles.shop^
+||pagerstomas.cfd^
+||testudodrivers.cfd^
+||gmfddfrtsmjym.space^
+||iwgsincqiidjv.site^
+chatgpt.com#@?#[class^="border-"]:contains(Sponsored)
+||mxnsdgojduycx.online^
+cnet.com##+js(href-sanitizer, a[href^="https://cc.cnet.com/v1/otc/"], ?url)
+||jakrkwyjptezk.site^
+||pchxdjwzgxgfb.website^
+||etrownlnplynt.website^
+||rhibllcwm.com^
+chatgpt.com##[class^="border-"]:not([class*="sidebar"]):contains(Sponsored)
+||ikscwzjgxpeqy.site^
+||telsoncirrus.cfd^
+||znpjgfowkfgen.site^
+||vqtxrzvzmfedk.website^
+||fhixtsjuatixm.space^
+||qogwouozyuwqe.website^
+||leggieruncrest.qpon^
+||honouredphrasemildly.com^
+||newsvot.com^
+||lndiikqekcqar.space^
+||rsnljydfsxjwt.online^
+||deglultjqnrpq.website^
+||agpxgwurmwahx.space^
+||sdfpeexfuflgb.site^
+||zrwmausnhmxkq.space^
+||hdpcjocezeuaw.space^
+||utxptgyqxnjff.online^
+||hdo0zseqy.com^
+chatgpt.com#@#[class^="border-"]:contains(Ad)
+||zhmjgxrys.com^
+chatgpt.com#?#[class^="border-"]:not([class*="sidebar"]):contains(Sponsored)
+||zxnsukgybbfkmz.com^
+||abyssclued.qpon^
+||holierjezails.shop^
+||nulkloxdolyss.online^
+||cpmstar.com^$object,3p
+instagram.com#@#article[class] > div[class]:has(span:contains(/Anzeige|Gesponsert|Sponsored|Geborg|Sponzorováno|Sponsoreret|Χο��ηγούμενη|Publicidad|Sponsoroitu|Sponsorisé|Bersponsor|Sponsorizzato|広告|광고|Ditaja|Sponset|Gesponsord|Sponsorowane|Patrocinado|Реклама|Sponsrad|ได้รับการสนับสนุน|May Sponsor|Sponsorlu|赞助内容|贊助|প্রযোজিত|પ્રાયોજિત|स्पॉन्सर्ड|Sponzorirano|ಪ್ರಾಯೋಜಿತ|സ്‌പോൺസർ ചെയ്‌തത്|पुरस्‍कृत|प्रायोजित|ਪ੍ਰਾਯੋਜਿਤ|මුදල් ගෙවා ප්‍රචාරය කරන ලදි|Sponzorované|விளம்பரதாரர்கள்|స్పాన్సర్ చేసింది|Được tài trợ|Спонсорирано|Commandité|Sponsorizat|Спонзорисано/))
+||atbphahu.in^
+||lxgiykiqe.com^
+||ufxxpwpsiokdo.website^
+||njibcaxlfwh.com^
+||jofyaljkygvbqh.com^
+||esnmwpnjxmkwq.space^
+||wolterwampus.cfd^
+||carpenterspeaker.com^
+||antlikemimmed.qpon^
+||cuk180l9v.com^
+||rwvrruogiyipt.online^
+||unhastyshote.shop^
+chatgpt.com#%#(()=>{const e={apply:(e,r,s)=>{const t=Reflect.apply(e,r,s);try{return s[0]&&"string"==typeof s[0]&&s[0].includes("renderedAdsHtml")&&t.messages&&(t.hideAllAds=!0),t}catch(e){}return Reflect.apply(e,r,s)}};window.JSON.parse=new Proxy(window.JSON.parse,e)})();
+||grmazkqokosxm.space^
+||ofhkcsf.com^
+conservativebrief.com###primary > div.main-box:has(> div.main-box-inside > div[id^="ld-"])
+||alfaquiemerge.cyou^
+||chewinkascesis.shop^
+||iixaroencqzhnh.com^
+||arkgzwtbxqilk.space^
+||n12rk1r9h.com^
+||hkplevgpqjwrn.site^
+||s99s.net^
+||vanessabroo.cyou^
+||vxroxfcel.com^
+||5edrgrnqg.com^
+||zufevtaqnvodu.website^
+chatgpt.com##[class^="border-"]:not([class*="sidebar"]):contains(Ad)
+||qmnjvczfauxbb.site^
+chatgpt.com##[data-message-role="assistant"] > section[class] > aside[aria-label]:has(> div[role="list"] a[rel][target="_blank"] + span > button[aria-haspopup])
+||bufvrxymutjwx.online^
+||tbvmhjkmplbgo.site^
+chatgpt.com#?#[class^="border-"]:not([class*="sidebar"]):contains(Ad)
+||yaovxuizanimz.site^
+||ekhwbzfks.com^
+armidaleexpress.com.au##div.viafoura > div.mx-auto > #story-comment-container:has(> div[class] > span:contains(Ad))
+||hwpvogedpmyuy.space^
+||ogrhoxtmmkgfx.space^
+chatgpt.com#@#[class^="border-"]:contains(Sponsored)
+chatgpt.com#%#(()=>{const e={apply:(e,t,d)=>{try{const e=d[1];e?.ads&&e?.renderedAdsHtml&&(e.hidden=!0,delete e.ads,delete e.renderedAdsHtml)}catch(e){}return Reflect.apply(e,t,d)}};window.Map.prototype.set=new Proxy(window.Map.prototype.set,e)})();
+||0elq99i0w.com^
+||lngacmuw.com^
+||fqcbxkvcabybj.online^
+||diaperflavedo.qpon^
+||gvqjpnmn.com^
+||gbepetltlevbb.website^
+||tootsiebedims.qpon^
+||rjcljqxkdvrmh.site^
+||bniojznwonvfk.com^
+||xlgqoxvlwajus.site^
+||zrprwnsmi.com^
+||eocenearmine.cyou^
+||ujj1ndg5i.com^
+||xdekwyusgqkxl.space^
+||ymgmmlqakrllc.space^
+||zaovuzkexnd.com^
+||cnkbiotmdnegp.space^
+vidzen.fun,masrawytrend.com##+js(no-window-open-if)
+||jgafrwlycdgtv.site^
+||jwuoflnhia.in^
+||bnwpawfhzxcpw.site^
+||keelfifteen.qpon^
+||altroseunlatch.qpon^
+||cbizitmyaprju.com^
+||kaztuxcaw.in^
+||itvmqdqdhlysn.website^
+||misovxorsrti.in^
+||fdadmvbteroqf.space^
+||uoydzaom.xyz^
+||uskdkvjda.com^
+||yymupayhgc.com^
+||pseavibrsijgx.site^
+||2lpwji3xr.com^
+||jgrjauxhvhbas.website^
+||tbslehgnmaets.space^
+||slacklygrewt.shop^
+||rusoezjtmlqix.site^
+||kalykynzwovyd.site^
+||hairpincryste.shop^
+||nxrgvgjizziry.site^
+||ulysqoaqwz.com^
+||thtoipuxeyrsv.site^
+||sqovyrwommzik.online^
+||tumpspeller.qpon^
+||pattenauntle.cyou^
+||genarchwarlike.cyou^
+||a78lx5fbd.com^

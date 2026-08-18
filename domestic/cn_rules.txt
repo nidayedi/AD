@@ -1,7 +1,7 @@
-! Update on 2026-08-18 03:21:13 (Beijing Time)
-! Generated on 2026-08-18 03:21:13 (Beijing Time)
+! Update on 2026-08-19 03:21:33 (Beijing Time)
+! Generated on 2026-08-19 03:21:33 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28493
+! Total domestic rules: 28503
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28496,3 +28496,13 @@ alibaba.com##div[data-search-floor] [data-supplier-card]:contains(Ad)
 ||xml-eu-v4.dove-node.info^
 ||xml-eu-v4.xmlads.com^
 ||click-eu.exmainclcknew.com^
+||npzjrlkmmjjtxe.com^
+||m8ysv4ckls.com^
+||i16vlgqdhh.com^
+||syb8jon4zb.com^
+||jnes2uutqu.com^
+||ehh91kb6ic.com^
+||bhx4vpuit9.com^
+||dp2c7quvk7.com^
+||epalepnn55.com^
+||xtjgtbzugy.com^

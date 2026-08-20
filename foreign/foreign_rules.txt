@@ -1,7 +1,7 @@
-! Update on 2026-08-20 03:18:36 (Beijing Time)
-! Generated on 2026-08-20 03:18:36 (Beijing Time)
+! Update on 2026-08-21 03:24:26 (Beijing Time)
+! Generated on 2026-08-21 03:24:26 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 230108
+! Total foreign rules: 230294
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -230111,3 +230111,189 @@ linkedin.com#?#[componentkey*="MAIN_FEED_RECENT"] > div[role="listitem"] > [data
 ||cm30oc1du.com^
 ||rkdyj4usf.com^
 ||k3vgy6hf7.com^
+||vallumsdecidua.qpon^
+||wifjoqpnviwlr.site^
+||idoldhjhxbjis.site^
+||jdufgkfwdygge.site^
+||ospowqxfyhho.in^
+||jewelryagency.com^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com|prydwen.gg|sporcle.com
+||pwzrfznosfblpi.com^
+||rhmqfekypljys.site^
+||osazlpwnrdxaa.space^
+||awtjudztob.in^
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,important,domain=urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|housecardsummerbutton.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com|charlessheimprove.com|brittanyaheadnew.com|maryspecialwatch.com|benjaminreducecommunity.com|nicholasbreakplan.com|rebeccasciencestreet.com|johnbeyondnation.com
+egamersworld.com###w_banner
+||shopmy.us^
+||cscfvutsqjowd.site^
+johnbeyondnation.com,rebeccasciencestreet.com,nicholasbreakplan.com,benjaminreducecommunity.com,maryspecialwatch.com,brittanyaheadnew.com,charlessheimprove.com,richardquestionbuilding.com,timmaybealready.com,charlestoughrace.com,ianrequireadult.com,marissasharecareer.com,jessicaclearout.com,jefferycontrolmodel.com,dianaavoidthey.com,lancewhosedifficult.com,lauradaydo.com,crystaltreatmenteast.com,walterprettytheir.com,christopheruntilpoint.com,mikaylaarealike.com,lukesitturn.com,jilliandescribecompany.com,kellywhatcould.com,johnalwayssame.com,mariatheserepublican.com,jonathansociallike.com,diananatureforeign.com,sarahnewspaperbeat.com,richardsignfish.com,jennifercertaindevelopment.com,nathanfromsubject.com,adrianmissionminute.com,kristiesoundsimply.com,heatherwholeinvolve.com,alejandrocenturyoil.com,maxfinishseveral.com,robertordercharacter.com,sandratableother.com,brittneystandardwestern.com,jamessoundcost.com,toddpartneranimal.com,kimberlyonlocal.com,richardstorehalf.com,zacharycollectionmight.com,thomasalthoughhear.com,susanhavekeep.com,lorimuchbenefit.com,evelynthankregion.com,jessicaglassauthor.com,lisatrialidea.com,bethshouldercan.com,donaldlineelse.com,josephseveralconcern.com,alleneconomicmatter.com,robertplacespace.com,heatherdiscussionwhen.com,jayservicestuff.com,morganoperationface.com,johntryopen.com,jamiesamewalk.com,kennethofficialitem.com,lukecomparetwo.com,edwardarriveoften.com,paulkitchendark.com,kathleenmemberhistory.com,phenomenalityuniform.com,urochsunloath.com,35volitantplimsoles5.com,antecoxalbobbing1010.com,cyamidpulverulence530.com,guidon40hyporadius9.com,housecardsummerbutton.com,un-block-voe.net,voeunblk.com,voeunbl0ck.com,voeunblock2.com,voeunblock.com,voe-unblock.*,voe.sx##+js(abort-current-script, $, /\.fadeIn|\.show\(.?\)/)
+||ldlyaohsraosg.online^
+play.hbomax.com##+js(no-xhr-if, brightline.tv)
+||joinantneillia.qpon^
+||whewlwattape.cfd^
+||wjytsycukilta.online^
+chatgpt.com#$#hide-if-matches-xpath 'id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Sponsored")]'
+||wdlkmflaisegx.site^
+programme-tv.net#$#override-property-read as_-807486254 true; override-property-read as_1397897591 true; override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=cloudfam.io
+||congecubical.cfd^
+||thegreattech.com^
+||jjabijzelcsbp.online^
+||accersetazzas.cyou^
+||yiopsuqcfjayh.com^
+chatgpt.com#$#hide-if-matches-xpath '//div[contains(concat(" ",normalize-space(@class)," ")," opacity-100 ") and contains(concat(" ",normalize-space(@class)," ")," transition-opacity ") and contains(concat(" ",normalize-space(@class)," ")," ease-out ") and contains(.,"Sponsored options")]'
+||qcvfwfpkszgvm.site^
+||rzosuxeqowwvf.site^
+||cornealtextlet.qpon^
+||mybniopsiqcmj.site^
+||ivfhmlsqsijtc.website^
+||desvfcxalwvhf.space^
+||mirlaxmtyjapd.site^
+||ydcjrqvjveneo.online^
+||resoleswhams.shop^
+||coffeefire.net^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com|prydwen.gg|sporcle.com
+||xfzpgaetnkpsh.site^
+||inbredkhoka.cyou^
+chatgpt.com#$#hide-if-matches-xpath 'id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Ad")]'
+||ympzhpbzkurpz.website^
+||anergiamabble.shop^
+||marrysschoche.cyou^
+soccerbox.me,soccerbox.*,worldsports.st,buffsports.io,viprow.nu,olympicstreams.*,www.vipbox.fm,vipbox.*,vipstand.*,viprow.*##button[data-openuri*="https://"][data-open="_blank"]
+||bhhvaweewcrdj.space^
+3movs.com##.playside2
+||zvcnbkarazeft.website^
+johnbeyondnation.com,rebeccasciencestreet.com,nicholasbreakplan.com,benjaminreducecommunity.com,maryspecialwatch.com,brittanyaheadnew.com,charlessheimprove.com,richardquestionbuilding.com,timmaybealready.com,charlestoughrace.com,ianrequireadult.com,marissasharecareer.com,jessicaclearout.com,jefferycontrolmodel.com,dianaavoidthey.com,lancewhosedifficult.com,lauradaydo.com,crystaltreatmenteast.com,walterprettytheir.com,christopheruntilpoint.com,mikaylaarealike.com,lukesitturn.com,jilliandescribecompany.com,kellywhatcould.com,johnalwayssame.com,mariatheserepublican.com,jonathansociallike.com,diananatureforeign.com,sarahnewspaperbeat.com,richardsignfish.com,jennifercertaindevelopment.com,nathanfromsubject.com,adrianmissionminute.com,kristiesoundsimply.com,heatherwholeinvolve.com,alejandrocenturyoil.com,maxfinishseveral.com,robertordercharacter.com,sandratableother.com,brittneystandardwestern.com,jamessoundcost.com,toddpartneranimal.com,kimberlyonlocal.com,richardstorehalf.com,zacharycollectionmight.com,thomasalthoughhear.com,susanhavekeep.com,lorimuchbenefit.com,evelynthankregion.com,jessicaglassauthor.com,lisatrialidea.com,bethshouldercan.com,donaldlineelse.com,josephseveralconcern.com,alleneconomicmatter.com,robertplacespace.com,heatherdiscussionwhen.com,jayservicestuff.com,morganoperationface.com,johntryopen.com,jamiesamewalk.com,kennethofficialitem.com,lukecomparetwo.com,edwardarriveoften.com,paulkitchendark.com,kathleenmemberhistory.com,phenomenalityuniform.com,urochsunloath.com,35volitantplimsoles5.com,antecoxalbobbing1010.com,cyamidpulverulence530.com,guidon40hyporadius9.com,housecardsummerbutton.com,un-block-voe.net,voeunblk.com,voeunbl0ck.com,voeunblock2.com,voeunblock.com,voe-unblock.*,voe.sx##+js(google-ima)
+3movs.com##.recommended
+||aopytfhhfc.com^
+||gamingadlt.com^document
+||qxipoaozxpedk.space^
+||goulanwattles.cfd^
+||epeltinjzkqfy.space^
+waterloochronicle.ca,theifp.ca,simcoe.com,toronto.com,northumberlandnews.com##div[id^="primis"]
+waterloochronicle.ca,theifp.ca,simcoe.com,toronto.com,northumberlandnews.com##div[data-lpos^="more-from-"][data-lpos*="-partners"]
+||tnhbasulnwrqt.online^
+eda.yandex.ru##main > div[style^="margin-bottom:"]:has(> div[class] div[class] > img[src*="get-market-adv"])
+||thycamois.qpon^
+@@||api.authsignal.com^$stealth=3p-auth
+linkedin.com##[componentkey*="MAIN_FEED_RECENT"] > div[role="listitem"] > [data-display-contents]:contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/)
+||vysfvhtxrikig.site^
+yorkregion.com,waterloochronicle.ca,theifp.ca,simcoe.com,toronto.com,northumberlandnews.com##div[id^="primis"]
+||xclikgrueb.com^
+||schemedsins.cyou^
+||peoplebrain.net^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com|prydwen.gg|sporcle.com
+johnbeyondnation.com,rebeccasciencestreet.com,nicholasbreakplan.com,benjaminreducecommunity.com,maryspecialwatch.com,brittanyaheadnew.com,charlessheimprove.com,richardquestionbuilding.com,timmaybealready.com,charlestoughrace.com,ianrequireadult.com,marissasharecareer.com,jessicaclearout.com,nlcosplay.com,jefferycontrolmodel.com,dianaavoidthey.com,lancewhosedifficult.com,lauradaydo.com,crystaltreatmenteast.com,hentaianimezone.com,cdn1.site,walterprettytheir.com,christopheruntilpoint.com,doujinantena.top,kimochi.info,sxyprn.net,sxyprn.com,mikaylaarealike.com,lukesitturn.com,jilliandescribecompany.com,kellywhatcould.com,johnalwayssame.com,mariatheserepublican.com,jonathansociallike.com,diananatureforeign.com,sarahnewspaperbeat.com,richardsignfish.com,jennifercertaindevelopment.com,nathanfromsubject.com,adrianmissionminute.com,kristiesoundsimply.com##+js(abort-current-script, WebAssembly, atob)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|housecardsummerbutton.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com|charlessheimprove.com|brittanyaheadnew.com|maryspecialwatch.com|benjaminreducecommunity.com|nicholasbreakplan.com|rebeccasciencestreet.com|johnbeyondnation.com
+||ycuixpwkugaot.space^
+@@||bigcommerce.com^$domain=plazajapan.com
+||pgabbgqhenhxu.space^
+||kivdtuobj.in^
+noxx.to#%#//scriptlet('remove-node-text', 'script', '_0xmax')
+||fkfkmvbejrpro.space^
+johnbeyondnation.com,rebeccasciencestreet.com,nicholasbreakplan.com,benjaminreducecommunity.com,maryspecialwatch.com,brittanyaheadnew.com,charlessheimprove.com,richardquestionbuilding.com,timmaybealready.com,charlestoughrace.com,ianrequireadult.com,marissasharecareer.com,jessicaclearout.com,jefferycontrolmodel.com,dianaavoidthey.com,lancewhosedifficult.com,lauradaydo.com,crystaltreatmenteast.com,walterprettytheir.com,christopheruntilpoint.com,mikaylaarealike.com,lukesitturn.com,jilliandescribecompany.com,kellywhatcould.com,johnalwayssame.com,mariatheserepublican.com,jonathansociallike.com,diananatureforeign.com,sarahnewspaperbeat.com,richardsignfish.com,jennifercertaindevelopment.com,nathanfromsubject.com,adrianmissionminute.com,kristiesoundsimply.com,heatherwholeinvolve.com,alejandrocenturyoil.com,maxfinishseveral.com,robertordercharacter.com,sandratableother.com,brittneystandardwestern.com,jamessoundcost.com,toddpartneranimal.com,kimberlyonlocal.com,richardstorehalf.com,zacharycollectionmight.com,thomasalthoughhear.com,susanhavekeep.com,lorimuchbenefit.com,evelynthankregion.com,jessicaglassauthor.com,lisatrialidea.com,bethshouldercan.com,donaldlineelse.com,josephseveralconcern.com,alleneconomicmatter.com,robertplacespace.com,heatherdiscussionwhen.com,jayservicestuff.com,morganoperationface.com,johntryopen.com,jamiesamewalk.com,kennethofficialitem.com,lukecomparetwo.com,edwardarriveoften.com,paulkitchendark.com,kathleenmemberhistory.com,phenomenalityuniform.com,urochsunloath.com,35volitantplimsoles5.com,antecoxalbobbing1010.com,cyamidpulverulence530.com,guidon40hyporadius9.com,housecardsummerbutton.com,un-block-voe.net,voeunblk.com,voeunbl0ck.com,voeunblock2.com,voeunblock.com,voe-unblock.*,voe.sx##+js(abort-current-script, encodeURIComponent, break;case)
+||cme8k7fuwy.com^
+impulsegamer.com###omc-top-banner
+||weanersprionus.qpon^
+animefire.io,kavero.biz,flixcdn.cyou,kicknosub.com,555fap.com,vixcloud.co,vidmatrixa.com,vidchampions.com,vidavaca.cc,8kporner.com,filester.me,goonbox.cr,luottruyen12.com,vidavaca.net,hentainexus.com,xfans.st,mangakakalot.gg,26img.com,javbee.co,vindaz.shop,xca.cymru,shavetape.cash,vidsonic.net,bigshare.io,herexxx.com,avdbapi.com,rule34vault.com,speedporn.net,taboodude.com,pornxp.ph,cdn.loadvid.com,vidara.so,vidara.to,pornwatch.ws,rpmplay.online,embedseek.online,pandamovies.org,hepidrive.online,hentaicop.com,livecamrips.*,asianporn.li,vik1ngfile.site,mangago.me,klmanga.ec,chochox.com,comick.art,qmh.sex,cap3.sex,hindilinks4u.*,doujindesu.tv,easyvidplayer.com,camwhores.*,player4me.*,faselhds.biz,severeporn.com,rule34video.com,niyaniya.moe,pornxp.net,upns.online,seekplayer.vip##+js(abort-current-script, WebAssembly, atob)
+||imagedabasias.cfd^
+||flybolezposxy.space^
+||ybmmejnmkflmw.site^
+sextvx.com##.ads_onpause_container
+||umiaqbirches.cyou^
+||vfyhkoqjxnvwn.space^
+||coursesmerk.cfd^
+||eldj-defender.pro^
+||dumpagemaists.cfd^
+||yhhqalanfrdyo.space^
+||jzvhiqmmfyrlq.site^
+flipkart.com##div[data-id]:has(a > [data-tkid^="ADVIEW"])
+||byvdtugfdxznh.site^
+cybernews.com##.partner-content-editorial
+stocktwits.com##.min-h-\[320px\]
+||rhnyglwshzaya.website^
+||hkejgyfqukiev.space^
+seriouseats.com#$#override-property-read as_-807486254 true; override-property-read as_1397897591 true; override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true
+||dbxkzizfgildn.site^
+||miscastforlain.qpon^
+soccerbox.me,soccerbox.*,www.vipbox.fm,vipbox.*,vipleague.vg,vipleague.*,f1box.me,mlbbox.me,mmastreams.me,nbabox.me,nflbox.me,nhlbox.me,rugbystreams.me,tennisonline.me,cricstreams.re,dartsstreams.com,vipboxtv.*,dartsstream.me,golfstreams.me,motogpstream.me,tennisstreams.me,boxingstreams.me,ufcstream.me,mlbstream.me,nbastream.nu##.position-absolute.text-white
+||rwhhbbphligft.site^
+noxx.to$$script:contains(_0xmax)
+||waterfallreluctant.com^
+oxfordlearnersdictionaries.com#$#override-property-read as_-807486254 true; override-property-read as_1397897591 true; override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true
+||rrvllvxqfobil.site^
+||crudestcarlin.cfd^
+||tartarewealden.cfd^
+||dcornvtnzpnta.site^
+||swetmjxvjceiw.site^
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|housecardsummerbutton.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com|charlessheimprove.com|brittanyaheadnew.com|maryspecialwatch.com|benjaminreducecommunity.com|nicholasbreakplan.com|rebeccasciencestreet.com|johnbeyondnation.com
+||sfkwlxedyocpq.website^
+||sinwardcyclope.qpon^
+||rijayuafvocek.site^
+||ufzyypwinfvbh.site^
+||fourspincers.qpon^
+play.hbomax.com#%#//scriptlet('prevent-xhr', 'brightline.tv')
+chatgpt.com#$#hide-if-matches-xpath 'id("thread")//h3[normalize-space(text())="Sponsored"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1] | id("thread")//span[normalize-space(text())="Ad"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1]' 'id("thread")'
+||insistslive.qpon^
+||1aa0yygqst.com^
+||mtiljpfycvdti.site^
+||rft.gg/images/sponsors/
+||omgheasnyvnob.site^
+||itemxemtdepzp.space^
+||bsacbjemqhdig.site^
+||3o6a7kbcwo.com^
+||vahanagigge.cyou^
+||lildgyfdcautq.space^
+tunebat.com#$#override-property-read as_-807486254 true; override-property-read as_1397897591 true; override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true
+sextvx.com##.side_content
+||srhmzkdwrasrb.online^
+||degreeeruptionpredator.com^$all
+||wolgjnvnuewsf.online^
+||ldgtmqhwlhopb.online^
+||ltahudax.in^
+linkedin.com##[componentkey*="MAIN_FEED_RELEVANCE"]> div[role="listitem"] > [data-display-contents]:contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/)
+soccerbox.me,soccerbox.*,www.vipbox.fm,vipbox.*,vipleague.vg,vipleague.*##a[data-openuri*="https://"][data-open="_blank"]
+bing.com##.top-ads-separator-enabled
+poro.gg##main > div[class]:has(div.ad-wrapper)
+||essaylogicdoubt.com^
+||eoctphzgwgmnd.site^
+||aytgk8rfu4.com^
+||gqohlougrnhus.space^
+cybernews.com##.partner-of-the-month
+||dwlladiupirrc.site^
+||uekdrashfpnrf.online^
+yorkregion.com,waterloochronicle.ca,theifp.ca,simcoe.com,toronto.com,northumberlandnews.com##div[data-lpos^="more-from-"][data-lpos*="-partners"]
+||usesponsorarrange.com^
+||imnhegcpjiiqj.website^
+||ktpzzvnffdttj.site^
+||jarehzfflvcsa.website^
+||cysrqxsrmxtha.website^
+slashdot.org###auth0-sd
+movie-locations.com#$#override-property-read as_-807486254 true; override-property-read as_1397897591 true; override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true
+||unpsymaqywtvf.site^
+impulsegamer.com###omc-sidebar > ul > li.omc-widget:has(> .textwidget > a[target="_blank"] > img)
+||socialsend.net^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com|prydwen.gg|sporcle.com
+||hacarqtwivz.in^
+stocktwits.com##.\!min-h-\[250px\]
+||railbowyers.cfd^
+||tiesbcgfsmpwe.space^
+||outbarkzapota.shop^
+||animesalt.link^
+||ashthtddicgnf.site^
+||qdmjtjfnzuqsr.online^
+noxx.to##+js(remove-node-text, script, _0xmax)
+||gixjzqpesgmde.website^
+||chiwoevhviyty.site^
+||hpfspjajpdzrd.online^
+rft.gg##.pointer-events-auto:has(> a[target="_blank"] > img)
+||liwsgkgwjanzi.space^
+||hfyunaiqwrobn.site^
+mbjremix.com,vbnmx.online##.floating-ads-container
+||abpnqfnpjzevh.site^
+||qdpyytqowlroy.online^
+||lhomwfgowxomh.online^
+||geledonewytlj.online^
+||kswlplkgtovxr.site^
+||mhetjxfaoxeyu.online^
+||nattierdwale.qpon^
+sporcle.com###homepage-container > div.row-unit-container
+motchillu.app#$#prevent-listener click sessionStorage
+||0c484j022z.com^
+||ue.17173cdn.com/a/www/index/*/js/seed.js

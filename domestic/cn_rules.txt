@@ -1,5 +1,5 @@
-! Update on 2026-08-25 03:22:09 (Beijing Time)
-! Generated on 2026-08-25 03:22:09 (Beijing Time)
+! Update on 2026-08-26 03:24:04 (Beijing Time)
+! Generated on 2026-08-26 03:24:04 (Beijing Time)
 ! Domestic rules (China IP location)
 ! Total domestic rules: 28512
 

@@ -1,7 +1,7 @@
-! Update on 2026-08-28 10:23:47 (Beijing Time)
-! Generated on 2026-08-28 10:23:47 (Beijing Time)
+! Update on 2026-08-29 09:58:38 (Beijing Time)
+! Generated on 2026-08-29 09:58:38 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28515
+! Total domestic rules: 28528
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28518,3 +28518,16 @@ stre4mpay.one,pooembed.eu,tpead.net,streamed.pk,bmovies.vip,sanet.st,yifysubtitl
 stre4mpay.one,pooembed.eu,tpead.net,streamed.pk,bmovies.vip,sanet.st,yifysubtitles.ch,streamtape.com,streamtape.net,advertape.net,adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtapeadblock.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com,streamtape.*,wizja.cc,totalsportek.*,casthill.net,streamed.*,exposestrat.com,embedsports.top,nativesurge.net,yts.bz,yts.lt,yts.*,seir-sanduk.com,daddylive3.com,sterham.net,buffsports.io,soccerstreams7.com,loadvid.com,telewizjada.top,strumyk.net,ogladaj.in,istreameast.app,streamingnow.mov,watchug.to,primewire.tf,filecrypt.cc,veplay.top,colegialasdeverdad.*,flixrave.me,anime4i.com,cuttyy.com,daddyhd.com,daddylive.*,zavalise.com,wooflix.tv,yassflix.net,swipebreed.net,eurekaddl.lat,en.tgo-tv.xyz,miztv.shop,vidlink.pro,knaben.xyz,powstream.*,rojadirectaenvivo.pl,ext.to,capo4play.com,wawacity.cfd,1337x.to,zone-telechargement.*,redecanais.in,streameast.*,thestreameast.*,anroll.net,anarchy-stream.com,freckledine.net,buffstreams.app,sanet.lc,1stream.eu,dl-protect.link,cricstreams.re,extreme-down.*,eztvx.to,skidrowreloaded.com,streambucket.net,modsfire.com,official.nbabite.com##+js(abort-on-property-read, Adcash)
 ntv.st,ntvs.cx,ntv.cx##.watch-clean-promo
 ||ldphrdhawfxhvc.com^
+||ads.adfunlink.com^
+||patriotthreads.org^
+||global-websis.api.engagelab.cc^
+180.163.150.33 dl.l.google.com^
+||pushstat.api.engagelab.cc^
+180.163.151.161 dl.google.com^
+||st.smartads.tech^
+||adsadvisor.io^
+||t.smartads.tech^
+ismedia.jp,jbpress.ismedia.jp##.m-sponsord
+||kurogames-ads.com^
+||ads.tvpl.vn^
+||smartads.tech^

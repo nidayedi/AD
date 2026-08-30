@@ -1,7 +1,7 @@
-! Update on 2026-08-30 05:24:57 (Beijing Time)
-! Generated on 2026-08-30 05:24:57 (Beijing Time)
+! Update on 2026-08-31 05:45:20 (Beijing Time)
+! Generated on 2026-08-31 05:45:20 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28528
+! Total domestic rules: 28531
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28531,3 +28531,6 @@ ismedia.jp,jbpress.ismedia.jp##.m-sponsord
 ||kurogames-ads.com^
 ||ads.tvpl.vn^
 ||smartads.tech^
+jpopsingles.eu##+js(abort-current-script, document.createElement, js_func_decode_base_64)
+jpopsingles.eu##div[align="center"] > a[href*="?key="][target="_blank"]
+jpopsingles.eu#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'js_func_decode_base_64')

@@ -1,7 +1,7 @@
-! Update on 2026-09-01 07:04:31 (Beijing Time)
-! Generated on 2026-09-01 07:04:31 (Beijing Time)
+! Update on 2026-09-02 05:30:41 (Beijing Time)
+! Generated on 2026-09-02 05:30:41 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28532
+! Total domestic rules: 28534
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28535,3 +28535,5 @@ jpopsingles.eu##+js(abort-current-script, document.createElement, js_func_decode
 jpopsingles.eu##div[align="center"] > a[href*="?key="][target="_blank"]
 jpopsingles.eu#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'js_func_decode_base_64')
 ||cdnet.nasmob.com^
+||nehpjdjqbafnvm.com^
+1shortlink.com#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')

@@ -1,7 +1,7 @@
-! Update on 2026-09-04 05:31:40 (Beijing Time)
-! Generated on 2026-09-04 05:31:40 (Beijing Time)
+! Update on 2026-09-05 05:09:54 (Beijing Time)
+! Generated on 2026-09-05 05:09:54 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28543
+! Total domestic rules: 28548
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28546,3 +28546,8 @@ jprime.jp##.js-self-interstitial
 ntv.st,ntvs.cx,ntv.cx,fbstream.is,fbstream.*,embed.st,streamcash.to,sololatino.net,dramavideo.se,powwideo.*##+js(abort-on-property-read, AtcshAltNm)
 ||c2vodqlmy.com^
 ||uj6i2bo3o.com^
+||pavxtxikkjrdfy.com^
+||cq5nsp7kya.com^
+||x6kd8l204b.com^
+pixiv.net#@#img[width="240"][height="400"]
+||avqb7vrufi.com^

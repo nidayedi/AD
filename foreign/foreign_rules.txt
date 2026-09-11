@@ -1,7 +1,7 @@
-! Update on 2026-09-11 05:19:16 (Beijing Time)
-! Generated on 2026-09-11 05:19:16 (Beijing Time)
+! Update on 2026-09-12 05:27:23 (Beijing Time)
+! Generated on 2026-09-12 05:27:23 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 235200
+! Total foreign rules: 235416
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -235203,3 +235203,219 @@ inc.com#$##header-scroll-sentinel + div.top-0 { top: 0 !important; }
 ||pencilalbugo.cyou^
 ||xybrf8tcvf.com^
 katoikos.world,fcsnew.net,wemove-charity.org,hdplayersystem.live,okpeliz.com,jazbaat.in,cgtips.org,audiotools.blog,drivers.plus,gplastra.co,pcgameszone.com,trigonevo.com,sportshub.to,djqunjab.in,xerifetech.com,thepresetsroom.com,apkdelisi.net,ezaudiobookforsoul.com,qcscertification.com,plc4me.com,shortix.co,highkeyfinance.com,vietnoiket.com,blackwot.ru,asiaon.top,snlookup.com,filmisub.cc,javindo.eu.org,mixrootmods.com,kisahdunia.com,magicgameworld.com,gamedrive.org,apkdrill.com,daotranslate.com,techacode.com,azmath.info,sonixgvn.net,tuxnews.it,pinsystem.co.uk,blessedhornbill.com,filmefarsi.com,luciferdonghua.in,cctvwiki.com,7xm.xyz,jadukit.com,tech5s.co,emptycode.in,porninblack.com,tkbsen.in,teksnologi.com,shineads.in,tavernadequadrinhos.com.br,uiiumovie.*,plc247.com,thecustomrom.com,nulleb.com,step-tech.pl,kuponigo.com,gplastra.com,souq-design.com##+js(abort-on-stack-trace, document.getElementsByTagName, adsBlocked)
+||avluvwflnuwjw.space^
+||msndjupvqtrhs.website^
+telecomtalk.info##.tt-ad
+~m.facebook.com,facebook.com##div[data-status-bar-color] > div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"]:has(> div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"] div[data-mcomponent="TextArea"] .native-text > span:contains(/(Sponsored|Gesponsert|Sponsorlu|Sponsorowane|Ispoonsara godhameera|Geborg|Bersponsor|Ditaja|Disponsori|Giisponsoran|Sponzorováno|Sponsoreret|Publicidad|May Sponsor|Sponsorisée|Oipytyvôva|Ɗaukar Nayin|Sponzorirano|Uterwa inkunga|Sponsorizzato|Imedhaminiwa|Hirdetés|Misy Mpiantoka|Gesponsord|Sponset|Patrocinado|Patrocinado|Sponsorizat|Sponzorované|Sponsoroitu|Sponsrat|Được tài trợ|Χορηγούμενη|Спонсорирано|Спонзорирано|Ивээн тэтгэсэн|Реклама|Спонзорисано|במימון|سپانسرڈ|دارای پشتیبانی مالی|ስፖንሰር የተደረገ|प्रायोजित|ተደረገ|प|प्रायोजित|স্পনসর্ড|ਪ੍ਰਯੋਜਿਤ|પ્રાયોજિત|ପ୍ରାୟୋଜିତ|செய்யப்பட்ட செய்யப்பட்ட|చేయబడినది చేయబడినది|ಪ್ರಾಯೋಜಿಸಲಾಗಿದೆ|ചെയ്‌തത് ചെയ്‌തത്|ලද ලද ලද|สนับสนุน สนับสนุน รับ สนับสนุน สนับสนุน|ကြော်ငြာ ကြော်ငြာ|ឧបត្ថ���្ភ ឧបត្ថម្ភ ឧបត្ថម្ភ|광고|贊助|赞助内容|広告|സ്‌പോൺസർ ചെയ്‌തത്)/)):not(:has([data-tracking-duration-id])) + .m:is(.bg-s2, .bg-s3, .bg-s4):has(+ .m:is(.bg-s2, .bg-s3, .bg-s4) + .m:not(:has(.m:empty)))
+||xemblluoltkpu.site^
+||sdygyoqbadliu.space^
+||btaireiaxqjgf.com^
+||nlyincpubxuhq.website^
+||cqfhggbbichpi.space^
+||harledgurnard.qpon^
+||atddmn.com^
+wp.pl,o2.pl##div[class*=" "]:has(> img[src^="https://v.wpimg.pl/"]:is(.wp-placeholder-img, .absolute):first-child + div:last-child)
+||sfcxvbhvtfwmf.site^
+enikos.gr##.sticky:has(> p.font-medium)
+||rzanxpjcperlj.website^
+||ejubffgqqurwz.space^
+||ngvyktsuuyadu.online^
+||vwetgvfpqybfu.space^
+||uspwjktbuhvsd.site^
+||abjysjjzgfuap.com^
+||limiergirlies.cfd^
+||sqpvnivabieye.site^
+||tatterslisses.cyou^
+||ehwsnbikqtuyp.online^
+||inkgqazdeedke.online^
+svetserialu.to##.alert_premiumExpired
+atleticalive.it###zdn-adblock-overlay
+||vacuumpressuredisarray.com^
+||pcmdfgxtozaoq.site^
+imagetwist.com##a[href*="/track?v="]
+||tummyindic.cyou^
+||fjoofakmynihn.site^
+netspeed.com.tr#@##adWrapper
+svetserialu.to##body > div[class][style^="z-index:"]
+||wraggleshevri.cfd^
+techdoctoruk.com##div[data-testid="vpn-banner"]
+mtgdecks.net,farmersalmanac.com,thecookinchicks.com,bydeannyd.com,scam-detector.com,whattocooktoday.com,theforkedspoon.com,budgetbytes.com,fearlessdining.com,mamagourmand.com,rachaelsgoodeats.com,texanerin.com,thisvivaciouslife.com,letthemeatgfcake.com,bakerita.com,meaningfuleats.com,lazycatkitchen.com,chocolatecoveredkatie.com,thebigmansworld.com,sugarfreelondoner.com,electricteeth.com,ultrabookreview.com,glutenfreepalate.com,gadgetreview.com,fufuskitchen.com,awfulannouncing.com,biancazapatka.com,ladysavings.com,activewild.com,mexicoinmykitchen.com,naturallieplantbased.com,padresmission.com,mygluten-freekitchen.com,greatergood.com,alattefood.com,the5krunner.com,seasonedskilletblog.com,mealprepmanual.com,theeburgerdude.com,rainbowplantlife.com,myballard.com,joyusgarden.com,cakebycourtney.com,littlesweetbaker.com,lifestyleofafoodie.com,eatingonadime.com,bestfriendsforfrosting.com,cafedelites.com,thestayathomechef.com,bakerbynature.com,cookieandkate.com,modernhoney.com,prettysimplesweet.com,scientificallysweet.com,seededatthetable.com,courtneyssweets.com,biddytarot.com,sarahsvegankitchen.com,chunkbase.com,tacoma4g.com,mavericktruckclub.com,f150gen14.com,4runner6g.com,leafyplace.com,lfpress.com,almanac.com,wholesomeyum.com,wenthere8this.com,joyousapron.com,blesserhouse.com,czn.gg,starwarsunlimited.gg,playingmtg.com,nikke.gg,neverness.gg,bluearchive.gg,endfield.gg,cookierun.gg,dcworldscollide.gg,digimonzone.com,dragonball.gg,fabtcg.gg,lorcana.gg,marvelrivals.gg,marvelsnapzone.com,onepiece.gg,playingmtg.com,ptcgpocket.gg,riftbound.gg,shadowverse.gg,thebazaarzone.com,thecookingfoodie.com,freshbeanbakery.com,visualcapitalist.com,rdr2.org,kingshotcalculator.com,thebestideasforkids.com,elliott.org,damndelicious.net,dessertswithbenefits.com,cookingclassy.com,inkatrinaskitchen.com,creative-culinary.com,spatuladesserts.com,kitchennostalgia.com,cookincanuck.com,mykoreankitchen.com,vegrecipesofindia.com,spiceupthecurry.com,orchidbliss.com,feelgoodfoodie.net,deltiasgaming.com,broncosportforum.com,alldayidreamaboutfood.com,all-nationz.com,ontariofarmer.com,247wallst.com,notateslaapp.com,cybertruckownersclub.com,wnyt.com,epicgardening.com,davesgarden.com,savvygardening.com,lifeasastrawberry.com,cravingsofalunatic.com,olgasflavorfactory.com,tablefortwoblog.com,skinnytaste.com,louisianacookin.com,laurenfromscratch.com,easycheesyvegetarian.com,cleananddelicious.com,heynutritionlady.com,fooddoodles.com,southernplate.com,littlespoonfarm.com,sallysbakingaddiction.com,justataste.com,hearthookhome.com,beatthebudget.com,preventionrd.com,foodiecrush.com,allwaysdelicious.com,momontimeout.com,kitchentreaty.com,tastesbetterfromscratch.com,mynaturalfamily.com,pickyeaterblog.com,thelemonbowl.com,ambitiouskitchen.com,simplyquinoa.com,whiteonricecouple.com,cookiesandcups.com,inspiralized.com,momswithcrockpots.com,againstallgrain.com,howsweeteats.com,cookincanuck.com,hummusapien.com,healthygreenkitchen.com,thriftyfrugalmom.com,fedandfit.com,chelseasmessyapron.com,yourhomebasedmom.com,pressurecookingtoday.com,littlespicejar.com,dinnerthendessert.com,dessertnowdinnerlater.com,detoxinista.com,torontosun.com,parade.com,athlonsports.com,edmontonsun.com,canoe.com,driving.ca,vancouversun.com,spendwithpennies.com,saltandbaker.com,sporked.com,concertarchives.org,laurenslatest.com,muybuenoblog.com,handletheheat.com,paleomg.com,acouplecooks.com,101cookbooks.com,healthy-delicious.com,simple-nourished-living.com,ourbestbites.com,rachelcooks.com,giverecipe.com,healthynibblesandbits.com,sweetandsavorymeals.com,livingwellmom.com,theblondcook.com,wearychef.com,damndelicious.net,pcguide.com,micechat.com,thecafesucrefarine.com,realmenrealstyle.com,mmo-champion.com,nursefern.com,mtgsalvation.com,elliott.org,ohsweetbasil.com,mocoshow.com,thefpsreview.com,jaroflemons.com,russianmachineneverbreaks.com,appunwrapper.com,theimpulsivebuy.com,cruisehive.com,thurrott.com,twinsdaily.com,zhangcatherine.com,ministryofcurry.com,thewoksoflife.com,idownloadblog.com,thescranline.com,rachlmansfield.com,vincenzosplate.com,natashaskitchen.com,glutenfreeonashoestring.com,preppykitchen.com,starwarsunlimited.gg,theconsciousplantkitchen.com,archerytalk.com,gundamcard.gg,marvel.church,mamainastitch.com,myquietkitchen.com,anoregoncottage.com,twopeasandtheirpod.com,onceuponachef.com,currytrail.in,stephiecooks.com,iambaker.net,diethood.com,hot-thai-kitchen.com,grownandflown.com,thistlewoodfarms.com,thekoreanvegan.com,maangchi.com,whatgreatgrandmaate.com,365daysofbakingandmore.com,asweetpeachef.com,afarmgirlsdabbles.com,connoisseurusveg.com,veganricha.com,chefsavvy.com,julieblanner.com,overclock.net,pantrymama.com,joyfoodsunshine.com,sundaysuppermovement.com,gimmesomeoven.com,lexiscleankitchen.com,crockpotladies.com,kitchendivas.com,garminrumors.com,crayonsandcravings.com,dinneratthezoo.com,40plusstyle.com,andrewzimmern.com,anitalianinmykitchen.com,bromabakery.com,hannahmageerd.com,justagirlandherblog.com,machinelearningmastery.com,momsdish.com,pinchofyum.com,urbanfarmandkitchen.com,loveandlemons.com,mybakingaddiction.com,recipetineats.com,zenless.gg,prydwen.gg,jeepforum.com,ifish.net,frugalvillage.com,e46fanatics.com,corral.net,wutheringwaves.gg,umamusume.gg,traveler.gg,stardb.gg,snowbreak.gg,pokemontcgzone.com,moco.gg,lostsword.gg,honkai.gg,expedition33.gg,dotgg.gg,diablo4.gg,destiny2zone.com,iphoneincanada.ca,solveyourtech.com,favfamilyrecipes.com,spicysouthernkitchen.com,yourcupofcake.com,emilybites.com,dailydishrecipes.com,tidymom.net,thekitchenmagpie.com,thebestcakerecipes.com,amybakesbread.com,butternutbakeryblog.com,ballexclusives.com,runtothefinish.com,canonrumors.com,liliputing.com,simply-delicious-food.com,pipandebby.com,greensnchocolate.com,onionringsandthings.com,aheadofthyme.com,whipperberry.com,closetcooking.com,nutmegnanny.com,chumplady.com,laurafuentes.com,medievalists.net,therecipecritic.com,thefitchen.com,foodfaithfitness.com,kirbiecravings.com,umamigirl.com,simplywhisked.com,godairyfree.org,forkknifeswoon.com,makingthymeforhealth.com,premeditatedleftovers.com,justonecookbook.com,runningtothekitchen.com,halfbakedharvest.com,wellplated.com,platingsandpairings.com,foxeslovelemons.com,crunchycreamysweet.com,backforseconds.com,cookingclassy.com,brighteyedbaker.com,hoosierhomemade.com,entertainingwithbeth.com,tidefans.com,butterbeready.com,nourishedbynic.com,juliasalbum.com,fromvalerieskitchen.com,iamhomesteader.com,kdnuggets.com,androidheadlines.com,insider-gaming.com,juliescafebakery.com,ohsheglows.com,averiecooks.com,nomnompaleo.com,healthyfitnessmeals.com,redcurrantbakery.com,the-girl-who-ate-everything.com,stylegirlfriend.com,acedarspoon.com,addapinch.com,amandascookin.com,aprettylifeinthesuburbs.com,bakedbree.com,bakedbyrachel.com,barbarabakes.com,feastingathome.com,feedmephoebe.com,framedcooks.com,healthylittlefoodies.com,hungrypaprikas.com,ibreatheimhungry.com,littlesunnykitchen.com,melskitchencafe.com,mexicanfoodjournal.com,mountainmamacooks.com,mycolombianrecipes.com,neighborfoodblog.com,seededatthetable.com,shugarysweets.com,tasteandtellblog.com,thebakermama.com,theendlessmeal.com,thefoodieaffair.com,themediterraneandish.com,thewanderlustkitchen.com,whatjewwannaeat.com,gearpatrol.com,studyfinds.org,unefemme.net,hummingbirdhigh.com##+js(set-cookie, __adblocker, false)
+||buafznvyuaoxv.site^
+||dismalmetump.qpon^
+||fidslkezbxudw.site^
+||eaetyfdjguduu.site^
+traingon.top,momon-ga.com,nyahentai.*,hentai-moon.com,animefire.io,animefire.*,pxp.farm,pxp.guru,pxp.*,upload18.org,luciferdonghua.in,25img.com,netfapx.com,pornleaks.in,twitchnosub.com,fc2ppv.me,fc2ppv.stream,fc2ppv.*,livecamrips.to,camsrip.com,brazz.org,playmogo.com,thotchicks.com,gelbooru.com,lewdzone.com,r-34.xyz,simply-hentai.com,turbo.cr,upload18.com,luluvids.top,paipancon.com,verhentai.top,muchohentai.com,mangago.me,turbovid.*,javx357.com,animebr.org,celebritydeeplink.com,japaneseholes.com,javlab.net,javmeta.com,vipserije.com,javideo.net,advertape.net,cyberdrop.*,popjav.in,vevocloud.com,x-fetish.tube,myvidplay.com,arigl.com,saint2.*,imgbox.com,mens1069.com,simpcity.*,javfan.one,jmanga.email,javfc2.xyz,nukibooks.com,jpg6.su,luluvid.com,jav.si,javtiful.com,pornslash.com,hentai2w.com,javpas.com,nsfwr34.com,luluvdoo.com,tojav.net,ekasiwap.com,xxgasm.com,javmenu.com,porntin.com,asianporn.li,javfor.tv,shinshi-manga.net,asmr18.fans,b-hentai.com,jav-fun.cc,rawkuma.net,spoilerplus.tv,daftporn.com,thefappeningblog.com,javboys.com,empressleak.biz,ddd-smart.net,rule34.*,archivebate.*,apkhosto.com,jpg5.su,nsfwyoutube.com,thefappening.pro,javhd.*,javhdz.today,fapeza.com,xmalay1.net,animeworld.*,natomanga.com,play.playkrx18.site,missavtv.com,poapan.xyz,nudogram.com,watchadsontape.com,streamtape.com,18comic.vip,18comic-gquu.vip,mitaku.net,hitomi.la,klmanga.app,mangarawjp.tv,javmix.tv,hentai2read.com,sxyprn.com,xmoviesforyou.com,fapfappy.com,jav.direct,syosetu.*,kissjav.li,lovingsiren.com,mesex.pro,xanimeporn.com##+js(abort-current-script, WebAssembly, atob)
+||kiuezpgdegbhp.online^
+||gipnwqcxskqfl.site^
+||czzbkqsxipgtm.site^
+||zfklupupe.com^
+||wnaarluogbbrw.site^
+||qztlybprmppqv.online^
+||7xm6spgwu.com^
+||qdvoltiagcxke.online^
+||slqcfosyuqqsj.site^
+||uvveosxckqell.site^
+||zyrijmtfflrww.website^
+||ohjnnldbpxfye.online^
+||kqzopzbcmjduw.space^
+||xkbqnlzzkcdbh.site^
+||xhwnzrtcooxzs.online^
+||gafiaxbgloyvs.space^
+||ahhgpywevknoz.com^
+comix.to#$#prevent-window-open /./ 2000 iframe
+||xctijlhnpycxg.space^
+||blbkfhdkak.com^
+||mblflnffjycng.online^
+||lzegjbhetdfak.site^
+||znuzsttrjyeir.site^
+||kabovvcteuyzk.online^
+||techglow.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||tlojzxvxmjiti.space^
+||flukierkenyte.cfd^
+||mwzovcuzsqpyv.site^
+||preqptqpydmbg.space^
+||ataevsupyrqxg.website^
+enikos.gr##.flex-col.h-full:has(> h4.font-bold)
+||cangueskakke.cfd^
+||dkogasrysffmn.space^
+||cpqffkjfyzspw.space^
+||jiveassbaylike.cyou^
+||wsfawrijajbiy.website^
+||glomex.cloud/v*/bid-slots?
+||vljdcswmhxhlv.website^
+||ddoxrzfxuulwg.site^
+||gaidulbkchamq.space^
+||traingon.top/static/content-access.js
+||jyekwgudnajsai.com^
+||ubebplueozjtr.website^
+||sdmewinofejxi.website^
+||towheerising.cyou^
+||ttwrxzsuzddfg.site^
+||cewtkqqymnfqq.site^
+||yawpcucuyo.cyou^
+||1t5agapb.xyz^
+||tkiacmhhaob.in^
+||etasunhuman.shop^
+||jwrtoravx.com^
+||aqtatiupixndy.space^
+||antiadblockcore.com^$third-party
+||aybocrepirfch.space^
+||gqjtmynrwlate.website^
+||stavizokhbhe.in^
+||ieifbbjstmaho.space^
+||peoplebrain.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+acronymfinder.com##.ts
+||izsgyrfkxylpc.site^
+vpsmetrics.com,videosdemadurasx.com,an1.com,getsetclean.in,sexgames.cc##a[rel^="sponsored"]
+||wuscedrktaxsh.online^
+||vbzhuivtdeaua.site^
+vibez.pl##style + div[class]:has(> img[src^="https://v.wpimg.pl/"][alt]:first-child + div:last-child)
+||qcmtxdjqftulh.site^
+telexplorer.com.ar#$#hide-if-matches-xpath './/img[contains(@src,"banners")]/parent::a/..'
+||cegnhoqdhvjou.space^
+||copypickets.qpon^
+||uccnqcplzohya.site^
+||jnzoglfsbhdhzu.com^
+||danzigsheppey.cfd^
+facebook.com##:matches-path(/marketplace/) div[data-status-bar-color] > div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"]:has(> div[data-mcomponent="MContainer"] > div[data-mcomponent="MContainer"] div[data-mcomponent="TextArea"] .native-text > span:contains(/(Sponsored|Gesponsert|Sponsorlu|Sponsorowane|Ispoonsara godhameera|Geborg|Bersponsor|Ditaja|Disponsori|Giisponsoran|Sponzorováno|Sponsoreret|Publicidad|May Sponsor|Sponsorisée|Oipytyvôva|Ɗaukar Nayin|Sponzorirano|Uterwa inkunga|Sponsorizzato|Imedhaminiwa|Hirdetés|Misy Mpiantoka|Gesponsord|Sponset|Patrocinado|Patrocinado|Sponsorizat|Sponzorované|Sponsoroitu|Sponsrat|Được tài trợ|Χορηγούμενη|Спонсорирано|Спонзорирано|Ивээн тэтгэсэн|Реклама|Спонзорисано|במימון|سپانسرڈ|دارای پشتیبانی مالی|ስፖንሰር የተደረገ|प्रायोजित|ተደረገ|प|प्रायोजित|স্পনসর্ড|ਪ੍ਰਯੋਜਿਤ|પ્રાયોજિત|ପ୍ରାୟୋଜିତ|செ��்யப்பட்ட செய்யப்பட்ட|చేయబడినది చేయబడినది|ಪ್ರಾಯೋಜಿಸಲಾಗಿದೆ|ചെയ്‌തത് ചെയ്‌തത്|ලද ලද ලද|สนับสนุน สนับสนุน รับ สนับสนุน สนับสนุน|ကြော်ငြာ ကြော်ငြာ|ឧបត្ថម្ភ ឧបត្ថម្ភ ឧបត្ថម្ភ|광고|贊助|赞助内容|広告|സ്‌പോൺസർ ചെയ്‌തത്)/))
+||unlimplay.com/vast-resolve.php
+||cndhzrfxylfkj.site^
+||xdtxgrdtfzw.com^
+||tocembkjynznc.space^
+||saemwtjmtvrug.online^
+||vsbxsvagikodf.online^
+||dneytkhgqwnoc.site^
+||aevumestmark.qpon^
+||fltobyazccqci.online^
+||kiiiqhvwgtbyz.website^
+||thickscuttles.cfd^
+||wrjawfsw.com^
+||rmv8gc43g.com^
+||panhasunfunny.qpon^
+||ohrbuvljmtckt.site^
+||questioningraisin.com^
+||grangesmila.qpon^
+||accedelid.com^
+||duycsgtzaatua.online^
+||mbuqxdxsra.com^
+||ikajnfvpijthh.website^
+||rnhonermxddxs.space^
+||rdraqfajftpqs.space^
+||bbkibzipwyqng.site^
+||hafmxlyyenean.site^
+||dbeeazyjkufsf.space^
+||kfphcdwvqtn.com^
+||consumerdebtnegotiation.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||xgbwvfzmfgcx.com^
+||clinidbluecap.cyou^
+enikos.gr##.flex-col.h-full:has(> p.font-medium)
+||xxlahqxgriyco.online^
+||jbpxftegijjxt.space^
+||herefwukou.org^
+kolekcjonerki.com##.sidebar > .small:has(+ div[id^="ceneoaffcontainer"])
+mtgdecks.net,farmersalmanac.com,thecookinchicks.com,bydeannyd.com,scam-detector.com,whattocooktoday.com,theforkedspoon.com,budgetbytes.com,fearlessdining.com,mamagourmand.com,rachaelsgoodeats.com,texanerin.com,thisvivaciouslife.com,letthemeatgfcake.com,bakerita.com,meaningfuleats.com,lazycatkitchen.com,chocolatecoveredkatie.com,thebigmansworld.com,sugarfreelondoner.com,electricteeth.com,ultrabookreview.com,glutenfreepalate.com,gadgetreview.com,fufuskitchen.com,awfulannouncing.com,biancazapatka.com,ladysavings.com,activewild.com,mexicoinmykitchen.com,naturallieplantbased.com,padresmission.com,mygluten-freekitchen.com,greatergood.com,alattefood.com,the5krunner.com,seasonedskilletblog.com,mealprepmanual.com,theeburgerdude.com,rainbowplantlife.com,myballard.com,joyusgarden.com,cakebycourtney.com,littlesweetbaker.com,lifestyleofafoodie.com,eatingonadime.com,bestfriendsforfrosting.com,cafedelites.com,thestayathomechef.com,bakerbynature.com,cookieandkate.com,modernhoney.com,prettysimplesweet.com,scientificallysweet.com,seededatthetable.com,courtneyssweets.com,biddytarot.com,sarahsvegankitchen.com,chunkbase.com,tacoma4g.com,mavericktruckclub.com,f150gen14.com,4runner6g.com,leafyplace.com,lfpress.com,almanac.com,wholesomeyum.com,wenthere8this.com,joyousapron.com,blesserhouse.com,czn.gg,starwarsunlimited.gg,playingmtg.com,nikke.gg,neverness.gg,bluearchive.gg,endfield.gg,cookierun.gg,dcworldscollide.gg,digimonzone.com,dragonball.gg,fabtcg.gg,lorcana.gg,marvelrivals.gg,marvelsnapzone.com,onepiece.gg,playingmtg.com,ptcgpocket.gg,riftbound.gg,shadowverse.gg,thebazaarzone.com,thecookingfoodie.com,freshbeanbakery.com,visualcapitalist.com,rdr2.org,kingshotcalculator.com,thebestideasforkids.com,elliott.org,damndelicious.net,dessertswithbenefits.com,cookingclassy.com,inkatrinaskitchen.com,creative-culinary.com,spatuladesserts.com,kitchennostalgia.com,cookincanuck.com,mykoreankitchen.com,vegrecipesofindia.com,spiceupthecurry.com,orchidbliss.com,feelgoodfoodie.net,deltiasgaming.com,broncosportforum.com,alldayidreamaboutfood.com,all-nationz.com,ontariofarmer.com,247wallst.com,notateslaapp.com,cybertruckownersclub.com,wnyt.com,epicgardening.com,davesgarden.com,savvygardening.com,lifeasastrawberry.com,cravingsofalunatic.com,olgasflavorfactory.com,tablefortwoblog.com,skinnytaste.com,louisianacookin.com,laurenfromscratch.com,easycheesyvegetarian.com,cleananddelicious.com,heynutritionlady.com,fooddoodles.com,southernplate.com,littlespoonfarm.com,sallysbakingaddiction.com,justataste.com,hearthookhome.com,beatthebudget.com,preventionrd.com,foodiecrush.com,allwaysdelicious.com,momontimeout.com,kitchentreaty.com,tastesbetterfromscratch.com,mynaturalfamily.com,pickyeaterblog.com,thelemonbowl.com,ambitiouskitchen.com,simplyquinoa.com,whiteonricecouple.com,cookiesandcups.com,inspiralized.com,momswithcrockpots.com,againstallgrain.com,howsweeteats.com,cookincanuck.com,hummusapien.com,healthygreenkitchen.com,thriftyfrugalmom.com,fedandfit.com,chelseasmessyapron.com,yourhomebasedmom.com,pressurecookingtoday.com,littlespicejar.com,dinnerthendessert.com,dessertnowdinnerlater.com,detoxinista.com,torontosun.com,parade.com,athlonsports.com,edmontonsun.com,canoe.com,driving.ca,vancouversun.com,spendwithpennies.com,saltandbaker.com,sporked.com,concertarchives.org,laurenslatest.com,muybuenoblog.com,handletheheat.com,paleomg.com,acouplecooks.com,101cookbooks.com,healthy-delicious.com,simple-nourished-living.com,ourbestbites.com,rachelcooks.com,giverecipe.com,healthynibblesandbits.com,sweetandsavorymeals.com,livingwellmom.com,theblondcook.com,wearychef.com,damndelicious.net,pcguide.com,micechat.com,thecafesucrefarine.com,realmenrealstyle.com,mmo-champion.com,nursefern.com,mtgsalvation.com,elliott.org,ohsweetbasil.com,mocoshow.com,thefpsreview.com,jaroflemons.com,russianmachineneverbreaks.com,appunwrapper.com,theimpulsivebuy.com,cruisehive.com,thurrott.com,twinsdaily.com,zhangcatherine.com,ministryofcurry.com,thewoksoflife.com,idownloadblog.com,thescranline.com,rachlmansfield.com,vincenzosplate.com,natashaskitchen.com,glutenfreeonashoestring.com,preppykitchen.com,starwarsunlimited.gg,theconsciousplantkitchen.com,archerytalk.com,gundamcard.gg,marvel.church,mamainastitch.com,myquietkitchen.com,anoregoncottage.com,twopeasandtheirpod.com,onceuponachef.com,currytrail.in,stephiecooks.com,iambaker.net,diethood.com,hot-thai-kitchen.com,grownandflown.com,thistlewoodfarms.com,thekoreanvegan.com,maangchi.com,whatgreatgrandmaate.com,365daysofbakingandmore.com,asweetpeachef.com,afarmgirlsdabbles.com,connoisseurusveg.com,veganricha.com,chefsavvy.com,julieblanner.com,overclock.net,pantrymama.com,joyfoodsunshine.com,sundaysuppermovement.com,gimmesomeoven.com,lexiscleankitchen.com,crockpotladies.com,kitchendivas.com,garminrumors.com,crayonsandcravings.com,dinneratthezoo.com,40plusstyle.com,andrewzimmern.com,anitalianinmykitchen.com,bromabakery.com,hannahmageerd.com,justagirlandherblog.com,machinelearningmastery.com,momsdish.com,pinchofyum.com,urbanfarmandkitchen.com,loveandlemons.com,mybakingaddiction.com,recipetineats.com,zenless.gg,prydwen.gg,jeepforum.com,ifish.net,frugalvillage.com,e46fanatics.com,corral.net,wutheringwaves.gg,umamusume.gg,traveler.gg,stardb.gg,snowbreak.gg,pokemontcgzone.com,moco.gg,lostsword.gg,honkai.gg,expedition33.gg,dotgg.gg,diablo4.gg,destiny2zone.com,iphoneincanada.ca,solveyourtech.com,favfamilyrecipes.com,spicysouthernkitchen.com,yourcupofcake.com,emilybites.com,dailydishrecipes.com,tidymom.net,thekitchenmagpie.com,thebestcakerecipes.com,amybakesbread.com,butternutbakeryblog.com,ballexclusives.com,runtothefinish.com,canonrumors.com,liliputing.com,simply-delicious-food.com,pipandebby.com,greensnchocolate.com,onionringsandthings.com,aheadofthyme.com,whipperberry.com,closetcooking.com,nutmegnanny.com,chumplady.com,laurafuentes.com,medievalists.net,therecipecritic.com,thefitchen.com,foodfaithfitness.com,kirbiecravings.com,umamigirl.com,simplywhisked.com,godairyfree.org,forkknifeswoon.com,makingthymeforhealth.com,premeditatedleftovers.com,justonecookbook.com,runningtothekitchen.com,halfbakedharvest.com,wellplated.com,platingsandpairings.com,foxeslovelemons.com,crunchycreamysweet.com,backforseconds.com,cookingclassy.com,brighteyedbaker.com,hoosierhomemade.com,entertainingwithbeth.com,tidefans.com,butterbeready.com,nourishedbynic.com,juliasalbum.com,fromvalerieskitchen.com,iamhomesteader.com,kdnuggets.com,androidheadlines.com,insider-gaming.com,juliescafebakery.com,ohsheglows.com,averiecooks.com,nomnompaleo.com,healthyfitnessmeals.com,redcurrantbakery.com,the-girl-who-ate-everything.com,stylegirlfriend.com,acedarspoon.com,addapinch.com,amandascookin.com,aprettylifeinthesuburbs.com,bakedbree.com,bakedbyrachel.com,barbarabakes.com,feastingathome.com,feedmephoebe.com,framedcooks.com,healthylittlefoodies.com,hungrypaprikas.com,ibreatheimhungry.com,littlesunnykitchen.com,melskitchencafe.com,mexicanfoodjournal.com,mountainmamacooks.com,mycolombianrecipes.com,neighborfoodblog.com,seededatthetable.com,shugarysweets.com,tasteandtellblog.com,thebakermama.com,theendlessmeal.com,thefoodieaffair.com,themediterraneandish.com,thewanderlustkitchen.com,whatjewwannaeat.com,gearpatrol.com,studyfinds.org,unefemme.net,hummingbirdhigh.com##+js(no-xhr-if, ads.adthrive.com)
+||xzudsnhaguatg.space^
+||qtdglmxlmypoj.website^
+||djqlbkfobzreu.site^
+||lvdaatgmumcnc.online^
+hsex.tv###Austin + a
+||wjxjkwqbqvtsr.space^
+||racgbuukjjoyu.site^
+giphy.com#$#prevent-element-src-loading script /ad-shield/
+||atmagamari.qpon^
+||ampscamp.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||euxtdcnpkqmcn.site^
+||kjoretngfboki.space^
+||omzmakqcynnbt.site^
+||thakdsafoqczb.space^
+||bzscjdwgyjsqt.website^
+||coifedpartite.cyou^
+||oxtdaeyiwoxye.space^
+||hwjcfesqptwfb.space^
+||wtpaaxtlhxedo.space^
+||ajplzyvuto.in^
+acronymfinder.com##tr:has(.ts)
+||colinreseeds.shop^
+word.tips#$#prevent-element-src-loading script /ad-shield/
+||whygumbik.in^
+||melismawanze.shop^
+||pifinegazon.qpon^
+||rvguihiplfscu.website^
+||aeaamobblfmgc.com^
+||chainsulae.shop^
+imagetwist.com##a[href^="https://landing.candynetwork.ai/"]
+||nyhizyjybawozi.com^
+beforeitsnews.com#$#hide-if-matches-xpath './/a[@rel="sponsored"]/parent::p/ancestor::div[@id][contains(@style,"margin")]'
+||uwhjnwdepwrpd.site^
+||afvnzlgxo.com^
+kolekcjonerki.com##.sidebar > .mb-3:has(> .small + div > .adsbygoogle)
+||poevcwlxtjwkl.website^
+||gdzrozskajiuk.space^
+||0kl9n3q2b.com^
+||6aontlsdf.com^
+||azetvyqeskrcs.space^
+www.booking.com#$#hide-if-contains-visible-text /Ad|Annonce|Annonse|Annons|Annuncio|Anunci|Anuncio|Anúncio|Anzeige|Iklan|Kostað|Mainos|Oglas|Promovată|Publicidad|Publicité|Quảng|Reklaam|Reklam|Reklama|Reklám|Reklāma|Διαφήμιση|[Рр]еклама|إعلان|광고|広告|付费推广|贊助|מודעה|विज्ञापन|���ฆษณา/ 'div+div[data-testid^="property-card"]' 'span[tabindex] span'
+||dlive.sx/rs4k-adbanner.html
+||kbcqjwfylqlry.space^
+||badwtokg.com^
+fctables.com##.boxOverContentRevive__placeholder
+||jewelryagency.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||qtaxwgebqeplj.site^
+||virtusemeril.cyou^
+@@||themeapis.jbhifi.com.au/*/checkout^$stealth=3p-auth,domain=extensions.shopifycdn.com
+||rlmshqyyumvpt.site^
+||coffeefire.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||oztsqdsfpafas.online^
+gdforum.freeforums.net###primisContainer
+||socialsend.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||kialfjmtmeaay.site^
+||randiapoire.shop^
+||bhqmtagovcyon.online^
+||aboardpoodlechat.com^
+||lsbeoapffxuaz.site^
+||xoaveubcbdpld.com^
+||mjxzdcpsfvqhl.site^
+||sqxheijmepcme.space^
+||abiosisfog.cfd^
+||assuredwhoa.com^$domain=gry-online.pl
+||fabster.com/autoplay.mp4^$domain=aupetitparieur.com|meilleurpronostic.fr

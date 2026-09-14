@@ -1,7 +1,7 @@
-! Update on 2026-09-14 05:12:52 (Beijing Time)
-! Generated on 2026-09-14 05:12:52 (Beijing Time)
+! Update on 2026-09-15 06:12:36 (Beijing Time)
+! Generated on 2026-09-15 06:12:36 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28570
+! Total domestic rules: 28572
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28573,3 +28573,5 @@ pidlio.com,opatil.com,dein-ort.de,mini.surveyenquete.net,hartico.tv,agendazdsp.b
 ||plzahxycoctjxq.com^
 ||vovvrpueuffrjw.com^
 ||unnajd.com^
+finance.yahoo.co.jp##div[class^="styles-module"] > div._MMON_noh1b_1
+||terndzbaritzpw.com^

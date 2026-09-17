@@ -1,7 +1,7 @@
-! Update on 2026-09-17 05:48:33 (Beijing Time)
-! Generated on 2026-09-17 05:48:33 (Beijing Time)
+! Update on 2026-09-18 05:50:39 (Beijing Time)
+! Generated on 2026-09-18 05:50:39 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28578
+! Total domestic rules: 28590
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28581,3 +28581,15 @@ bilibili.com#?#.left-entry__item-trigger:contains(下载客户端)
 ||pxjabbtydothnc.com^
 huangguoai.com##.hg-ssp-slot
 ||cdnboostcache.com^
+todaytvseries1.com#$#.download-preloader { display: none !important; }
+todaytvseries1.com#$#article a[href] { pointer-events: auto !important; cursor: pointer !important; }
+||95d684gnf.com^
+||yl9c8v1le.com^
+||vapvllaajrhhzc.com^
+||u6vlqrwcv.com^
+||fe7xxmtg3.com^
+todaytvseries1.com##article a[href]:style(pointer-events: auto !important; cursor: pointer !important;)
+||todaytvseries1.com/ads/
+||j17xor750.com^
+todaytvseries1.com##.download-preloader:style(display: none !important;)
+m.eprice.com.tw##div[class^="homenews__sponsor--"]

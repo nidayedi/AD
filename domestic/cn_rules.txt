@@ -1,7 +1,7 @@
-! Update on 2026-09-18 05:50:39 (Beijing Time)
-! Generated on 2026-09-18 05:50:39 (Beijing Time)
+! Update on 2026-09-19 05:22:10 (Beijing Time)
+! Generated on 2026-09-19 05:22:10 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28590
+! Total domestic rules: 28598
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28593,3 +28593,11 @@ todaytvseries1.com##article a[href]:style(pointer-events: auto !important; curso
 ||j17xor750.com^
 todaytvseries1.com##.download-preloader:style(display: none !important;)
 m.eprice.com.tw##div[class^="homenews__sponsor--"]
+||ruoky41k7a.com^
+||wh4fd7x7or.com^
+||ec00t7oue1.com^
+||2i93en16s9.com^
+||33o5sjd1ao.com^
+||tdlqxdwwpptpli.com^
+tieba.baidu.com##.download-app-link
+tieba.baidu.com##.popover__reference-wrapper

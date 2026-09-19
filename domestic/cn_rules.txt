@@ -1,7 +1,7 @@
-! Update on 2026-09-19 05:22:10 (Beijing Time)
-! Generated on 2026-09-19 05:22:10 (Beijing Time)
+! Update on 2026-09-20 05:11:45 (Beijing Time)
+! Generated on 2026-09-20 05:11:45 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28598
+! Total domestic rules: 28603
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28601,3 +28601,8 @@ m.eprice.com.tw##div[class^="homenews__sponsor--"]
 ||tdlqxdwwpptpli.com^
 tieba.baidu.com##.download-app-link
 tieba.baidu.com##.popover__reference-wrapper
+||rthijnsymshxxi.com^
+||wwyoqaf3g.com^
+||sjujmxg6d.com^
+||gef153x1u.com^
+||fk0hwmdoh.com^

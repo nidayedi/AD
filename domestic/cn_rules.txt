@@ -1,7 +1,7 @@
-! Update on 2026-09-21 05:07:56 (Beijing Time)
-! Generated on 2026-09-21 05:07:56 (Beijing Time)
+! Update on 2026-09-22 06:22:58 (Beijing Time)
+! Generated on 2026-09-22 06:22:58 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28604
+! Total domestic rules: 28617
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28607,3 +28607,16 @@ tieba.baidu.com##.popover__reference-wrapper
 ||gef153x1u.com^
 ||fk0hwmdoh.com^
 ||xwddvfoasvtxjo.com^
+sedaily.com###ad-main-4-0
+sedaily.com###ad-art-3-0
+sedaily.com###ad-art-4-0
+sedaily.com###ad-main-3-0
+||wz2jy3t94.com^
+||vzzvfpvwyyhfvo.com^
+sedaily.com##.justify-center.z-\[9999\].inset-0
+sedaily.com###ad-main-1-0
+jikayosha.jp##.photo-ad__fv
+sedaily.com###ad-main-2-0
+||zyy25t69u.com^
+sedaily.com##.md\:h-\[180px\]
+sedaily.com###ad-art-2-0

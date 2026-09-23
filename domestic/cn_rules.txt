@@ -1,7 +1,7 @@
-! Update on 2026-09-23 05:44:11 (Beijing Time)
-! Generated on 2026-09-23 05:44:11 (Beijing Time)
+! Update on 2026-09-24 05:54:26 (Beijing Time)
+! Generated on 2026-09-24 05:54:26 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28624
+! Total domestic rules: 28629
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28627,3 +28627,8 @@ ettoday.net,amp.marca.com,gamesradar.com,laptopmag.com,livescience.com,musicrada
 ||tpvqrzryebtfhu.com^
 ettoday.net,handelsblatt.com,moyens.net,ign.com,gazeteduvar.com.tr,innpoland.pl,wired.com,sports.ru,manager-magazin.de,amp.macwelt.de,amp.fitforfun.de,tomsguide.com,nordbayern.de,dallasnews.com,kansascity.com,futurezone.de,fr.de,spox.com,ran.de,stern.de,ruhr24.de,berliner-zeitung.de,news.de,abendzeitung-muenchen.de,inside-digital.de,boerse.de,emtb-news.de,caravaning.de,areadvd.de,familie.de,derwesten.de,finanzen.net,o2.pl,onet.pl,whathifi.com,amp.n-tv.de,dni.ru,independent.co.uk,komputerswiat.pl,dobreprogramy.pl,amp.pcwelt.de,tomshardware.com,techbook.de,forbes.com,auto-swiat.pl,dialog.ua,mobile.reuters.com,spiegel.de,amp.welt.de,forum.xda-developers.com,sueddeutsche.de,amp.usatoday.com,m.gadgets.ndtv.com##amp-ad
 ||12yr3wkwi5.com^
+||rsrldrnubehntu.com^
+||alibaba.com/search/api/bottomWendingSearch?
+||alibaba.com/search/api/wendingSearch?
+||va.huya.com^
+alibaba.com##div[class] > .fy26-product-card:has(> div > span:only-child)

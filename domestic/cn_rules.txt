@@ -1,7 +1,7 @@
-! Update on 2026-09-26 05:54:37 (Beijing Time)
-! Generated on 2026-09-26 05:54:37 (Beijing Time)
+! Update on 2026-09-27 05:44:03 (Beijing Time)
+! Generated on 2026-09-27 05:44:03 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28638
+! Total domestic rules: 28640
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28641,3 +28641,5 @@ japanmetal.com##.sp-kohwa-banner
 joshi-spa.jp##.banner_widget:has(> a:not([href*="joshi-spa.jp"]))
 relazo.net##.wider:has(> div[style]:only-child > .adPost)
 @@||cdn.staticfile.org^$script,domain=mvffm.net
+s.response.jp##.sp-ifad
+||tofqldmutnvdda.com^

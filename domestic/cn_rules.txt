@@ -1,7 +1,7 @@
-! Update on 2026-09-28 05:44:48 (Beijing Time)
-! Generated on 2026-09-28 05:44:48 (Beijing Time)
+! Update on 2026-09-29 07:36:29 (Beijing Time)
+! Generated on 2026-09-29 07:36:29 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28641
+! Total domestic rules: 28644
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28644,3 +28644,6 @@ relazo.net##.wider:has(> div[style]:only-child > .adPost)
 s.response.jp##.sp-ifad
 ||tofqldmutnvdda.com^
 ||zellxviqqlhdpg.com^
+||vkdytplocrhlhm.com^
+||xhhgjfpswovlvg.com^
+@@||ads-i.org/images/ads3.jpg$~3p

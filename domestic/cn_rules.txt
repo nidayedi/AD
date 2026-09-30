@@ -1,7 +1,7 @@
-! Update on 2026-09-30 06:46:41 (Beijing Time)
-! Generated on 2026-09-30 06:46:41 (Beijing Time)
+! Update on 2026-10-01 06:44:49 (Beijing Time)
+! Generated on 2026-10-01 06:44:49 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28644
+! Total domestic rules: 28646
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28647,3 +28647,5 @@ s.response.jp##.sp-ifad
 ||vkdytplocrhlhm.com^
 ||xhhgjfpswovlvg.com^
 @@||ads-i.org/images/ads3.jpg$~3p
+||baztfhhqiuvttm.com^
+sohu.com##a[data-url*=".mediav.com"]

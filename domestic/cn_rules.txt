@@ -1,7 +1,7 @@
-! Update on 2026-10-01 06:44:49 (Beijing Time)
-! Generated on 2026-10-01 06:44:49 (Beijing Time)
+! Update on 2026-10-02 06:58:11 (Beijing Time)
+! Generated on 2026-10-02 06:58:11 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28646
+! Total domestic rules: 28714
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28649,3 +28649,71 @@ s.response.jp##.sp-ifad
 @@||ads-i.org/images/ads3.jpg$~3p
 ||baztfhhqiuvttm.com^
 sohu.com##a[data-url*=".mediav.com"]
+activemaniak.pl,agdmaniak.pl,fotomaniak.pl,gizmaniak.pl,rtvmaniak.pl,tabletmaniak.pl,techmaniak.pl##.rsidebar > div[style^="margin:0 auto"][style*="px auto; text-align:center;"]
+fansonlinehub.com,hotmediahub.com,terabox.fun,teraearn.com,teralink.me,terashare.me##body:style(overflow: auto !important;)
+||apisgame.iqiyi.com^
+18porno.tv,18tube.xxx,2conv.com,2pdf.com,3dsportal.net,3pornstarmovies.com,9c717baaf805a8436afd7912039e826c.link,abxxx.com,ada.org,adultdeepfakes.com,alternativeto.net,audiosexstories.net,auslogics.com,avclub.com,baenegocios.com,beautyass.com,belsat.eu,best18porn.com,blackpoolgazette.co.uk,bradsknutson.com,caixinglobal.com,charexempire.com,clickhole.com,cookinggames.com,cool-proxy.net,cpmclic.io,curseforge.com,cutwin.com,deadspin.com,deavita.net,dextools.io,dicasreceita.com,diudemy.com,doodhwali.com,dvdcover.com,e-chords.com,e.vnexpress.net,elcaso.elnacional.cat,eurohoops.net,european-alternatives.eu,fakechatapp.com,fakemail.net,files2zip.com,financasdeouro.info,flv2mp3.by,flv2mp3.org,fotodovana.com,geekmi.news,gizmodo.com,go.gets4link.com,hellomagazine.com,hellporno.net,hidefporn.ws,hotair.com,hqasiananal.com,htmlgames.com,iasparliament.com,imgsli.com,indiansgetfucked.com,ipleak.org,israelnationalnews.com,jakiwniosek.pl,jalopnik.com,javcloud.com,jawcloud.co,jezebel.com,keygames.com,kijiji.ca,kotaku.com,lep.co.uk,levelup.com,lifehacker.com,lipsum.com,liteapks.net,mahjong.com,match3games.com,medi-bayreuth.de,miltonkeynes.co.uk,mitly.us,nakedneighbour.com,neongames.com,newsletter.co.uk,northamptonchron.co.uk,omni.se,onlineconvertfree.com,overclock3d.net,oxforddictionaries.com,photocollage.com,photoeditor.com,pixeldrain-bypass.cybar.xyz,pixeldrain.com,pornwhite.com,printscreenshot.com,promokodi.coupons,push.bdnewsx.com,qpdownload.com,qpornx.com,qz.com,rawporn.org,receitascaseiras.xyz,rocketfiles.com,scotsman.com,sex3.com,sexsq.com,sheshaft.com,shieldsgazette.com,smutindia.com,soccerway.com,sofifa.com,splinternews.com,sputniknews.com,sputniknews.gr,subscene.com,subtitlist.com,teenlolly.com,theinventory.com,themoscowtimes.com,theonion.com,theroot.com,thetakeout.com,toonytool.com,tribuna.com,tube18.sex,tudoesportes.online,uflash.tv,vidnox.com,vidoo.org,vikiporn.com,windows10portal.com,xfantazy.com,xpshort.com,xxxadultphoto.com,xxxtik.com,youramateurporn.com,youtubetrimmer.com,youx.xxx##.banner
+@@||ad.12306.cn^$subdocument,elemhide,domain=95306.cn
+||d4.sina.com.cn^$script,object
+activemaniak.pl,agdmaniak.pl,fotomaniak.pl,gizmaniak.pl,rtvmaniak.pl,tabletmaniak.pl,techmaniak.pl##.content-wrap > div[style="margin:0 auto 10px auto; text-align:center; font-size:6px;"]
+hmoe.moe,hmoe.one##a[href^="https://item.taobao.com"]
+ero-gazou.jp,eroiro.info,eropasture.com,memopanda.com##.widget_mobile_text
+badspi.jp,phileweb.com###sp_article_undertitle_wrapper
+||hxsame.hexun.com^$domain=~quote.hexun.com
+gamespark.jp,manetatsu.com,s.inside-games.jp,s.response.jp##.aside-box-ad
+jbpress.ismedia.jp,news.abplive.com,okkazeo.com##div[style="min-height:280px;"]
+100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,guozaoke.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,knews.com.tw,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,panda985.com,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,qqdsw8.cn,shiyrj.top,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yalishi.com,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+erodera.net,fig-memo-r18.site,mrank.tv,onagazou.info,xn--r8jwklh769h2mc880dk1o431a.com###overlay_area
+||baidu.com/ecom$script,image
+@@||client.app.coc.10086.cn^
+||mediav.com^$domain=~dev.360.cn|~g.360.cn,third-party
+@@||bdstatic.com^$domain=17k.com|feiguaks.com
+activemaniak.pl,agdmaniak.pl,fotomaniak.pl,gizmaniak.pl,rtvmaniak.pl,tabletmaniak.pl,techmaniak.pl##.content-wrap > div[style^="margin:10px auto; text-align:center;"]
+||p.pstatp.com/origin/$domain=pianba.net|pianba.tv
+eprice.com.tw,natgeomedia.com,setn.com##div[class^="ad-"]
+activemaniak.pl,agdmaniak.pl,fotomaniak.pl,gizmaniak.pl,rtvmaniak.pl,tabletmaniak.pl,techmaniak.pl###content > div[style="margin:0px auto 10px auto; text-align:center; font-size:6px;"]
+||alicdn.com^$image,domain=1024pa.com|27k.cc|dy686.net|hg6384.com-www.6u7u.com|m.k1k.cc|thcdy.co
+ala.baidu.com,nani.baidu.com##.tbui_aside_float_bar + .clearfix
+||tftwrvvavlpjjq.com^
+csharpprogram.com,freemagazinespdf.com,grasta.net,hscans.com,huntersscan.xyz,mitsmits.com,pokemonmatome.online,shirurin.com,wabetainfo.com##body > script[id] + div[id][class*=" "]
+ntv.cx,ntv.st,ntvs.cx##.watch-clean-promo
+||taobao.com/go/$domain=~alimama.com|~alitrip.com|~tanx.com|~tmall.com,third-party
+||d3.sina.com.cn^$script,object
+||alicdn.com^$domain=m.6080w.com|m.petdianping.com
+fox-saying.com,jeremyfoodie.tw,maxfoodfun.com,pixnet.net##.header-fixed-area
+3dyasan.com,54.238.186.141,avitter.net,blogk.com,compota-soft.work,fchopin.net,gamenv.net,kenta2222.com,lionsfan.net,motofan-r.com,neuna.net,pasokau.com,pepar.net,putlog.net,schildempire.com,shittokuadult.net,sim-kichi.monster,speculationis.com,uur-tech.net,ynk-blog.com##body > #container > footer#footer ~ div[id][class*=" "]
+4399pk.com,cardu.com.tw,cava.tw,cw.com.tw,downkr.com,eservice.7-11.com.tw,hk.on.cc,liaoningmovie.net,papalah.com,share.acgnx.se,vikacg.com##.banner
+||hktvmall.com/yuicombo|$script,~third-party
+@@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|23xstxt.net|23xswv.cc|24kxs.cc|8181zw.vip|b520.cc|b5200.net|biqivge.cc|biquge77.net|biqugecd.com|biqugewu.net|biqutime.com|boquku.com|bqduo.cc|bqq999.cc|bqwxg8.com|bxwx.live|ddbqgtxt.cc|gdbzkz.org|msxsw.com|paoshu8.com|piaotian55.com|piaotianxiaoshuo.com|quge66.com|shuyy8.com|sytxt.cc|taobiquge.com|txtwan.com|u33.me|xbiquge99.cc|xqianqian.cc|xxbiqudu.com|xygwh.cc|yebiquge.com|ygshu.com|yuyougu.com
+bilibili.com,dandanzan.top,v.qq.com##+js(nowebrtc)
+ddcar.com.tw,eprice.com.hk##.popup-adv
+55188.com###recommended-by-admin
+51.com##.couplet
+genxy-net.com,kun.uz,m.3movs.com,m.alphaporno.com,m.aydin24haber.com,m.hellporno.com,m.lenta.ru,m.price.com.hk,m.sexu.com,m.xcum.com,m.yourlust.com,medipalette.lotte.co.jp,nikkan-gendai.com,otakuma.net,rank-king.jp,topics.smt.docomo.ne.jp##body .banner
+||ubmcmm.baidustatic.com^
+55188.com##.page-aside
+lurenewsr.com,tsurisoku.com,yomiuri.co.jp##.sp_ad_banner
+||tanx.com^$domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com,third-party
+@@||cdn.staticfile.org^$domain=00ksw.com|147xiaoshuo.com|20me.net|49gtk.cc|56xiaoshuo.net|alexij.net|biqiuge5.org|biquge77.net|bxwx.live|cleavagecoverup.com|fbqg.cc|hshfm.com|lakyworld.com|lzbao.net|m-ia.net|memduh.net|tellgillian.com|xianguke.net|yourbiquge.com|yzbg.net
+55188.com###bbslist
+||show.ssports.com^
+abiko-tsushin.com,matsudo-tsushin.com###info > .category2 > a[target="_blank"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.c-container:has(.t > a[data-landurl])
+teyvatsokuho.com,yugi-nippon.com##.st-sp-top-only-widgets
+ntv.cx,ntv.st,ntvs.cx##body:style(overflow: auto !important;)
+@@||metok.sys.miui.com^
+diamond.jp,saga-s.co.jp,webcg.net##.infeed
+meeting.tencent.com##+js(no-xhr-if, /(trace|beacon)\.qq\.com/)
+ciyuancheng.net,cycani.org##.ec-tutu, .ec-tutu-double
+||sobot.com^
+pianba.net,pianba.tv##.play-btn > a[target="_blank"]
+4kya.com,cnys.tv###player_pause
+||msstatic.com/huya/*/p2plib.js$script
+||dabaoku.com^$script,object,subdocument
+activemaniak.pl,agdmaniak.pl,fotomaniak.pl,gizmaniak.pl,rtvmaniak.pl,tabletmaniak.pl,techmaniak.pl###content div[style^="margin:0 auto 10px auto; text-align:center; font-size:6px;"]
+88files.net,gadgetsnow.com,navbharattimes.indiatimes.com,russian.fansshare.com##.ad1
+josei-bigaku.jp,pcgames.de,tubedupe.com##.sponsored
+~game.qidian.com,qidian.com##A[href*="game.qidian.com"]
+sports.yahoo.co.jp,weather.yahoo.co.jp###ad-nm
+||iwan-s.video.qq.com^
+@@||libs.baidu.com^$domain=0794.org|11bqg.com|12zw.net|1biqu.com|23hh.com|23sk.net|23wxx.com|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|99mk.net|aidu123.com|aikushuge.com|aiwx.info|aixs.la|bequmo.com|bimixsw.com|biqivge.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqutsxs.com|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.info|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|iwurexs.info|ixs.la|lewenge.cc|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|xbiquke.com|xbotaodz.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|xvipxs.net|yqd6.com|yunxs.info|zjsw.org|zyywenxue.com|zzs5.info

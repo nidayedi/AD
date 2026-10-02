@@ -1,7 +1,7 @@
-! Update on 2026-10-02 06:58:11 (Beijing Time)
-! Generated on 2026-10-02 06:58:11 (Beijing Time)
+! Update on 2026-10-03 06:42:48 (Beijing Time)
+! Generated on 2026-10-03 06:42:48 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28714
+! Total domestic rules: 28717
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28717,3 +28717,6 @@ josei-bigaku.jp,pcgames.de,tubedupe.com##.sponsored
 sports.yahoo.co.jp,weather.yahoo.co.jp###ad-nm
 ||iwan-s.video.qq.com^
 @@||libs.baidu.com^$domain=0794.org|11bqg.com|12zw.net|1biqu.com|23hh.com|23sk.net|23wxx.com|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|99mk.net|aidu123.com|aikushuge.com|aiwx.info|aixs.la|bequmo.com|bimixsw.com|biqivge.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqutsxs.com|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.info|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|iwurexs.info|ixs.la|lewenge.cc|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|xbiquke.com|xbotaodz.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|xvipxs.net|yqd6.com|yunxs.info|zjsw.org|zyywenxue.com|zzs5.info
+||zipobfrcbodrvq.com^
+moneydj.com##div.MDJCom-MDJADLoader
+thetimes.com.au###gkTop0

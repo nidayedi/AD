@@ -1,7 +1,7 @@
-! Update on 2026-10-04 05:54:50 (Beijing Time)
-! Generated on 2026-10-04 05:54:50 (Beijing Time)
+! Update on 2026-10-05 06:07:20 (Beijing Time)
+! Generated on 2026-10-05 06:07:20 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28718
+! Total domestic rules: 28722
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28721,3 +28721,7 @@ sports.yahoo.co.jp,weather.yahoo.co.jp###ad-nm
 moneydj.com##div.MDJCom-MDJADLoader
 thetimes.com.au###gkTop0
 ||xlljnxnyhrprhw.com^
+||vbhbzhjaeudztw.com^
+3dmgame.com##.Gmaeinfobtn_tab > .patchshow
+3dmgame.com##a[href*=".3dmgame.hk"]
+3dmgame.com##div[style^="width:274px;height:368px"]

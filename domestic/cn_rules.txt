@@ -1,7 +1,7 @@
-! Update on 2026-10-05 06:07:20 (Beijing Time)
-! Generated on 2026-10-05 06:07:20 (Beijing Time)
+! Update on 2026-10-06 08:30:25 (Beijing Time)
+! Generated on 2026-10-06 08:30:25 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28722
+! Total domestic rules: 28729
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28725,3 +28725,10 @@ thetimes.com.au###gkTop0
 3dmgame.com##.Gmaeinfobtn_tab > .patchshow
 3dmgame.com##a[href*=".3dmgame.hk"]
 3dmgame.com##div[style^="width:274px;height:368px"]
+||qim0lvk6m.com^
+||zhzrvjmyqvdhrc.com^
+||bedwlzqwkxpzfc.com^
+||qd32n9lpq.com^
+||6aqqzbehy.com^
+||p0h1nfzc2.com^
+||8hvq8jskh.com^

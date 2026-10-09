@@ -1,7 +1,7 @@
-! Update on 2026-10-09 07:36:41 (Beijing Time)
-! Generated on 2026-10-09 07:36:41 (Beijing Time)
+! Update on 2026-10-10 06:58:48 (Beijing Time)
+! Generated on 2026-10-10 06:58:48 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28746
+! Total domestic rules: 28814
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28749,3 +28749,71 @@ motobuy.com.tw##.other
 ekitan.com##.ek-forward-display-c_bottom_2 + div.padding10:has(> div.cirqua-slot)
 ekitan.com##.ek-forward-display-c_bottom_2
 ||sinaimg.cn/large/$domain=chakd.com
+||xml-eu-v4.proxywood-box.online^
+||xml-eu-v4.bookmarkstar.pro^
+||xml-eu.zenith-peak.info^
+||xml-eu.pullexpertwalk.online^
+||bdxwfvlszerxbi.com^
+||tq-eu.lion-note.pro^
+||xml-eu.bappaads.com^
+||rtb-apac-v4.push-sense.com^
+||filter-eu.themediapoint.xyz^
+||xml-eu-v4.veiwers-ships.online^
+||xml-eu.powermesh-web.online^
+||xml-eu.nano329.pro^
+||xml-eu-v4.soar9821.pro^
+||xml-eu-v4.move6941.online^
+||xml-eu.stepzenith-core.info^
+||filter-eu.srvqk3.com^
+||rtb-apac-v4.pushub.net^
+||filter-eu.adexpressmarketing.com^
+||xml-eu.xmladsystem.com^
+||click-eu-v4.expclknb.com^
+||duapp.com^$domain=bjmama.com|gzmama.com
+||xml-eu-v4.luminacodewave.online^
+||xml-eu.fallice-desk.info^
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||xml-eu.agilitydigitalmedia.com^
+||xml-eu-v4.lion-note.pro^
+||xml-eu.pshb.me^
+||filter-eu.iplexad.com^
+||rtb-apac-v4.pshb.me^
+||xml-eu.antflip-portal.info^
+||xml-eu.lion-note.pro^
+||xml-eu-v4.nano329.pro^
+||xml-eu.tenxads.com^
+||xml-eu.srvqk3.com^
+||rtb-eu-v4.pushub.net^
+||xml-eu.moon-zoom.info^
+||xml-eu-v4.antflip-portal.info^
+||xml-eu.luminacodewave.online^
+||xml-eu-v4.eagle-a024.online^
+||tq-eu.antflip-portal.info^
+dhakajournal.com##div.section-content > div.hide-for-print
+||live-eu.midnightmanga.com^
+||xml-eu-v4.pshb.me^
+||xml-eu-v4.wave-72ca.info^
+||tq-eu.sunicemicro.pro^
+||xml-eu-v4.srvqk3.com^
+||xml-eu.sunicemicro.pro^
+||xml-eu-v4.adexpressmarketing.com^
+dhakajournal.com##a[href="https://www.southeastbank.com.bd"]
+||xml-eu.adsaay.com^
+||xml-eu-v4.moon-zoom.info^
+||rtb-eu-v4.moola.network^
+||xml-eu-v4.riseskydove.online^
+||xml-eu-v4.chain7373.online^
+hao123.com,sohu.com##.advertise
+||sinaimg.cn^$domain=04stream.tv|11luba.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|7mshipin.org|94xxmm.com|99a21.com|abminbuy.com|aotu101.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|ccxx99.com|cnmysoft.com|ems183.cn|fdzone.org|kccdk.com|kiees.cn|kisssub.org|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|vx666.com|yaoshe1.com
+||xml-eu-v4.powermesh-web.online^
+||tq-eu.pullexpertwalk.online^
+ca168.com,cs.com.cn,qinbing.cn,sonimei.cn###rightDiv
+||xml-eu-v4.nanopro-node.online^
+||rtb-eu.pshb.me^
+||xml-eu-v4.plansmart-portal.online^
+||xml-eu-v4.pullexpertwalk.online^
+||xml-eu-v4.masterstorm-shop.pro^
+||rtb-eu-v4.pshb.me^
+||filter-eu.bappaads.com^
+||xml-eu-v4.sunicemicro.pro^
+||xml-eu.proxywood-box.online^

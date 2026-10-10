@@ -1,7 +1,7 @@
-! Update on 2026-10-10 06:58:48 (Beijing Time)
-! Generated on 2026-10-10 06:58:48 (Beijing Time)
+! Update on 2026-10-11 06:07:02 (Beijing Time)
+! Generated on 2026-10-11 06:07:02 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28814
+! Total domestic rules: 28817
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28817,3 +28817,6 @@ ca168.com,cs.com.cn,qinbing.cn,sonimei.cn###rightDiv
 ||filter-eu.bappaads.com^
 ||xml-eu-v4.sunicemicro.pro^
 ||xml-eu.proxywood-box.online^
+0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,haokan5.com,hc360.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,yeeyi.com##.ads
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||zttrpnhufhdxno.com^

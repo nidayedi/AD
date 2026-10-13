@@ -1,7 +1,7 @@
-! Update on 2026-10-13 09:02:10 (Beijing Time)
-! Generated on 2026-10-13 09:02:10 (Beijing Time)
+! Update on 2026-10-14 07:09:51 (Beijing Time)
+! Generated on 2026-10-14 07:09:51 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28835
+! Total domestic rules: 28841
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28838,3 +28838,9 @@ ap-siken.com,db-siken.com,fe-siken.com,fp1-siken.com,fp2-siken.com,fp3-siken.com
 ||dmlenpksrndflu.com^
 ||xml-eu-v4.cloudpod-2260.info^
 ||xml-eu.pmrockzenithdive.info^
+||zsdrjjcqutdnja.com^
+||qy4l27p9f.com^
+||051ss3usg.com^
+||jq5ls14m0.com^
+||awp8r0f7q.com^
+||jgp0ohuv2.com^

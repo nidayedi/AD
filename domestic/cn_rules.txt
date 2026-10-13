@@ -1,7 +1,7 @@
-! Update on 2026-10-12 06:35:19 (Beijing Time)
-! Generated on 2026-10-12 06:35:19 (Beijing Time)
+! Update on 2026-10-13 09:02:10 (Beijing Time)
+! Generated on 2026-10-13 09:02:10 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28818
+! Total domestic rules: 28835
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28821,3 +28821,20 @@ ca168.com,cs.com.cn,qinbing.cn,sonimei.cn###rightDiv
 ||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
 ||zttrpnhufhdxno.com^
 ||xwpmbxdwlkrfzo.com^
+||xml-eu.plansmart-portal.online^
+||xml-eu.cloudpod-2260.info^
+||xml-eu-v4.theflowads.com^
+||bphzzzguoqrnxu.com^
+||xml-eu-v4.fox-sync.pro^
+||xml-eu.adnexusmarketing.com^
+||xml-eu-v4.rollcore.online^
+||xml-eu-v4.amazeadx.com^
+||xml-eu.blackgalaxyflame.online^
+ap-siken.com,db-siken.com,fe-siken.com,fp1-siken.com,fp2-siken.com,fp3-siken.com,itpassportsiken.com,nw-siken.com,pm-siken.com,sc-siken.com,sg-siken.com##.ads_wrap
+||mq82ovaqu.com^
+||filter-eu.adnexusmarketing.com^
+||tq-eu.cloudpod-2260.info^
+||xml-eu-v4.quantum1020.online^
+||dmlenpksrndflu.com^
+||xml-eu-v4.cloudpod-2260.info^
+||xml-eu.pmrockzenithdive.info^

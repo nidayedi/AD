@@ -1,7 +1,7 @@
-! Update on 2026-10-14 07:09:51 (Beijing Time)
-! Generated on 2026-10-14 07:09:51 (Beijing Time)
+! Update on 2026-10-15 05:59:24 (Beijing Time)
+! Generated on 2026-10-15 05:59:24 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28841
+! Total domestic rules: 28845
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28844,3 +28844,7 @@ ap-siken.com,db-siken.com,fe-siken.com,fp1-siken.com,fp2-siken.com,fp3-siken.com
 ||jq5ls14m0.com^
 ||awp8r0f7q.com^
 ||jgp0ohuv2.com^
+||alicdn.com^$domain=1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|wenkuxiazai.com|xiaomingming.org
+||api.macour.jp/api/v*/boatrace/
+seomaking.com##.sideXd
+||api.macour.jp/api/v*/macour/banners

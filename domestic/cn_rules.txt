@@ -1,7 +1,7 @@
-! Update on 2026-10-15 05:59:24 (Beijing Time)
-! Generated on 2026-10-15 05:59:24 (Beijing Time)
+! Update on 2026-10-16 05:52:29 (Beijing Time)
+! Generated on 2026-10-16 05:52:29 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28845
+! Total domestic rules: 28916
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28848,3 +28848,74 @@ ap-siken.com,db-siken.com,fe-siken.com,fp1-siken.com,fp2-siken.com,fp3-siken.com
 ||api.macour.jp/api/v*/boatrace/
 seomaking.com##.sideXd
 ||api.macour.jp/api/v*/macour/banners
+baidu.com##.c-gap-bottom-small:has(> a>div > div[class^="jr-stock-open-account-"])
+||fizmvbysarrvva.com^
+huya.com#?#.item-pic:has(> .img-tips)
+||alicdn.com^$domain=1avlang.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|aotu101.com|ccxx99.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|spqi.xyz|supfree.net|thztv.cc|wenkuxiazai.com|xiaomingming.org
+weibo.com##.vue-recycle-scroller__item-view:has(div[class*="head-info_"] > div:contains(热推))
+cngold.org#?#.w310:has(> .swiper-company)
+douyin.com##.xgplayer > div[class]:has(svg[height="16"][width="30"])
+weibo.com##.vue-recycle-scroller__item-view:has(div[class*="head-info_"] > img[src^="data"])
+weibo.com#?#.card-content > ul > li:-abp-has(> a[action-type="realtimehot_ad"])
+appinn.com##.featured-section > .test:has(> .post-img > a[href^="http"]:not([href*="appinn."]))
+libaclub.com##.ui-list-item:has(> .ui-list-item-title > a[onclick^="SendAd"])
+baidu.com#?#.container:-abp-has(> .bottom-section > .item_voice_room[data-yysid])
+baidu.com#?#.c-gap-bottom-small:-abp-has(> a>div > div[class^="jr-stock-open-account-"])
+weibo.com##.card-content > ul > li:has(> a[action-type="realtimehot_ad"])
+libaclub.com#?#.ui-list-item:-abp-has(> .ui-list-item-title > a[onclick^="SendAd"])
+bilibili.com#?#.video-page-special-card-small:has(> .card-box > .info > a[href^="http"]:not([href*=".bilibili.com/"]))
+douyin.com#?#.xgplayer > div[class]:-abp-has(svg[height="16"][width="30"])
+huya.com##.item-pic:has(> .img-tips)
+baidu.com#?#.c-gap-bottom-small:has(> a>div > div[class^="jr-stock-open-account-"])
+mydrivers.com##li:has(> .titl + :contains(/好\s*物/))
+mydrivers.com#?#li:-abp-has(> .titl + :-abp-contains(/好\s*物/))
+douyin.com#?#.discover-video-card-item:-abp-has(> div > div > span:-abp-contains(广告))
+weibo.com#?#.card-wrap:-abp-has(> .card-top > .s-fr:-abp-contains(广告))
+cnyes.com##.content-main > div:has(> div[id^="div-gpt-ad"])
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"] > div:-abp-contains(热推))
+cnyes.com#?#.content-main > div:has(> div[id^="div-gpt-ad"])
+bilibili.com##.video-page-special-card-small:has(> .card-box > .info > a[href^="http"]:not([href*=".bilibili.com/"]))
+mydrivers.com#?#li:has(> .titl + :contains(/好\s*物/))
+baidu.com#?#.container:has(> .bottom-section > .item_voice_room[data-yysid])
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"] > img[src^="data"])
+douyin.com##.discover-video-card-item:has(> div > div > span:contains(广告))
+cnyes.com#?#article > div:has(> div[id^="div-gpt-ad"])
+douyin.com#?#.xgplayer > div[class]:has(svg[height="16"][width="30"])
+cngold.org##.w310:has(> .swiper-company)
+boylov.xyz,boylove.cc,boyloves.fun##:has(> .adsbyexoclick)
+weibo.com#?#.vue-recycle-scroller__item-view:has(div[class*="head-info_"] > div:contains(热推))
+bilibili.com##.video-card-common:has(> .card-pic > a[href*="cm.bilibili.com"][data-target-url])
+huya.com#?#.item-pic:-abp-has(> .img-tips)
+douyin.com#?#.discover-video-card-item:has(> div > div > span:contains(广告))
+jjmmw.com,qq.com,udn.com##.fixed-ad
+100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,guozaoke.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,knews.com.tw,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,panda985.com,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,qqdsw8.cn,shiyrj.top,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yalishi.com,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+weibo.com#?#.card-wrap:has(> .card > i[style*="%E5%B9%"])
+weibo.com#?#.card-wrap:-abp-has(> .card > i[style*="%E5%B9%"])
+cnyes.com##article > div:has(> div[id^="div-gpt-ad"])
+weibo.com#?#.card-content > ul > li:has(> a[action-type="realtimehot_ad"])
+bilibili.com#?#.video-card-common:-abp-has(> .card-pic > a[href*="cm.bilibili.com"][data-target-url])
+weibo.com##.card-wrap:has(> .card > i[style*="%E5%B9%"])
+ce.cn,chenjiayu.cn,chinabidding.com.cn,eastmoney.com,ieforex.com,laod.cn,likefont.com,qqdsw8.cn,shangyexinzhi.com,zp365.com##.advert
+baidu.com#?#.container_frs:-abp-has(> .voice_room_card_frs[data-url*="yylive"])
+iqiyi.com#?#div[class^="list_list_"] > div:has(div[class^="videolist_closeAd"])
+baidu.com##.container_frs:has(> .voice_room_card_frs[data-url*="yylive"])
+cnyes.com#?#article > div:-abp-has(> div[id^="div-gpt-ad"])
+manhuadb.com#?#.comicbook-index:has(> a[href^="http"])
+iqiyi.com##div[class^="list_list_"] > div:has(div[class^="videolist_closeAd"])
+bilibili.com#?#.video-card-common:has(> .card-pic > a[href*="cm.bilibili.com"][data-target-url])
+manhuadb.com#?#.comicbook-index:-abp-has(> a[href^="http"])
+weibo.com#?#.vue-recycle-scroller__item-view:has(div[class*="head-info_"] > img[src^="data"])
+cgown.com##img[width="980"]
+cngold.org#?#.w310:-abp-has(> .swiper-company)
+baidu.com##.container:has(> .bottom-section > .item_voice_room[data-yysid])
+iqiyi.com#?#div[class^="list_list_"] > div:-abp-has(div[class^="videolist_closeAd"])
+weibo.com##.card-wrap:has(> .card-top > .s-fr:contains(广告))
+libaclub.com#?#.ui-list-item:has(> .ui-list-item-title > a[onclick^="SendAd"])
+appinn.com#?#.featured-section > .test:has(> .post-img > a[href^="http"]:not([href*="appinn."]))
+manhuadb.com##.comicbook-index:has(> a[href^="http"])
+appinn.com#?#.featured-section > .test:-abp-has(> .post-img > a[href^="http"]:not([href*="appinn."]))
+cnyes.com#?#.content-main > div:-abp-has(> div[id^="div-gpt-ad"])
+weibo.com#?#.card-wrap:has(> .card-top > .s-fr:contains(广告))
+bilibili.com#?#.video-page-special-card-small:-abp-has(> .card-box > .info > a[href^="http"]:not([href*=".bilibili.com/"]))
+baidu.com#?#.container_frs:has(> .voice_room_card_frs[data-url*="yylive"])
+sasadown.cn,ydwgame.net###float_mask

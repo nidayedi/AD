@@ -1,7 +1,7 @@
-! Update on 2026-10-16 05:52:29 (Beijing Time)
-! Generated on 2026-10-16 05:52:29 (Beijing Time)
+! Update on 2026-10-17 05:50:42 (Beijing Time)
+! Generated on 2026-10-17 05:50:42 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28916
+! Total domestic rules: 28926
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28919,3 +28919,13 @@ weibo.com#?#.card-wrap:has(> .card-top > .s-fr:contains(广告))
 bilibili.com#?#.video-page-special-card-small:-abp-has(> .card-box > .info > a[href^="http"]:not([href*=".bilibili.com/"]))
 baidu.com#?#.container_frs:has(> .voice_room_card_frs[data-url*="yylive"])
 sasadown.cn,ydwgame.net###float_mask
+@@||cdn.dotstream.buzz^$stealth=referrer,domain=megaplay.*|megaplay.buzz
+||89y84ta6xg.com^
+||do7gsv4xsf.com^
+||94gjh3cedn.com^
+cjw123.com##.copy
+||alicdn.com^$domain=1avlang.com|51dll.com|52kpop.com|63ef.com|69t41.com|7mav2.com|aotu101.com|dytt.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|magnet2048.com|qingmanyong.com|supfree.net|thztv.cc|wenkuxiazai.com|xiaomingming.org
+||sinaimg.cn^$domain=04stream.tv|11luba.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|abminbuy.com|aotu101.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|cnmysoft.com|ems183.cn|fdzone.org|kiees.cn|kisssub.org|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|vx666.com
+china.com.cn##.ab
+100ec.cn,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,guozaoke.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,knews.com.tw,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,panda985.com,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,qqdsw8.cn,shiyrj.top,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yalishi.com,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+||dlfhhlfoguddba.com^

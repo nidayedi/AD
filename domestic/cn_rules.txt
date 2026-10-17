@@ -1,7 +1,7 @@
-! Update on 2026-10-17 05:50:42 (Beijing Time)
-! Generated on 2026-10-17 05:50:42 (Beijing Time)
+! Update on 2026-10-18 05:09:44 (Beijing Time)
+! Generated on 2026-10-18 05:09:44 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28926
+! Total domestic rules: 28930
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28929,3 +28929,7 @@ cjw123.com##.copy
 china.com.cn##.ab
 100ec.cn,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,guozaoke.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,knews.com.tw,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,panda985.com,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,qqdsw8.cn,shiyrj.top,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yalishi.com,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 ||dlfhhlfoguddba.com^
+||2haxnvf7i.com^
+||bobztdbqdxrdng.com^
+||eqcwxenk7.com^
+||1nvnkyg65.com^

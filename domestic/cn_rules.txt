@@ -1,7 +1,7 @@
-! Update on 2026-10-18 05:09:44 (Beijing Time)
-! Generated on 2026-10-18 05:09:44 (Beijing Time)
+! Update on 2026-10-19 05:11:43 (Beijing Time)
+! Generated on 2026-10-19 05:11:43 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28930
+! Total domestic rules: 28935
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28933,3 +28933,8 @@ china.com.cn##.ab
 ||bobztdbqdxrdng.com^
 ||eqcwxenk7.com^
 ||1nvnkyg65.com^
+||zexudnxmjadlzg.com^
+||fsfptzxqdvvnze.com^
+||86k3uw8q98.com^
+||jk8ineoqdj.com^
+||4lqs5j3ckn.com^

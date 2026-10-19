@@ -1,7 +1,7 @@
-! Update on 2026-10-19 05:11:43 (Beijing Time)
-! Generated on 2026-10-19 05:11:43 (Beijing Time)
+! Update on 2026-10-20 06:41:48 (Beijing Time)
+! Generated on 2026-10-20 06:41:48 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28935
+! Total domestic rules: 28959
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28938,3 +28938,27 @@ china.com.cn##.ab
 ||86k3uw8q98.com^
 ||jk8ineoqdj.com^
 ||4lqs5j3ckn.com^
+||rtb-apac-v4.liftmyads.com^
+||mleqb8227.com^
+||5j01ouj0l.com^
+pixiv.net##li.overflow-hidden:has(> .pt-0 > [style$="width: 300px; height: 250px;"])
+||filter-eu.agilitydigitalmedia.com^
+||xml-eu.adgr1.com^
+||xml-eu-v4.adgr1.com^
+||xml-eu-v4.anytheengmedia.com^
+||xml-eu.dorsedformed-d.online^
+pixiv.net##.gtm-toppage-thumbnail-manga-recommend-works-zone li:has(> [style$="width: 184px; height: 232px;"])
+||filter-eu.adgr1.com^
+||rtb-apac.servvidisplay.com^
+||tq-eu.proxywood-box.online^
+||xml-eu.bidargo.com^
+||fhtmpftopdrllm.com^
+||1ovzgs15u.com^
+||xml-eu-v4.galaxyideafirst.online^
+pixiv.net##.grid-flow-dense > div:has(> [style$="width: 184px; height: 232px;"] > iframe)
+pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > ul > li:has(> div > [style$="width: 300px; height: 250px;"])
+pixiv.net##[style^="display: block"][style$="width: 100%; height: 520px;"]
+||xml-eu.anytheengmedia.com^
+||rtb-eu.liftmyads.com^
+||thealloha.club^
+||xml-eu-v4.stepzenith-core.info^

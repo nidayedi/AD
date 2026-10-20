@@ -1,7 +1,7 @@
-! Update on 2026-10-20 06:41:48 (Beijing Time)
-! Generated on 2026-10-20 06:41:48 (Beijing Time)
+! Update on 2026-10-21 06:00:01 (Beijing Time)
+! Generated on 2026-10-21 06:00:01 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28959
+! Total domestic rules: 28967
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28962,3 +28962,11 @@ pixiv.net##[style^="display: block"][style$="width: 100%; height: 520px;"]
 ||rtb-eu.liftmyads.com^
 ||thealloha.club^
 ||xml-eu-v4.stepzenith-core.info^
+||rtb-eu.moola.network^
+||iari2sq1ve.com^
+||dkphbpakvgftxm.com^
+skymetweather.com###articleinnercontainer:style(min-height: 1200px!important;)
+||v3ekghfm2l.com^
+||filter-eu.theflowads.com^
+||bp44bqnvdb.com^
+deloplen.com$$script:contains(/^(?=.{0,0}$).*/s)

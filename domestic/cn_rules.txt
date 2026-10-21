@@ -1,7 +1,7 @@
-! Update on 2026-10-21 06:00:01 (Beijing Time)
-! Generated on 2026-10-21 06:00:01 (Beijing Time)
+! Update on 2026-10-22 06:02:38 (Beijing Time)
+! Generated on 2026-10-22 06:02:38 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28967
+! Total domestic rules: 28968
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28970,3 +28970,4 @@ skymetweather.com###articleinnercontainer:style(min-height: 1200px!important;)
 ||filter-eu.theflowads.com^
 ||bp44bqnvdb.com^
 deloplen.com$$script:contains(/^(?=.{0,0}$).*/s)
+||balcnzwmsjrbjs.com^

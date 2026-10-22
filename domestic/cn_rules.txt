@@ -1,7 +1,7 @@
-! Update on 2026-10-22 06:02:38 (Beijing Time)
-! Generated on 2026-10-22 06:02:38 (Beijing Time)
+! Update on 2026-10-23 06:00:17 (Beijing Time)
+! Generated on 2026-10-23 06:00:17 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28968
+! Total domestic rules: 28980
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28971,3 +28971,15 @@ skymetweather.com###articleinnercontainer:style(min-height: 1200px!important;)
 ||bp44bqnvdb.com^
 deloplen.com$$script:contains(/^(?=.{0,0}$).*/s)
 ||balcnzwmsjrbjs.com^
+meguminovel.com,techrifle.com,sawbank.com,true-tech.net,dailyboulder.com,aclsports.com,route-one.net,prajwaldesai.com,stvincenttimes.com##+js(no-setTimeout-if, placebo)
+@@||adv.lack-girl.com/_assets/$script,image,stylesheet,~third-party
+otakuma.net###otkm-anchor
+danet.vn##+js(google-ima)
+||danet.vn/_next/static/chunks/*.js$script,replace=/return!!t\.length/return false/
+danet.vn#%#//scriptlet('prevent-fetch', '.js?_=')
+danet.vn#%#//scriptlet('google-ima3')
+danet.vn##+js(prevent-fetch, .js?_=)
+||hdhuxrsiymfbvs.com^
+.libaishuo.com^$third-party
+danet.vn#%#//scriptlet('trusted-replace-argument', 'String.prototype.includes', '0', '""', 'imasdk.googleapis.com/js/sdkloader/ima3')
+buffsports.stream###pr

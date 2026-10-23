@@ -1,7 +1,7 @@
-! Update on 2026-10-23 06:00:17 (Beijing Time)
-! Generated on 2026-10-23 06:00:17 (Beijing Time)
+! Update on 2026-10-24 05:46:56 (Beijing Time)
+! Generated on 2026-10-24 05:46:56 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28980
+! Total domestic rules: 28983
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28983,3 +28983,6 @@ danet.vn##+js(prevent-fetch, .js?_=)
 .libaishuo.com^$third-party
 danet.vn#%#//scriptlet('trusted-replace-argument', 'String.prototype.includes', '0', '""', 'imasdk.googleapis.com/js/sdkloader/ima3')
 buffsports.stream###pr
+@@||netease.com/online/lib/sentry/*/bundle.tracing.
+18porno.tv,pornlist.tv,sexlist.tv,xxxporn.me##.camitems
+||ftdpjbzkeprjhs.com^

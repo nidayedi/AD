@@ -1,7 +1,7 @@
-! Update on 2026-10-24 05:46:56 (Beijing Time)
-! Generated on 2026-10-24 05:46:56 (Beijing Time)
+! Update on 2026-10-25 05:20:19 (Beijing Time)
+! Generated on 2026-10-25 05:20:19 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28983
+! Total domestic rules: 28984
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28986,3 +28986,4 @@ buffsports.stream###pr
 @@||netease.com/online/lib/sentry/*/bundle.tracing.
 18porno.tv,pornlist.tv,sexlist.tv,xxxporn.me##.camitems
 ||ftdpjbzkeprjhs.com^
+||dwzhvtvgknfjty.com^

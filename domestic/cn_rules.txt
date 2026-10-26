@@ -1,7 +1,7 @@
-! Update on 2026-10-26 05:19:22 (Beijing Time)
-! Generated on 2026-10-26 05:19:22 (Beijing Time)
+! Update on 2026-10-27 06:56:46 (Beijing Time)
+! Generated on 2026-10-27 06:56:46 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 28985
+! Total domestic rules: 29003
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -28988,3 +28988,21 @@ buffsports.stream###pr
 ||ftdpjbzkeprjhs.com^
 ||dwzhvtvgknfjty.com^
 ||jzvchdrihqrrfy.com^
+||xml-eu.a1.0network.com^
+jpopsingles.eu,jrelibrary.com,nairametrics.com,tempmaili.com##div[align="center"] > a[target="_blank"] > img
+jpopsingles.eu##+js(addEventListener-defuser, /DOMContentLoaded|load/, /adsBlocked|adsbygoogle|AdBlock/)
+jpopsingles.eu,jrelibrary.com,tempmaili.com,nairametrics.com##div[align="center"] > a[target="_blank"] > img
+||xml-eu-v4.riverlight-app.info^
+||xml-eu-v4.adxmetric.com^
+||tq-eu.ironcast-core.pro^
+||xml-eu.flow-mark.online^
+||hpbxrvnentfrre.com^
+||xml-eu.riverlight-app.info^
+||xml-eu.masterstorm-shop.pro^
+jpopsingles.eu##+js(abort-current-script, atob, js_func_decode_base_64)
+jpopsingles.eu#%#//scriptlet('abort-current-inline-script', 'atob', 'js_func_decode_base_64')
+||xml-eu.liftmyads.com^
+||rtb-apac.adgebra.co^
+||xml-eu.zoomgrid-deck.pro^
+jpopsingles.eu#%#//scriptlet('prevent-addEventListener', '/DOMContentLoaded|load/', '/adsBlocked|adsbygoogle|AdBlock/')
+||rtb-eu.infinityexplorers.com^

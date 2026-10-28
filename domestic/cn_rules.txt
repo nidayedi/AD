@@ -1,7 +1,7 @@
-! Update on 2026-10-28 06:46:26 (Beijing Time)
-! Generated on 2026-10-28 06:46:26 (Beijing Time)
+! Update on 2026-10-29 06:55:35 (Beijing Time)
+! Generated on 2026-10-29 06:55:35 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29007
+! Total domestic rules: 29009
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29010,3 +29010,5 @@ jpopsingles.eu#%#//scriptlet('prevent-addEventListener', '/DOMContentLoaded|load
 ||lgfktruknrjbxc.com^
 pcsoft.com.cn##.m-gg4
 pcsoft.com.cn###qrcode-mask-popup
+||dvtkppqczzfhpk.com^
+mfuns.net##.m-adwork

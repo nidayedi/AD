@@ -1,7 +1,7 @@
-! Update on 2026-10-29 06:55:35 (Beijing Time)
-! Generated on 2026-10-29 06:55:35 (Beijing Time)
+! Update on 2026-10-30 07:02:57 (Beijing Time)
+! Generated on 2026-10-30 07:02:57 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29009
+! Total domestic rules: 29013
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29012,3 +29012,7 @@ pcsoft.com.cn##.m-gg4
 pcsoft.com.cn###qrcode-mask-popup
 ||dvtkppqczzfhpk.com^
 mfuns.net##.m-adwork
+||jlpfbhmefcthbk.com^
+@@||truefriend.com^$stealth=dpi
+danet.vn#%#//scriptlet('prevent-setTimeout', 'offsetHeight')
+danet.vn##+js(no-setTimeout-if, offsetHeight)

@@ -1,7 +1,7 @@
-! Update on 2026-10-31 06:44:30 (Beijing Time)
-! Generated on 2026-10-31 06:44:30 (Beijing Time)
+! Update on 2026-11-01 06:04:01 (Beijing Time)
+! Generated on 2026-11-01 06:04:01 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29016
+! Total domestic rules: 29018
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29019,3 +29019,5 @@ danet.vn##+js(no-setTimeout-if, offsetHeight)
 ||coinad.in^
 ||1pop.online^
 ||holxlriacffphq.com^
+search.yahoo.co.jp##.infeedAds
+||frhsxjpciitptq.com^

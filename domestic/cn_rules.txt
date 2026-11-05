@@ -1,7 +1,7 @@
-! Update on 2026-11-05 08:02:31 (Beijing Time)
-! Generated on 2026-11-05 08:02:31 (Beijing Time)
+! Update on 2026-11-06 07:54:03 (Beijing Time)
+! Generated on 2026-11-06 07:54:03 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29045
+! Total domestic rules: 29054
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29048,3 +29048,12 @@ search.yahoo.co.jp##.infeedAds
 ||xml-eu.swiftshift-pad.info^
 ||xml-eu-v4.valley7772.info^
 ||jptifzvqhanvha.com^
+||xml-eu-v4.adconflux.com^
+||xml-eu.starpine-box.online^
+||xml-eu.riseskydove.online^
+||xml-eu.xmlwolf.com^
+||rtb-apac.axiombid.com^
+||fivvdbnotgndfg.com^
+||hfparjrmndbvta.com^
+||xml-eu.chain7373.online^
+||filter-eu.purestreamads.com^

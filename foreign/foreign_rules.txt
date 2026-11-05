@@ -1,7 +1,7 @@
-! Update on 2026-11-04 07:48:32 (Beijing Time)
-! Generated on 2026-11-04 07:48:32 (Beijing Time)
+! Update on 2026-11-05 08:02:31 (Beijing Time)
+! Generated on 2026-11-05 08:02:31 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 252289
+! Total foreign rules: 252448
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -252292,3 +252292,162 @@ league-funny.com###feedDetail > div:not([class], [id], [data-html-content]):has(
 lifestyle.yahoo.com,news.yahoo.com##.min-h-\[50px\].md\:min-h-\[250px\]
 ||freealremark.org^
 ||bistrebraes.cyou^
+||vbsrpojnzuktp.online^
+||pocxnvchjggmx.online^
+||hmmjtuwoseygq.space^
+||ytdayhyefpxcp.website^
+||umljflgaddcdk.space^
+||vhrjzafblesxw.com^
+||mooseviolet.com^
+||ijoxegkxbrrqr.site^
+||drltdimxbfbzd.online^
+||uwuxkibwqmaze.website^
+||eeiyyjlherscv.site^
+||okxfhypljrweg.website^
+||crxuhtzqheyao.space^
+crex.com##.vdo-ai-ad
+||kpjhskjidjiwy.space^
+||loxyornfjjmpc.online^
+||bveaafwiwktxb.space^
+||mnpjetwykatmh.website^
+||evpbmtwhtjjmx.website^
+makemytrip.com##li:has(> [class="cardInteractive"] img[src*="sponsoredtag"])
+||vkvguedutesbt.website^
+||eutifqebn.com^
+||jpkddgdrthaor.space^
+||boldflax.com^
+||anileheman.cyou^
+||playnygxninfa.online^
+||uyhifvdohrxoy.site^
+||gmmrnnunwgabr.site^
+||lrnxjrqvhczjx.space^
+||jilypbbncsyti.website^
+||fegarythack.cfd^
+||fbnerumrpwobt.space^
+||uutgblvypeoss.site^
+||vazijiavfyebf.site^
+||ulayieklcdyas.site^
+wesh.com,wpbf.com,4029tv.com,gulfcoastnewsnow.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mor-tv.com,mynbc5.com,wapt.com,wlky.com,wmur.com##.article-sidelist-wrapper > div[class^="css-"]:has(> div[class^="css-"] > div[data-type] > div.ad-container)
+wesh.com,wpbf.com,4029tv.com,gulfcoastnewsnow.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mor-tv.com,mynbc5.com,wapt.com,wlky.com,wmur.com##.article-sidelist-wrapper > div.ad-track
+||doajepnvrgyke.website^
+||nwgageutmzcwx.website^
+||tllsubjijyxqq.site^
+||axuzesiruriiv.site^
+||aromadenotes.cyou^
+||pvhnpsxvmczcz.site^
+||487wlz7nbc.com^
+||irrzipvfvudcn.space^
+wesh.com,wpbf.com,4029tv.com,gulfcoastnewsnow.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mor-tv.com,mynbc5.com,wapt.com,wlky.com,wmur.com##article:has(> div[class^="css-"] > div[data-type] > div.ad-container)
+||steadyhelmet.com^
+xmoviesforyou.com,pureleaks.net,theautopian.com,miraikyun.com,greekreporter.com,nintendoeverything.com,data-flair.training##div[class^="code-block code-block-"][style^="margin: 8px auto; text-align: center;"]
+||wztcxplxtlwei.site^
+||nwafilfwaas.in^
+||doibyspdqlbmd.online^
+||bwuonpqazac.in^
+||axjzikchjstld.space^
+||rrpbdjwpvqovf.online^
+||casabastoss.cyou^
+||euxnoxhweugaa.online^
+||rrd14g5o8n.com^
+||ttlhsaltbaijk.space^
+||qiikrofqerfbu.site^
+||sonchusbulimic.cyou^
+||jwegptdhydbhd.space^
+||ybprwctfxlfyu.online^
+deepseek-harness.io###ads-native-index
+||rusppiah.in^
+||xgwhfyaavzpyp.space^
+||ddwpivndikwqd.online^
+||whorltheines.cfd^
+||woqujgbfskthn.site^
+||kntuknifvkfmw.space^
+||gauduwnunxbow.space^
+||rbqlocmewza.com^
+||zzgmtalhhma.com^
+||mopxnksuwhbpl.online^
+dispatch.com##aside[aria-label="advertisement"]
+||ddnmgkbujtswr.website^
+||atroblxac.in^
+||rsmuelfxhyrbh.website^
+||pokiergomasta.cfd^
+||vfmlgaxxc4.com^
+||hkrpmhawnwxab.online^
+||wmpjftsjjmsps.space^
+||weaeaxth.com^
+||kayak.com/*/afterclick/
+||xjxcnktcqyfoq.website^
+||mxirylhzpkbtw.space^
+||5p478n58i9.com^
+||wxlpjvfirutpe.website^
+||kjgfkogotgdfg.site^
+||9nvj3swk9l.com^
+||ecdmizqngxzzq.site^
+||phngnclbpkibk.website^
+||html-load.com^$script,important,domain=gazeta.pl|edziecko.pl|sport.pl|moto.pl|plotek.pl|tibiopedia.pl|makeitmeme.com|minecraftskins.com|satkurier.pl|freemcserver.net|tvtechnology.com|theweek.com|laptopmag.com|aternos.org
+100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,nxbrew.net,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,religionnews.com,reneweconomy.com.au,reptilesmagazine.com,retrohandhelds.gg,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
+||bqwffrjiyel.com^
+||wmaxjlotjdafx.site^
+||rqqimwqpigpqa.site^
+||mqqhfyfavftyk.com^
+||kbnvgrvmerpzy.website^
+||q70t79hxor.com^
+||xsvtzgislrwlj.site^
+||1wxj1q0wo5.com^
+||woodsunset.com^
+||excellentrobin.com^
+wesh.com,wpbf.com,4029tv.com,gulfcoastnewsnow.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mor-tv.com,mynbc5.com,wapt.com,wlky.com,wmur.com##div[class^="css-"]:has(> div[data-type] > div.ad-container)
+||prlqvaxljviwu.site^
+||dhbryxycyhw.com^
+||rpwjcqgdzv.com^
+||vzncjeftbnbxt.online^
+||dtepaxbmu.in^
+doumori.com,mario2-3ds.net,mario3d-wiiu.net#@##footer-ad
+||joyouschalk.com^
+||ksdmppfubcdih.website^
+||murdercutify.cfd^
+||wxtuiqwvpfoap.website^
+||trxbgenoxeu.com^
+tribuna.com##div[class^="Banner-module_"]
+||nvbkpigfbaljg.space^
+||pizzmikimc.in^
+||nqidrahwexcqd.site^
+||hryaavcnugcpp.site^
+||fiarwvwtdltmu.site^
+||ugcsgjbpzrqvn.website^
+||1ny5gaksj8.com^
+||zotifypvvjhyf.space^
+@@||poweredby.jads.co/js/jads.js$domain=igay69.com
+@@||poweredby.jads.co/js/jads2.js$domain=igay69.com
+@@||poweredby.jads.co/adshow.php$domain=igay69.com
+||poweredby.jads.co/adshow.php$domain=igay69.com,redirect=nooptext,important
+||minuutoruxpdr.com^
+||zpwfrhdzjozby.space^
+||fbfayqppergcx.site^
+||sqsuchgcidrrn.space^
+||xukvpqiosbkjf.space^
+||clickadu.io^
+||zyvhofzjqlvwb.space^
+||ddzqjccz.com^
+||kfnizrwzivcsu.site^
+||ydyuboloevfpv.space^
+||larinporkery.qpon^
+usps.com###Mailpieces.item:has(.rideAlongLinkImage)
+||rivo.vin/rivo-stealer/
+||fervvqxoshqfa.space^
+||cr9y8xbt.xyz^
+||wrsy5mdrj1.com^
+||owmvwuaeledta.space^
+||zesxzldriqbe.com^
+||sqqassary.cyou^
+instagram.com#%#//scriptlet('json-prune', 'data.xdt_injected_reels_units')
+||dpizyarnfpcxw.site^
+||kfcevsqyahjej.space^
+||lendedirpe.cfd^
+crex.com##.campaign-ad-wrap
+||honboauxzpzs.com^
+||dsyauycdyffqn.website^
+||ovjtceagpk.in^
+||zapfzecciajw.in^
+||477d95h3tj.com^
+||bshhyxoy62.com^
+||1p5j4qb3zc.com^

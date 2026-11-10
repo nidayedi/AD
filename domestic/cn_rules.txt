@@ -1,7 +1,7 @@
-! Update on 2026-11-09 06:36:18 (Beijing Time)
-! Generated on 2026-11-09 06:36:18 (Beijing Time)
+! Update on 2026-11-10 09:48:22 (Beijing Time)
+! Generated on 2026-11-10 09:48:22 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29060
+! Total domestic rules: 29065
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29063,3 +29063,8 @@ search.yahoo.co.jp##.infeedAds
 ||sinaimg.cn^$domain=04stream.tv|11luba.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|abminbuy.com|aotu101.com|caibaojian.com|cnmysoft.com|ems183.cn|fdzone.org|kiees.cn|kisssub.org|pianyuan.org|rarbt.cc|sbme.me|supfree.net|thztv.cc|tiantianzhibo.com
 ||w0c42chjph.com^
 ||jbnizvqmwmnldg.com^
+brm.co.nz,operawire.com,penangpropertytalk.com##div[id^="advads-"]
+@@||bluearchivestore.com^$stealth=dpi
+||mbfo10wjf.com^
+||hejdlnmicpblpm.com^
+||kusjw4wqj.com^

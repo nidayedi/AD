@@ -1,7 +1,7 @@
-! Update on 2026-11-16 07:16:56 (Beijing Time)
-! Generated on 2026-11-16 07:16:56 (Beijing Time)
+! Update on 2026-11-17 10:13:03 (Beijing Time)
+! Generated on 2026-11-17 10:13:03 (Beijing Time)
 ! Foreign rules (Non-China IP location)
-! Total foreign rules: 255562
+! Total foreign rules: 255738
 
 ||venisonneddies.cfd^
 soranews24.com#@#.ad
@@ -255565,3 +255565,179 @@ euronews.com#%#//scriptlet('trusted-suppress-native-method', 'Element.prototype.
 ||omasumdeworm.click^
 ||zmddqosfwnsoc.space^
 ||areuxlnjiswdo.site^
+||pzeaknozkg.in^
+exeygo.com#%#//scriptlet('trusted-create-element', 'head', 'script', '', '(()=>{try{const f={detectAdblock:()=>Promise.resolve(false)},a=x=>{if(x&&(typeof x==="object"||typeof x==="function")){try{x.detectAdblock=f.detectAdblock;return x}catch(e){}}return f},k=x=>typeof x?.detectAdblock==="function";let v=k(window.vhit)?a(window.vhit):null;Object.defineProperty(window,"vhit",{configurable:true,get(){return v||f},set(x){v=k(x)?a(x):f}})}catch(e){}})();')
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$xmlhttprequest,domain=49ers.com|atlantafalcons.com|azcardinals.com|baltimoreravens.com|bengals.com|buccaneers.com|buffalobills.com|chargers.com|chicagobears.com|chiefs.com|clevelandbrowns.com|colts.com|commanders.com|dallascowboys.com|denverbroncos.com|detroitlions.com|giants.com|houstontexans.com|jaguars.com|miamidolphins.com|neworleanssaints.com|newyorkjets.com|nfl.com|packers.com|panthers.com|patriots.com|philadelphiaeagles.com|raiders.com|seahawks.com|steelers.com|tennesseetitans.com|therams.com|titansonline.com|vikings.com
+||ocrghebunvuc.in^
+||stupingromansh.rest^
+||zoedcholzenly.space^
+||toucanmaple.pro^
+||bentletairfoil.rest^
+||yrneqihyfhnpm.website^
+||awesomeoval.info^
+||lhdbsmankcnuj.online^
+||amazingfork.com^
+||vepuozmgxacpnj.com^
+webseriessex.com#%#//scriptlet('set-constant', 'vidorev_jav_plugin_video_ads_object', 'emptyObj')
+||letuthzxhyapr.space^
+||pfadviqifnwfe.online^
+||nusbubpitbm.in^
+groupdiy.com##.cmBP
+||dadvanwto.in^
+appleinsider.com,dappradar.com,euroweeklynews.com,metro.co.uk,tld-list.com,twitch-tools.rootonline.de,videocardz.com,wccftech.com##[rel*="sponsored"]
+gearspace.com##.pagetakeover_app
+leakgallery.com##.header-right > a.nopop[lggarde][target="_blank"]
+leakgallery.com##.media-shortcuts
+||s.cdn.gcprivacy.net/gcid_s.min.js
+||pcguide.com/wp-content/plugins/redefined-ads/
+exeygo.com#%#(()=>{try{const f={detectAdblock:()=>Promise.resolve(false)},a=x=>{if(x&&(typeof x==="object"||typeof x==="function")){try{x.detectAdblock=f.detectAdblock;return x}catch(e){}}return f},k=x=>typeof x?.detectAdblock==="function";let v=k(window.vhit)?a(window.vhit):null;Object.defineProperty(window,"vhit",{configurable:true,get(){return v||f},set(x){v=k(x)?a(x):f}})}catch(e){}})();
+leakgallery.com##app-header .nopop[style="display: contents !important;"]:not(a, div, section)
+||piknova.com/sponsor?
+||piknova.com/sponsor-images/
+audacy.com,blooloop.com##.placeholder-a-block
+||vlvosxkrbeiar.online^
+pcguide.com##.rdads
+heavy-r.com###topbar_promo
+||xeyiqgxsvuyzv.site^
+||trailwind.me^
+||vmovwtkgvbpkz.space^
+||kodakgynecic.cfd^
+||cviodrdpdlopm.online^
+||fghrnjvmoav.com^
+||tkxxnnzvjnhcv.website^
+||lqvhituxitzab.site^
+||ezvimalk.com^
+leakgallery.com##.lg-place-media
+||siwdomfivcc.com^
+||kbbebmrssgowy.space^
+||llvzuvmqkxkgd.space^
+||frigid-speech.com^
+||midspanwheeze.click^
+||beblearnovelet.rest^
+audacy.com,blooloop.com##.topbarplaceholder
+||qtishmlhazazy.site^
+producthunt.com###content > div:has(> img):not(:has(a))
+leakgallery.com##.shortcuts-title
+webseriessex.com,javrider.com##.other-ads-container
+||vutvrswvf.com^
+||deertulip.com^
+redtub.live#%#//scriptlet('prevent-setTimeout', '.clientHeight')
+||egqoauumfluxbf.com^
+||llyjwpmbhzuwe.website^
+||wauqlvilrunuc.site^
+producthunt.com##main > div[style*="cursor"]:has(> div > span[style])
+||fxjmayxrazoyq.online^
+||lddrxtxmpugjf.space^
+||abkagndabsa.in^
+||bbyypnqu.com^
+||ladsmnbkcsmts.online^
+||fauvistfreen.cfd^
+||electricbikes.com/api/ad-banners
+||api.leakgallery.com/cfg/decide?
+||dtzcispammqnd.online^
+||api.leakgallery.com/cfg/h|
+sector.sk###newsload > div[style*="text-align:"]:has(> a[onmouseover])
+usca.my903.com#%#//scriptlet('prevent-constructor', 'Promise', '/ats.js')
+||quoracdn.net/main-qimg-$domain=lauxanh.*|lauxanh.cv
+producthunt.com##[data-test^="homepage-section-"] > section[data-container]:has(a[href="#"])
+noon.com##div[class*="_emblaSlide_"]:has(div[class*="_labelContainer_"])
+||hhtizkpobmaoo.website^
+mortgageln.com,financeguidz.com,fitpractise.com,fapfapgames.com,pornosubtitula2.com,softdevelopp.com,fitnesstipz.com,stock-rom.com,xporn.to,kodibeginner.com,windbreaker.me,fazy.online,cricket12.com,stimotion.pl,thelastgamestandingexp.com,chart.services,moneysave.info,pornmz.com,yakisurume.com,tehnar.net.ua,rocdacier.com,audiotrip.org,flowsnet.com,brulosophy.com,reprezentacija.rs##body > div#page ~ div[id][class*=" "]
+||html-load.com^$script,important,domain=oricon.co.jp|doviz.com|boardingarea.com|welt.de|sourceforge.net|omnicalculator.com|divinedaolibrary.com|computerbild.de|deadline.com|nouvelobs.com|hollywoodreporter.com|variety.com|billboard.com|rollingstone.com|dnevnik.hr|akinator.com|helpdeskgeek.com|indiewire.com|wwd.com|sportico.com|exceljet.net|perezhilton.com|fossbytes.com|newatlas.com|songfacts.com|slideshare.net|nextchessmove.com|usaudiomart.com|toyokeizai.net|autobild.de|infinityfree.com|kuruma-news.jp|liveandletsfly.com|learnmetrics.com|tablefortwoblog.com|laurenslatest.com|jamjarkitchen.com|dinneratthezoo.com|cafedelites.com|julieseatsandtreats.com|chelseasmessyapron.com|dinnersdishesanddesserts.com|bunsinmyoven.com|realhousemoms.com|crayonsandcravings.com|bakeplaysmile.com|iambaker.net|thesoccermomblog.com|savvysavingcouple.net|bestfriendsforfrosting.com|thegunnysack.com|gonnawantseconds.com|redcurrantbakery.com|bab.la|dictionary.cambridge.org|oxfordlearnersdictionaries.com|homesicktexan.com|tipsandtricksjapan.com|andrewzimmern.com|collinsdictionary.com|mamastar.jp|seriouseats.com|liquor.com|simplyrecipes.com|thespruceeats.com|eatingwell.com|marthastewart.com|thoughtco.com|lifewire.com|ldoceonline.com|treehugger.com|myrecipes.com|lerobert.com|sussexexpress.co.uk|edinburghnews.scotsman.com|lejdd.fr|tips-and-tricks.co|foodandwine.com|thetruthaboutcars.com|dexerto.com|happyinshape.com|wort-suchen.de|woxikon.de|ukaudiomart.com|wielerrevue.nl|zeilen.nl|chloeting.com|nationalpost.com|fansided.com|dict.cc|onceuponachef.com|twopeasandtheirpod.com|bz-berlin.de|myhomebook.de|fitbook.de|techbook.de|travelbook.de|pons.com|inverse.com|windsorstar.com|canuckaudiomart.com|watchdocumentaries.com|manchesterworld.uk|9gag.com|egitim.net.tr|petbook.de|natalie.mu|crosswordsolver.com|merinfo.se|trafficnews.jp|otonanswer.jp|egolf.jp|scribd.com|calculatorsoup.com|hk01.com|itavisen.no|magmix.jp|edmontonjournal.com|urldecoder.org|base64decode.org|programme-tv.net|aussieaudiomart.com|girlschannel.net|montrealgazette.com|nemzetisport.hu|mrexcel.com|vague.style|thingiverse.com|alfalfalfa.com|pcgamebenchmark.com|skinmc.net|followfollow.com|oeffnungszeitenbuch.de|geo.fr|financialpost.com|canada.com|vancouversun.com|driving.ca|canoe.com|theprovince.com|calgaryherald.com|edmontonsun.com|athlonsports.com|thestarphoenix.com|leaderpost.com|tj.news|parade.com|elnacional.cat|livescience.com|buchstaben.com|torontosun.com|milestomemories.com|km77.com|vibe.com|goldderby.com|robbreport.com|hollywoodlife.com|gerbeaud.com|nationalreview.com|calgarysun.com|ottawacitizen.com|ottawasun.com|willyweather.com.au|urbandictionary.com|pcgamer.com|adrenaline.com.br|cybertruckownersclub.com|jlwranglerforums.com|upstyledaily.com|euronews.com|yorkshirepost.co.uk|247wallst.com|all-nationz.com|macheforum.com|broncosportforum.com|deltiasgaming.com|taycanforum.com|tvtv.us|automobile-catalog.com|index.hr|travelnoire.com|sunderlandecho.com|northernirelandworld.com|newcastleworld.com|majorleaguepickleball.co|blavity.com|afrotech.com|tipsandtrickskorea.com|cracked.com|cheezburger.com|fandom.com|pakkotoisto.com|portsmouth.co.uk|wargamer.com|pcgamesn.com|pockettactics.com|befa.lt|oraridiapertura24.it|hbrfrance.fr|football-ukraine.com|resultadostris.com|melaterevancha.com|higherorlowergame.com|cotemaison.fr|wordshake.com|motorsport.com|willyweather.com|hochi.news|glianec.com|windowscentral.com|tomshardware.com|motorbikecatalog.com|voici.fr|daily.co.jp|gamewith.jp|kurashiru.com|capital.fr|trilltrill.jp|mopo.de|tbsradio.jp|cardcluster.com|weerplaza.nl|gamebanana.com|macanevowners.com|tunebat.com|notebookcheck.com|notebookcheck.net|notebookcheck.org|notebookcheck.biz|notebookcheck.it|notebookcheck.nl|notebookcheck.pl|notebookcheck.info|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.se|notebookcheck-cn.com|notebookcheck-hu.com|onlineradiobox.com|lasisa.net|yorkshireeveningpost.co.uk|bike-news.jp|merkmal-biz.jp|onemileatatime.com|hna.de|f150lightningforum.com|nikkansports.com|gry-online.pl|saita-puls.com|coachweb.com|myinstants.com|zekamashi.net|looopings.nl|getnews.jp|manchestereveningnews.co.uk|netvasco.com.br|okuyami-information.com
+heavy-r.com#$#body.topbar_promo_active { margin-top: 0 !important; }
+||pkklaildzve.com^
+||nutmegreprise.rest^
+thairath.co.th##.ads-style
+@@||anymind360.com/js/*/ats.js$domain=usca.my903.com
+||iaxjbojcvpxkfd.com^
+||hmgculxdgrblr.space^
+||peacbsdjtncux.space^
+||01wgskp9y3.com^
+||cyafskdlykiou.online^
+||zcalriaktnko.in^
+leakgallery.com##app-bottom-strip
+||kddlmzqihdobsq.com^
+||anuzprlzvyxiq.space^
+||haredtengere.cfd^
+||b-cdn.net/ads/*.html^$subdocument
+||kfiqfearr.in^
+||rtttyluftwibw.online^
+||xihqafom.in^
+cpanel.infinityfree.com##.panel-widget:not([id]):has(> .panel-body > .text-center > ins.adsbygoogle)
+xmoviesforyou.top##.ads-submenu
+||breezybamboo.com^
+||ctfgamond.cfd^
+||hmmagmmfcrld.com^
+||gauppqextqqnf.space^
+@@||filmmakinesi.to^$stealth=ip
+gearspace.com,gleaks.pro,vi-control.net,nullforums.net,landyzone.co.uk,nullcave.pro,woxmax.com,waskucity.com,babia.to,technofino.in,reef2reef.com,minebbs.com,craxpro.io,affiliatefix.com,myiptvforum.com,hifivision.com,worldofiptv.com,altenen.is,beermoneyforum.com,germancarforum.com,cracking.org##.samBannerUnit
+||peohfoksclgpx.site^
+||purhhiokuyagu.space^
+||humming-family.com^
+gtaboom.com##.raptivetarget
+maps.roadtrippers.com##.rt-ad-container
+||hmicggepjcpph.space^
+||gracefulpony.info^
+thestandard.com.hk##.sidebar__lrec-container
+||lizasrvp.in^
+leakgallery.com##.lg-bandes::before
+||xowvrusaouqvnx.com^
+||justthegays.tv/ac.js^
+leakgallery.com#%#//scriptlet('json-prune', 'AD_DECISIONS')
+||mwnawoazqkejo.online^
+||xhxwfpwstsyyy.site^
+clashreport.com##.border-masthead-border.bg-off-white
+91cg1.com##.post-content > div[style="text-align:center;margin:20px 0;"]
+||czobtijuhx.in^
+lauxanh.cv,lauxanh.*##body .ad
+||nlbcmrtkphcjt.site^
+||91cg1.com/ssp/
+||iuizeepvkmqlt.site^
+||eediarian.cyou^
+||gvbekpgazjwy.com^
+||plinswjabkgql.com^
+buccaneers.com,nfl.com,newyorkjets.com,chicagobears.com,panthers.com,clevelandbrowns.com,dallascowboys.com,packers.com,neworleanssaints.com,seahawks.com,49ers.com,bengals.com,giants.com,buffalobills.com,vikings.com,therams.com,azcardinals.com,houstontexans.com,chiefs.com,tennesseetitans.com,patriots.com,miamidolphins.com,chargers.com,raiders.com,jaguars.com,colts.com,denverbroncos.com##.d3-c-adblock
+||lkcpqdfwlogsq.online^
+cleanip.io##section[data-nosnippet] > div > aside[class*="--"]
+cleanip.io##aside[data-nosnippet][class*="--"]
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=go.lnk.lt
+leakgallery.com##section.nav-group:has(> .partners-block)
+||7xjdieyglr.com^
+||1nqv0i1kk.com^
+||diimvugephzxs.space^
+thairath.co.th##body > div[class^="css-"]:not([aria-label]):has(> div[class^="css-"] > .slot-loaded)
+||uadforum.com/community/images/ua_ads/
+audacy.com##.rblad-aud_content
+tricitiesdispatch.com,thestraight.com.au##.iam-ad
+||pjuxtxwhkokva.online^
+||namebrain.org^
+thairath.co.th##div[class^="css-"]:not([aria-label]):has(> .slot-loaded)
+||zipzirim.com^
+leakgallery.com##app-media-view .nopop[style="display: contents !important;"]:not(a, div, section)
+||hbwlrpdrujdihe.com^
+||rbhkukiem.com^
+||rendingfrenal.click^
+||catfvjtimrvt.com^
+||keelsongluing.cyou^
+noon.com##div[id^="v-sensor-component-"]:has(> div[class*="_labelContainer_"])
+||lhgjmzitcbwvs.online^
+||wcrnkoqkmporz.site^
+||kafnwyjebjvii.space^
+||eamdorayfscon.website^
+||stisoehfehdlnv.com^
+||bwkqrlkhscfzh.website^
+||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,redirect=google-ima3-dai,domain=go.lnk.lt
+noon.com##div[id^="v-sensor-component-"]:has(> div[class*="_dynamicBannerWrapper_"] > div[class*="_dynamicBannerContainer_"] > div[class*="_labelContainer_"])
+manutd.one##.nz-ad-card
+||gotuhmmyaabfx.space^
+||gkufuebmzjbgs.space^
+||jeiosljpivujj.site^
+||smouseveiners.cfd^
+||zestykayak.com^
+||indiamaholi.cfd^
+||qboqyrdvroyzv.space^
+||zs68h9vow.com^
+watchporn.to##.fhm
+||swardywrite.rest^
+||681znub3xp.com^
+||enjihdh0t.com^

@@ -1,7 +1,7 @@
-! Update on 2026-11-19 08:50:55 (Beijing Time)
-! Generated on 2026-11-19 08:50:55 (Beijing Time)
+! Update on 2026-11-20 08:58:35 (Beijing Time)
+! Generated on 2026-11-20 08:58:35 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29068
+! Total domestic rules: 29069
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29071,3 +29071,4 @@ brm.co.nz,operawire.com,penangpropertytalk.com##div[id^="advads-"]
 17yoo.cn##.popup[data-popup="placement"]
 17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yoo.cn#%#//scriptlet('trusted-json-set', 'Object.prototype.hasOwnProperty', '$.adData.*', '$remove$', '', 'this', 'setState')
+||6uw4lcf0qu.com^

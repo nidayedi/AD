@@ -1,7 +1,7 @@
-! Update on 2026-11-21 08:31:51 (Beijing Time)
-! Generated on 2026-11-21 08:31:51 (Beijing Time)
+! Update on 2026-11-22 07:39:30 (Beijing Time)
+! Generated on 2026-11-22 07:39:30 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29069
+! Total domestic rules: 29140
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29072,3 +29072,74 @@ brm.co.nz,operawire.com,penangpropertytalk.com##div[id^="advads-"]
 17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yoo.cn#%#//scriptlet('trusted-json-set', 'Object.prototype.hasOwnProperty', '$.adData.*', '$remove$', '', 'this', 'setState')
 ||6uw4lcf0qu.com^
+iqiyi.com##div[class*="m-iqiyi-common-banner"]
+m.autohome.com.cn##div[class*="tw-w-[90px]"][class*="tw-h-7"]
+m.58.com##.toapp
+m.58.com##.qa-openapp
+lianjia.com##a.navbar-download
+m.hupu.com##.tabs-component-search-app
+xueqiu.com##div[class*="widget__download-app"]
+iqiyi.com##div[class*="m-common-banner-content"]
+smzdm.com#?#a:-abp-contains(打开APP)
+dianping.com##.buttom-wrap
+m.58.com##.applaunce_item_wrap
+mgtv.com##.top-header-v2-actions__item--client
+dewu.com##.footerTopRight
+m.autohome.com.cn##div.mtopbar#series-topbar
+3g.163.com#?#article.card-type-news.news-card:-abp-contains(打开APP)
+zol.com.cn##.tools-nav__downApp
+jprime.jp##body > .l-main:style(margin-top: -160px !important;)
+dianping.com##div[class*="NoteBottomnav_buttom-wrap"]
+m.58.com##.download-bar
+dewu.com##.openApp
+baijiahao.baidu.com#?#span:-abp-contains(打开APP)
+juejin.cn##.open-button.app-open-button
+dianping.com##div[class*="NoteBottomnav_bottom-fix"]
+dewu.com##.pinxuan
+m.autohome.com.cn##div[class*="tw-w-[72px]"][class*="tw-h-7"]
+dianping.com##.open-app-button
+58.com##div#commonTopbar_appQR
+taobao.com#?#button:-abp-contains(打开手机淘宝)
+17yoo.cn,4399pk.com,cardu.com.tw,cava.tw,cw.com.tw,downkr.com,eservice.7-11.com.tw,hk.on.cc,liaoningmovie.net,papalah.com,share.acgnx.se,vikacg.com##.banner
+autohome.com.cn##div[class*="tw-group"][class*="tw-ml-4"]
+finance.sina.com.cn#?#.clearfix.tech-quotation:-abp-contains(下载客户端)
+dianping.com##.bottom-fix
+dianping.com##div[class*="comment-open-app"]
+smzdm.com#?#li:-abp-has(i.icon-mobile)
+m.58.com##.bottom-fixed-miniapp-button
+dewu.com##div[class*="openAppBtn"]
+pingwest.com#?#a[href="https://s.growingio.com/LWqRgA"]:-abp-contains(打开APP)
+sina.cn##.btn-subpage-bottom-callup
+58.com##div.rightbtn.app
+iqiyi.com##.m-list-app
+hupu.com##ul.hp-quickNav > li:nth-child(-n+4)
+iqiyi.com##div[class*="commonTips_downloadClientFloat"]
+m.hupu.com##section.footer
+jprime.jp##body:style(padding-bottom: 0px !important;)
+dianping.com###openAppLaunchModalPC
+m.58.com##div[class*="index-module_button"]
+baijiahao.baidu.com#?#.layer-item:-abp-contains(百度)
+mgtv.com##li#appdown
+m.58.com##div[class*="OpenInAppBarWrap"]
+xueqiu.com##li[class*="setting"][class*="download"]
+www.qianwen.com#?#button:-abp-contains(下载电脑版)
+58.com##li#wubaApp
+douyin.com#?#[data-e2e="douyin-navigation"] > div:first-child > div:-abp-contains(手机随时看更方便)
+sina.cn#?#article.single-pic.article:-abp-contains(APP专享)
+m.autohome.com.cn##div[class*="style_btn_breath_scale"]
+ntv.cx,ntv.st,ntvs.cx###hdrStripWrap
+hupu.com##div.download-app
+baijiahao.baidu.com#?#div.layer-item:-abp-contains(打开)
+tieba.baidu.com#?#.more-btn-desc:-abp-contains(打开APP)
+jianshu.com#?#div[role="button"]:-abp-contains(抽奖)
+dianping.com##div[class*="header-open-app-wrap"]
+douyin.com##button[class*="navBtn"]
+ke.com##a.navbar-download
+baijiahao.baidu.com#?#span:-abp-contains(打开百度APP)
+dianping.com##.open-app-plugin-qrcode-pc
+fujinkoron.jp##.ad-instream-google
+dewu.com##a.download
+autohome.com.cn##li#auto-header-app
+jprime.jp##body > .l-header:style(margin-top: -160px !important;)
+m.hupu.com##.open-hupu
+sina.cn#?#.m_f_a_r:-abp-contains(打开APP)

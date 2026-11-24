@@ -1,7 +1,7 @@
-! Update on 2026-11-23 07:56:53 (Beijing Time)
-! Generated on 2026-11-23 07:56:53 (Beijing Time)
+! Update on 2026-11-24 12:08:02 (Beijing Time)
+! Generated on 2026-11-24 12:08:02 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29140
+! Total domestic rules: 29156
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29143,3 +29143,19 @@ autohome.com.cn##li#auto-header-app
 jprime.jp##body > .l-header:style(margin-top: -160px !important;)
 m.hupu.com##.open-hupu
 sina.cn#?#.m_f_a_r:-abp-contains(打开APP)
+||xml-eu.srqck1.com^
+||xml-eu-v4.srqck1.com^
+||click-eu-v4.junimedclk.com^
+||xml-eu-v4.srvqk4.com^
+||xml-eu-v4.flow-mark.online^
+||dyv86qq19o.com^
+||click-eu-v4.explclk.com^
+||xml-eu.high-on-ads.com^
+ntv.cx,ntv.st,ntvs.cx##.ntv-overlay:style(display: none !important;)
+||xml-eu.srvqk4.com^
+||xml-eu-v4.ironcast-core.pro^
+||xml-eu-v4.routead.com^
+||rtb-eu-v4.bidargo.com^
+blog.csdn.net##.simple-ad-slot
+||filter-eu.srqck1.com^
+||j31pozck4v.com^

@@ -1,7 +1,7 @@
-! Update on 2026-11-24 12:08:02 (Beijing Time)
-! Generated on 2026-11-24 12:08:02 (Beijing Time)
+! Update on 2026-11-25 10:51:43 (Beijing Time)
+! Generated on 2026-11-25 10:51:43 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29156
+! Total domestic rules: 29159
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29159,3 +29159,6 @@ ntv.cx,ntv.st,ntvs.cx##.ntv-overlay:style(display: none !important;)
 blog.csdn.net##.simple-ad-slot
 ||filter-eu.srqck1.com^
 ||j31pozck4v.com^
+||fqfhznr3qn.com^
+||49ivw88hj9.com^
+||ajc1d0k4nr.com^

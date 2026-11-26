@@ -1,7 +1,7 @@
-! Update on 2026-11-25 10:51:43 (Beijing Time)
-! Generated on 2026-11-25 10:51:43 (Beijing Time)
+! Update on 2026-11-26 10:00:02 (Beijing Time)
+! Generated on 2026-11-26 10:00:02 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29159
+! Total domestic rules: 29163
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29162,3 +29162,7 @@ blog.csdn.net##.simple-ad-slot
 ||fqfhznr3qn.com^
 ||49ivw88hj9.com^
 ||ajc1d0k4nr.com^
+||uaazwczowtfswj.com^
+||sdgugmgkcwtaij.com^
+||jsdelivr.net/gh/prebid/
+map.baidu.com###message-center-panel:has(> span.message-ad-tag)

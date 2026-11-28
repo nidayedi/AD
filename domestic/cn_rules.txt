@@ -1,7 +1,7 @@
-! Update on 2026-11-27 10:00:07 (Beijing Time)
-! Generated on 2026-11-27 10:00:07 (Beijing Time)
+! Update on 2026-11-28 09:44:00 (Beijing Time)
+! Generated on 2026-11-28 09:44:00 (Beijing Time)
 ! Domestic rules (China IP location)
-! Total domestic rules: 29166
+! Total domestic rules: 29168
 
 ||jecromaha.info^
 ||jyozavobzrekb.top^
@@ -29169,3 +29169,5 @@ map.baidu.com###message-center-panel:has(> span.message-ad-tag)
 thanhnien.vn##.sidebar > div:has(> div[id^="dablewidget_"])
 ekitan.com##.member-pass-ad
 ||forward.ekitan.com/tags
+||ygcmsecmzzhaup.com^
+||sbvpsl7wxa.com^
